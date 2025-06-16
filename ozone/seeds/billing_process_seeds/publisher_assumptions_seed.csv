@@ -1,6 +1,7 @@
 revenue_code,status,business_unit,publisher,product,sub_product,ozone_fee,fee_calc,data_contribution_percent,bid_adjustment,avg_data_share_percent,valid_from
 B1,live,ozone,stylist,biddable management,biddable management,0.2,eom,0,1,0,2023-09-20
 B1,live,ozone,stylist,biddable management,biddable management,0.2,eom,0.1,0.5,0.1,2025-06-16
+B1,live,ozone,stylist,biddable management,biddable management,0.3,eom,0.2,0.5,0.1,2025-06-16
 RC1,live,ozone,accuweather,managed,beeswax,0.36,run-time,0.3,0.448,0,2024-12-12
 RC1,live,ozone,arkadium,managed,beeswax,0.36,run-time,0.3,0.448,0,2025-04-18
 RC1,live,ozone,asian media group,managed,beeswax,0.3,eom,0.3,1,,2024-10-30
