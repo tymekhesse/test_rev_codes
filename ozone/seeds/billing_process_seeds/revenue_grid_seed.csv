@@ -1,0 +1,567 @@
+revenue_code,status,business_unit,product_family,product,sub_product,primary_contractor,seat_name,deal_exists,deal_prefix,seat_id,marketplace,platform_fee_metric,platform_fee_value,gross_bid,product_demand_type,product_fee_tiers
+B1,live,ozone,biddable management,biddable management,biddable management,ozone,,,,,,,,,ozone biddable management,biddable management
+RC1,live,ozone,premium,managed,beeswax,ozone,"ozbeeswax, ozbeeswaxv, ozbeeswaxiv, ozbeeswaxibv",FALSE,,,,saas,,,ozone managed demand,audience +
+RC2,live,ozone,premium,managed,complex formats,ozone,"ozappnexus, ozxandrv, ozxandriv",FALSE,,9979,,cpm_usd,0.05,,ozone managed demand,audience +
+RC3,live,ozone,premium,managed,publisher managed,ozone,,FALSE,,,,,,,ozone managed demand,audience +
+RC4,in_validation,ozone,premium,managed,publisher inventory pmp,ozone,,FALSE,,,,,,,ozone managed demand,audience +
+RC5,live,ozone,programmatic,marketplace,groupm arq,ozone & publisher,"gmpd, gmpdv",FALSE,,,,,,,ozone managed demand,audience +
+RC6,in_validation,ozone,premium,managed,groupm pd,ozone & publisher,,FALSE,,,,,,,ozone managed demand,context +
+RC7,live,ozone,programmatic,deals,audience deals (xandr),ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,brand*,,,revenue_share,0.06,,ozone managed demand,audience +
+RC8,live,ozone,programmatic,deals,inventory only deals (xandr),ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,perf*,,,revenue_share,0.06,,ozone managed demand,audience +
+RC9,live,ozone,programmatic,deals,contextual deals (xandr),ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,cntx*,,,revenue_share,0.06,,ozone managed demand,audience +
+RC10,live,ozone,programmatic,deals,audience deals (openx),ozone,"ozopenx, ozopenxv, ozopenxiv",TRUE,*ozo*,,,revenue_share,0.05,1,ozone managed demand,audience +
+RC11,in_validation,ozone,programmatic,deals,inventory only deals (openx),ozone,,FALSE,,,,revenue_share,0.05,1,ozone managed demand,context +
+RC12,in_validation,ozone,programmatic,deals,contextual deals (openx),ozone,,FALSE,,,,revenue_share,0.05,1,ozone managed demand,context +
+RC13,live,ozone,programmatic,marketplace,groupm biddable,ozone,"gmbid, gmbidv",,,,,,,,ozone managed demand,context +
+RC14,live,ozone,programmatic,marketplace,audience deals (omg),ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,omdb*,,,,,,ozone managed demand,audience +
+RC15,live,ozone,programmatic,marketplace,inventory only deals (omg),ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,omdp*,,,,,,ozone managed demand,context +
+RC16,live,ozone,programmatic,marketplace,contextual deals (omg),ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,omdc*,,,,,,ozone managed demand,context +
+RC17,live,ozone,programmatic,marketplace,publisher deals (omg),ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,omdf*,,,,,,ozone managed demand,context +
+RC18,in_validation,ozone,programmatic,marketplace,audience deals (dan),ozone,,,,,,revenue_share,0.08,,ozone managed demand,audience +
+RC19,live,ozone,programmatic,marketplace,inventory only marketplace (dan),ozone,"ozgrid, ozgridv",TRUE,g-dentsu% or g-avidmedia%,,,revenue_share,0.08,,ozone managed demand,context +
+RC20,in_validation,ozone,programmatic,marketplace,contextual deals (dan),ozone,,,,,,revenue_share,0.08,,ozone managed demand,context +
+RC21,in_validation,ozone,programmatic,marketplace,publisher deals (dan),ozone,,,,,,revenue_share,0.08,,ozone managed demand,context +
+RC22,live,ozone,programmatic,marketplace,audience deals (publicis),ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,pcsb*,,,revenue_share,0.06,,ozone managed demand,audience +
+RC23,live,ozone,programmatic,marketplace,inventory only deals (publicis),ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,pcsp*,,,revenue_share,0.06,,ozone managed demand,context +
+RC24,live,ozone,programmatic,marketplace,contextual deals (publicis),ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,pcsc*,,,revenue_share,0.06,,ozone managed demand,context +
+RC25,live,ozone,programmatic,marketplace,publisher deals (publicis),ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,pcsf*,,,revenue_share,0.06,,ozone managed demand,context +
+RC26,live,ozone,programmatic,marketplace,audience deals (merkle),ozone,"ozpubmatic, ozpubmv, ozpubmiv",TRUE,mklb*,,,revenue_share,,,ozone managed demand,audience +
+RC27,live,ozone,programmatic,marketplace,inventory only deals (merkle),ozone,"ozpubmatic, ozpubmv, ozpubmiv",TRUE,mklp*,,,revenue_share,,,ozone managed demand,context +
+RC28,live,ozone,programmatic,marketplace,contextual deals (merkle),ozone,"ozpubmatic, ozpubmv, ozpubmiv",TRUE,mklc*,,,revenue_share,,,ozone managed demand,context +
+RC29,live,ozone,programmatic,marketplace,publisher deals (merkle),ozone,"ozpubmatic, ozpubmv, ozpubmiv",TRUE,mklf*,,,revenue_share,,,ozone managed demand,context +
+RC30,live,ozone,programmatic,marketplace,audience deals (havas),ozone,"ozpubmatic, ozpubmv, ozpubmiv",TRUE,hvsb*,,,revenue_share,0.065,,ozone managed demand,audience +
+RC31,live,ozone,programmatic,marketplace,inventory only deals (havas),ozone,"ozpubmatic, ozpubmv, ozpubmiv",TRUE,hvsp*,,,revenue_share,0.065,,ozone managed demand,context +
+RC32,live,ozone,programmatic,marketplace,contextual deals (havas),ozone,"ozpubmatic, ozpubmv, ozpubmiv",TRUE,hvsc*,,,revenue_share,0.065,,ozone managed demand,context +
+RC33,live,ozone,programmatic,marketplace,publisher deals (havas),ozone,"ozpubmatic, ozpubmv, ozpubmiv",TRUE,hvsf*,,,revenue_share,0.065,,ozone managed demand,context +
+RC34,in_validation,ozone,programmatic,marketplace,ozone ad manager,ozone,,,,,,,,,ozone managed demand,audience +
+RC35,in_validation,ozone,programmatic,marketplace,ozone ad manager,ozone,,,,,,,,,ozone managed demand,context +
+RC36,in_validation,ozone,programmatic,marketplace,ozone ad manager,ozone,,,,,,,,,ozone managed demand,context +
+RC37,live,ozone,programmatic,ozone omp,xandr context,ozone,"ozappnexus, ozxandrv, ozxandriv",FALSE,,"not in (668, 2333, 831, 11169, 1112, 10791, 9979)",,revenue_share,0.09,,ozone managed demand,context
+RC38,live,ozone,programmatic,ozone omp,avocet,ozone,ozavocet,FALSE,,,,,,,ozone managed demand,context
+RC39,live,ozone,programmatic,ozone omp,adform,ozone,ozadform,FALSE,,,,revenue_share,0.1,,ozone managed demand,context
+RC40,live,ozone,programmatic,ozone omp,districtm,ozone,ozdmx,FALSE,,,,revenue_share,0.1,,ozone managed demand,context
+RC41,live,ozone,programmatic,ozone omp,improve,ozone,ozimprove,FALSE,,,,revenue_share,0.09,1,ozone managed demand,context
+RC42,in_validation,ozone,programmatic,ozone pmp,improve,ozone,ozimprove,TRUE,*,,,cpm_gbp,0.12,,ozone managed demand,context +
+RC43,live,telegraph,premium,publisher direct,direct io,tmg,,,,,,,,,publisher managed demand,publisher-omp
+RC44,live,saas,saas,publisher omp,lmc (xandr),lmc,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC45,live,saas,saas,publisher pmp,lmc (xandr),lmc,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC46,live,saas,saas,publisher omp,dmgt (xandr),dmgt,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC47,live,saas,saas,publisher pmp,dmgt (xandr),dmgt,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC48,live,saas,saas,publisher omp,dmgt (magnite),dmgt,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC49,live,saas,saas,publisher pmp,dmgt (magnite),dmgt,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC50,live,saas,saas,publisher omp,dmgt (pubmatic ),dmgt,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC51,live,saas,saas,publisher pmp,dmgt (pubmatic ),dmgt,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC52,live,saas,saas,publisher omp,dmgt (openx),dmgt,"openx, openxv, openxiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC53,live,saas,saas,publisher pmp,dmgt (openx),dmgt,"openx, openxv, openxiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC54,live,saas,saas,publisher omp,dmgt (index),dmgt,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC55,live,saas,saas,publisher pmp,dmgt (index),dmgt,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC56,live,saas,saas,publisher omp,cpex (xandr),cpex,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC57,live,saas,saas,publisher pmp,cpex (xandr),cpex,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC58,live,saas,saas,publisher omp,cpex (pubmatic ),cpex,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC59,live,saas,saas,publisher pmp,cpex (pubmatic ),cpex,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC60,live,saas,saas,publisher omp,cpex (magnite),cpex,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC61,live,saas,saas,publisher pmp,cpex (magnite),cpex,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC62,live,news,programmatic,publisher omp,news (google),news uk,,FALSE,,,,revenue_share,0.15,,publisher managed demand,publisher-omp
+RC63,live,news,programmatic,publisher pmp,news (google),news uk,,FALSE,,,,revenue_share,0.08,,publisher managed demand,publisher-pmp
+RC64,live,news,programmatic,publisher pd,news (google),news uk,,FALSE,,,,revenue_share,0.08,,publisher managed demand,publisher-omp
+RC65,live,news,programmatic,publisher pg,news (google),news uk,,FALSE,,,,revenue_share,0.05,,publisher managed demand,publisher-omp
+RC66,live,news,programmatic,publisher omp,news (xandr),news uk,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,0.05,,publisher managed demand,publisher-omp
+RC67,live,news,programmatic,publisher pmp,news (xandr),news uk,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,0.05,,publisher managed demand,publisher-pmp
+RC68,live,news,programmatic,publisher omp,news (xandr),news uk,,FALSE,,,,revenue_share,0.05,,publisher managed demand,publisher-omp
+RC69,live,news,programmatic,publisher pmp,news (xandr),news uk,,FALSE,,,,revenue_share,0.05,,publisher managed demand,publisher-pmp
+RC70,live,news,programmatic,publisher omp,news (pubmatic),news uk,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,0.08,,publisher managed demand,publisher-omp
+RC71,live,news,programmatic,publisher pmp,news (pubmatic),news uk,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,0.08,,publisher managed demand,publisher-pmp
+RC72,live,news,programmatic,publisher omp,news (pubmatic),news uk,,FALSE,,,,revenue_share,0.08,,publisher managed demand,publisher-omp
+RC73,live,news,programmatic,publisher pmp,news (pubmatic),news uk,,FALSE,,,,revenue_share,0.08,,publisher managed demand,publisher-pmp
+RC74,live,news,programmatic,publisher omp,news (magnite),news uk,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-omp
+RC75,live,news,programmatic,publisher pmp,news (magnite),news uk,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,0.1,,publisher managed demand,publisher-pmp
+RC76,live,news,programmatic,publisher omp,news (magnite),news uk,,FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-omp
+RC77,live,news,programmatic,publisher pmp,news (magnite),news uk,,FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-pmp
+RC78,live,news,programmatic,publisher omp,news (index exchange),news uk,"ix, ixv, ixiv",FALSE,,,,revenue_share,0.13,,publisher managed demand,publisher-omp
+RC79,live,news,programmatic,publisher pmp,news (index exchange),news uk,"ix, ixv, ixiv",TRUE,*,,,revenue_share,0.05,,publisher managed demand,publisher-pmp
+RC80,live,news,programmatic,publisher omp,news (index exchange),news uk,,FALSE,,,,revenue_share,0.13,,publisher managed demand,publisher-omp
+RC81,live,news,programmatic,publisher pmp,news (index exchange),news uk,,FALSE,,,,revenue_share,0.05,,publisher managed demand,publisher-pmp
+RC82,live,news,programmatic,publisher omp,news (triplelift),news uk,,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC83,live,news,programmatic,publisher omp,news (verizon),news uk,,FALSE,,,,revenue_share,0.15,,publisher managed demand,publisher-omp
+RC84,live,news,programmatic,publisher omp,news (criteo),news uk,,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC85,live,news,programmatic,publisher omp,news (openx),news uk,"openx, openxv, openxiv",FALSE,,,,revenue_share,0.15,,publisher managed demand,publisher-omp
+RC86,live,news,programmatic,publisher pmp,news (openx),news uk,"openx, openxv, openxiv",TRUE,*,,,revenue_share,0.15,,publisher managed demand,publisher-pmp
+RC87,live,news,programmatic,publisher omp,news (openx),news uk,,FALSE,,,,revenue_share,0.15,,publisher managed demand,publisher-omp
+RC88,live,news,programmatic,publisher pmp,news (openx),news uk,,FALSE,,,,revenue_share,0.15,,publisher managed demand,publisher-pmp
+RC89,live,news,programmatic,publisher omp,news (improve),news uk,improve,FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-omp
+RC90,live,news,programmatic,publisher pmp,news (improve),news uk,improve,TRUE,*,,,revenue_share,0.1,,publisher managed demand,publisher-pmp
+RC91,live,news,programmatic,publisher omp,news (sovrn),news uk,,FALSE,,,,revenue_share,0.14,,publisher managed demand,publisher-omp
+RC92,,news,programmatic,direct bidder,amazon (tam),news uk,,FALSE,,,,,,,publisher managed demand,publisher-omp
+RC93,deprecated,news,programmatic,publisher integration,groupm bidder delete,news uk,duplicate of row 18?,FALSE,,,,,,,publisher managed demand,publisher-omp
+RC94,live,news,programmatic,publisher omp,news (ad you like),news uk,,FALSE,,,,revenue_share,0.3,,publisher managed demand,publisher-omp
+RC95,live,news,programmatic,publisher omp,news (teads (display)),news uk,,FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-omp
+RC96,live,news,programmatic,publisher omp,news (yieldmo),news uk,,FALSE,,,,,,,publisher managed demand,publisher-omp
+RC97,live,news,programmatic,publisher omp,news (inskin),news uk,,FALSE,,,,,,,publisher managed demand,publisher-omp
+RC98,live,news,programmatic,publisher omp,news (sublime),news uk,,FALSE,,,,,,,publisher managed demand,publisher-omp
+RC99,live,news,programmatic,publisher omp,news (emx),news uk,,FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-omp
+RC100,live,news,programmatic,publisher omp,news (smart),news uk,,FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-omp
+RC101,live,news,programmatic,video partner,news (spotx (video)),news uk,,FALSE,,,,revenue_share,0.14,,publisher managed demand,publisher-omp
+RC102,live,news,programmatic,publisher omp,news (districtm),news uk,dmx,FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-omp
+RC103,live,news,programmatic,publisher omp,news (33 across),news uk,,FALSE,,,,,,,publisher managed demand,publisher-omp
+RC104,live,news,programmatic,publisher pg,news (adslot (pg)),news uk,,FALSE,,,,,,,publisher managed demand,publisher-omp
+RC105,live,news,programmatic,publisher omp,news (dianomi),news uk,,FALSE,,,,revenue_share,0.05,,publisher managed demand,publisher-omp
+RC106,live,news,programmatic,outstream video partner,news (select media (outstream)),news uk,,FALSE,,,,,,,publisher managed demand,publisher-omp
+RC107,live,news,programmatic,outstream video partner,news (unruly (outstream)),news uk,,FALSE,,,,,,,publisher managed demand,publisher-omp
+RC108,live,news,programmatic,outstream video partner,news (video intelligence (outstream)),news uk,,FALSE,,,,,,,publisher managed demand,publisher-omp
+RC109,live,telegraph,programmatic,publisher omp,tmg (adx),telegraph,,FALSE,,,,revenue_share,0.2,,publisher managed demand,publisher-omp
+RC110,live,telegraph,programmatic,publisher pmp,tmg (adx),telegraph,,FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-pmp
+RC111,live,telegraph,programmatic,publisher pd,tmg (adx),telegraph,,FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-omp
+RC112,live,telegraph,programmatic,publisher pg,tmg (adx),telegraph,,FALSE,,,,revenue_share,0.05,,publisher managed demand,publisher-omp
+RC113,live,telegraph,programmatic,publisher omp,tmg (xandr),telegraph,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-omp
+RC114,live,telegraph,programmatic,publisher pmp,tmg (xandr),telegraph,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,0.1,,publisher managed demand,publisher-pmp
+RC115,live,telegraph,programmatic,publisher omp,tmg (xandr),telegraph,,FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-omp
+RC116,live,telegraph,programmatic,publisher pmp,tmg (xandr),telegraph,,FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-pmp
+RC117,live,telegraph,programmatic,publisher omp,tmg (pubmatic),telegraph,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-omp
+RC118,live,telegraph,programmatic,publisher pmp,tmg (pubmatic),telegraph,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,0.1,,publisher managed demand,publisher-pmp
+RC119,live,telegraph,programmatic,publisher omp,tmg (pubmatic),telegraph,,FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-omp
+RC120,live,telegraph,programmatic,publisher pmp,tmg (pubmatic),telegraph,,FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-pmp
+RC121,live,telegraph,programmatic,publisher omp,tmg (magnite),telegraph,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,0.1,1,publisher managed demand,publisher-omp
+RC122,live,telegraph,programmatic,publisher pmp,tmg (magnite),telegraph,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,0.1,1,publisher managed demand,publisher-pmp
+RC123,live,telegraph,programmatic,publisher omp,tmg (magnite),telegraph,,FALSE,,,,revenue_share,0.1,1,publisher managed demand,publisher-omp
+RC124,live,telegraph,programmatic,publisher pmp,tmg (magnite),telegraph,,FALSE,,,,revenue_share,0.1,1,publisher managed demand,publisher-pmp
+RC125,live,telegraph,programmatic,publisher omp,tmg (index exchange),telegraph,,FALSE,,,,revenue_share,0.2,,publisher managed demand,publisher-omp
+RC126,live,telegraph,programmatic,publisher pmp,tmg (index exchange),telegraph,,FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-pmp
+RC127,live,telegraph,programmatic,publisher omp,tmg (triplelift),telegraph,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,0,,publisher managed demand,publisher-omp
+RC128,live,telegraph,programmatic,publisher pmp,tmg (triplelift),telegraph,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,0.1,,publisher managed demand,publisher-pmp
+RC129,live,telegraph,programmatic,publisher omp,tmg (triplelift),telegraph,,FALSE,,,,revenue_share,0,,publisher managed demand,publisher-omp
+RC130,live,telegraph,programmatic,publisher pmp,tmg (triplelift),telegraph,,FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-pmp
+RC131,live,telegraph,programmatic,publisher omp,tmg (teads (+unruly?)),telegraph,,FALSE,,,,revenue_share,0,,publisher managed demand,publisher-omp
+RC132,deprecated,telegraph,programmatic,publisher integration,tmg (groupm bidder delete),telegraph,duplicate of row 18?,,,,,,0,,publisher managed demand,publisher-omp
+RC133,live,telegraph,programmatic,publisher omp,tmg (criteo),telegraph,,FALSE,,,,revenue_share,0,,publisher managed demand,publisher-omp
+RC134,live,telegraph,programmatic,publisher omp,tmg (openx),telegraph,"openx, openxv, openxiv",FALSE,,,,revenue_share,0.2,,publisher managed demand,publisher-omp
+RC135,live,telegraph,programmatic,publisher pmp,tmg (openx),telegraph,"openx, openxv, openxiv",TRUE,*,,,revenue_share,0.15,,publisher managed demand,publisher-pmp
+RC136,live,telegraph,programmatic,publisher omp,tmg (openx),telegraph,,FALSE,,,,revenue_share,0.2,,publisher managed demand,publisher-omp
+RC137,live,telegraph,programmatic,publisher pmp,tmg (openx),telegraph,,FALSE,,,,revenue_share,0.15,,publisher managed demand,publisher-pmp
+RC138,live,saas,programmatic,publisher omp,reach (xandr),reach,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC139,live,saas,programmatic,publisher pmp,reach (xandr),reach,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC140,live,saas,programmatic,publisher omp,reach (openx),reach,"openx, openxv, openxiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC141,live,saas,programmatic,publisher pmp,reach (openx),reach,"openx, openxv, openxiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC142,live,saas,programmatic,publisher omp,reach (rubicon),reach,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC143,live,saas,programmatic,publisher pmp,reach (rubicon),reach,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC144,live,saas,programmatic,publisher omp,reach (pubmatic),reach,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC145,live,saas,programmatic,publisher pmp,reach (pubmatic),reach,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC146,live,saas,programmatic,publisher omp,guardian (xandr),guardian,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC147,live,saas,programmatic,publisher pmp,guardian (xandr),guardian,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC148,live,saas,programmatic,publisher omp,guardian (openx),guardian,"openx, openxv, openxiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC149,live,saas,programmatic,publisher pmp,guardian (openx),guardian,"openx, openxv, openxiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC150,live,saas,programmatic,publisher omp,guardian (pangaea),guardian,pangaea,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC151,live,saas,programmatic,publisher pmp,guardian (pangaea),guardian,pangaea,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC152,live,saas,programmatic,publisher omp,bauer (xandr),bauer,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC153,live,saas,programmatic,publisher pmp,bauer (xandr),bauer,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC154,deprecated,saas,programmatic,publisher omp,bauer (openx),bauer,"openx, openxv, openxiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC155,deprecated,saas,programmatic,publisher pmp,bauer (openx),bauer,"openx, openxv, openxiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC156,live,saas,programmatic,publisher omp,bauer (rubicon),bauer,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC157,live,saas,programmatic,publisher pmp,bauer (rubicon),bauer,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC158,live,saas,programmatic,publisher omp,bauer (pubmatic),bauer,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC159,live,saas,programmatic,publisher pmp,bauer (pubmatic),bauer,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC160,live,saas,programmatic,publisher omp,stylist (xandr),stylist,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC161,live,saas,programmatic,publisher pmp,stylist (xandr),stylist,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC162,live,saas,programmatic,publisher omp,stylist (openx),stylist,"openx, openxv, openxiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC163,live,saas,programmatic,publisher pmp,stylist (openx),stylist,"openx, openxv, openxiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC164,live,news,premium,publisher direct,direct io,news uk,,FALSE,,,,,,,publisher managed demand,publisher-omp
+RC165,live,news,programmatic,publisher omp,news (districtm),news uk,,FALSE,,,,revenue_share,0.1,,publisher managed demand,publisher-omp
+RC166,live,saas,programmatic,publisher omp,bauer (triplelift),bauer,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC167,live,saas,programmatic,publisher pmp,bauer (triplelift),bauer,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC168,live,ozone,programmatic,marketplace,audience deals (multibuyer) - xandr,ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,ozmb*,,,revenue_share,0.06,,ozone managed demand,audience +
+RC169,live,ozone,programmatic,marketplace,inventory only deals (multibuyer) - xandr,ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,ozmp*,,,revenue_share,0.06,,ozone managed demand,context +
+RC170,live,ozone,programmatic,marketplace,contextual deals (multibuyer)- xandr,ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,ozmc*,,,revenue_share,0.06,,ozone managed demand,context +
+RC171,live,ozone,programmatic,marketplace,publisher deals (multibuyer)- xandr,ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,ozmf*,,,revenue_share,0.06,,ozone managed demand,context +
+RC172,live,ozone,programmatic,ozone omp,openx,ozone,"ozopenx, ozopenxv, ozopenxiv",FALSE,,,,revenue_share,0.12,1,ozone managed demand,context
+RC173,live,ozone,programmatic,deals,inventory only deals (multibuyer) - pubmatic,ozone,"ozpubmatic, ozpubmv, ozpubmiv",TRUE,ozmp*,,,revenue_share,0.065,,ozone managed demand,audience +
+RC174,live,ozone,programmatic,deals,contextual deals (multibuyer) - pubmatic,ozone,"ozpubmatic, ozpubmv, ozpubmiv",TRUE,ozmc*,,,revenue_share,0.065,,ozone managed demand,audience +
+RC175,live,ozone,programmatic,deals,publisher deals (multibuyer) - pubmatic,ozone,"ozpubmatic, ozpubmv, ozpubmiv",TRUE,ozmf*,,,revenue_share,0.065,,ozone managed demand,audience +
+RC176,live,ozone,programmatic,ozone omp,pubmatic,ozone,"ozpubmatic, ozpubmv, ozpubmiv",FALSE,,,,revenue_share,0.1,,ozone managed demand,context
+RC177,live,ozone,programmatic,marketplace,inventory only deals (multibuyer) - adform,ozone,ozadform,TRUE,*,,,revenue_share,0.1,,ozone managed demand,context +
+RC178,live,ozone,programmatic,deals,audience deals (multibuyer) - pubmatic,ozone,"ozpubmatic, ozpubmv, ozpubmiv",TRUE,ozmb*,,,revenue_share,0.065,,ozone managed demand,audience +
+RC179,live,ozone,programmatic,ozone omp,smart adserver,ozone,"ozsmart, ozsmartv",FALSE,,,,revenue_share,0.07,,ozone managed demand,context
+RC180,live,news,programmatic,publisher omp,news uk (smart adserver),news uk,"smart, smartiv",FALSE,,,,,,,publisher managed demand,publisher-omp
+RC181,live,ozone,programmatic,ozone omp,pubmatic (ssp deals),ozone,"ozpubmatic, ozpubmv, ozpubmiv",TRUE,PM-*,,,revenue_share,0.1,,ozone managed demand,context
+RC182,live,ozone,programmatic,ozone omp,openx (ssp deals),ozone,"ozopenx, ozopenxv, ozopenxiv",TRUE,does not contain *ozo*,,,revenue_share,0.12,1,ozone managed demand,context
+RC183,live,saas,programmatic,publisher omp,prisma (xandr),prisma,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC184,live,saas,programmatic,publisher pmp,prisma (xandr),prisma,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC185,live,saas,programmatic,publisher omp,prisma (rubicon),prisma,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC186,live,saas,programmatic,publisher pmp,prisma (rubicon),prisma,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC187,live,saas,programmatic,publisher omp,prisma (index),prisma,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC188,live,saas,programmatic,publisher pmp,prisma (index),prisma,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC189,live,saas,programmatic,publisher omp,prisma (triplelift),prisma,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC190,live,saas,programmatic,publisher pmp,prisma (triplelift),prisma,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC191,live,saas,programmatic,publisher omp,prisma (smartadserver),prisma,"smart, smartiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC192,live,saas,programmatic,publisher pmp,prisma (smartadserver),prisma,"smart, smartiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC193,live,ozone,programmatic,marketplace,inventory only (p&g via the trade desk),ozone,"ozttd, ozttdv, ozttdiv",FALSE,,in (2566),,revenue_share,,,ozone managed demand,context +
+RC194,live,ozone,programmatic,marketplace,xandr deals (catchall),ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,,"not in (668, 2333, 831, 11169, 1112, 10791, 9979)",,revenue_share,0.06,,ozone managed demand,context +
+RC195,live,saas,saas,publisher omp,lmc (pubmatic),lmc,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC196,live,saas,saas,publisher pmp,lmc (pubmatic),lmc,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC197,live,saas,saas,publisher omp,lmc (rubicon),lmc,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC198,live,saas,saas,publisher pmp,lmc (rubicon),lmc,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC199,live,ozone,programmatic,ozone omp,inventory only (omp),ozone,"ozgrid, ozgridv",TRUE,not g-dentsu% and not g-avidmedia%,,,revenue_share,0.08,,ozone managed demand,context
+RC200,live,saas,saas,publisher omp,tekan (xandr),tekan,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC201,live,saas,saas,publisher pmp,tekan (xandr),tekan,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC202,live,saas,saas,publisher omp,tekan (index),tekan,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC203,live,saas,saas,publisher pmp,tekan (index),tekan,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC204,live,saas,saas,publisher omp,tekan (rubicon),tekan,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC205,live,saas,saas,publisher pmp,tekan (rubicon),tekan,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC206,live,saas,saas,publisher omp,tekan (districtm),tekan,dmx,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC207,live,saas,saas,publisher pmp,tekan (districtm),tekan,dmx,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC208,in_validation,saas,saas,publisher omp,tekan (verizon),tekan,tbc,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC209,in_validation,saas,saas,publisher pmp,tekan (verizon),tekan,tbc,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC210,live,saas,programmatic,publisher omp,guardian (pubmatic),guardian,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,0.08,,publisher managed demand,publisher-omp
+RC211,live,saas,programmatic,publisher pmp,guardian (pubmatic),guardian,"pubmatic, pubmaticv, pubmaticiv",FALSE,*,,,revenue_share,0.08,,publisher managed demand,publisher-pmp
+RC212,live,ozone,programmatic,marketplace,smart adserver,ozone,"ozsmart, ozsmartv",TRUE,*,,,revenue_share,0.03,,ozone managed demand,context +
+RC213,live,saas,programmatic,publisher omp,mumsnet (xandr),mumsnet,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC214,live,saas,programmatic,publisher pmp,mumsnet (xandr),mumsnet,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC215,live,saas,programmatic,publisher omp,mumsnet (pubmatic),mumsnet,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC216,live,saas,programmatic,publisher pmp,mumsnet (pubmatic),mumsnet,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC217,live,saas,programmatic,publisher omp,mumsnet (triplelift),mumsnet,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC218,live,saas,programmatic,publisher pmp,mumsnet (triplelift),mumsnet,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC219,live,saas,programmatic,publisher omp,mumsnet (rubicon),mumsnet,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC220,live,saas,programmatic,publisher pmp,mumsnet (rubicon),mumsnet,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC221,live,saas,programmatic,publisher omp,mumsnet (openx),mumsnet,"openx, openxv, openxiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC222,live,saas,programmatic,publisher pmp,mumsnet (openx),mumsnet,"openx, openxv, openxiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC223,live,saas,programmatic,publisher omp,mumsnet (ix),mumsnet,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC224,live,saas,programmatic,publisher pmp,mumsnet (ix),mumsnet,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC225,live,ozone,programmatic,marketplace,external managed services,ozone,"ozappnexus, ozxandrv, ozxandriv",FALSE,,"in (668, 2333, 831, 11169, 1112, 10791)",,revenue_share,0.09,,ozone managed demand,context +
+RC226,live,ozone,programmatic,marketplace,external managed services,ozone,"ozappnexus, ozxandrv, ozxandriv",TRUE,emsc*,,,revenue_share,0.06,,ozone managed demand,context +
+RC227,live,saas,programmatic,publisher omp,guardian (smartadserver),guardian,"smart, smartiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC228,live,saas,programmatic,publisher pmp,guardian (smartadserver),guardian,"smart, smartiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC229,live,saas,saas,publisher omp,tekan (openx),tekan,"openx, openxv, openxiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC230,live,saas,saas,publisher pmp,tekan (openx),tekan,"openx, openxv, openxiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC231,live,saas,saas,publisher omp,bbc (openx),bbc,"openx, openxv, openxiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC232,live,saas,saas,publisher pmp,bbc (openx),bbc,"openx, openxv, openxiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC233,live,saas,saas,publisher omp,bbc (xandr),bbc,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC234,live,saas,saas,publisher pmp,bbc (xandr),bbc,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC235,live,saas,saas,publisher omp,bbc (triplelift),bbc,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC236,live,saas,saas,publisher pmp,bbc (triplelift),bbc,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC237,live,saas,saas,publisher omp,bbc (index),bbc,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC238,live,saas,saas,publisher pmp,bbc (index),bbc,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC239,live,ozone,programmatic,ozone omp,inventory only (the trade desk),ozone,"ozttd, ozttdv, ozttdiv",FALSE,,not in (2566),,revenue_share,,,ozone managed demand,context
+RC240,live,saas,saas,publisher omp,huffington post (xandr),huffington post,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC241,live,saas,saas,publisher pmp,huffington post (xandr),huffington post,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC242,live,saas,saas,publisher omp,huffington post (rubicon),huffington post,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC243,live,saas,saas,publisher pmp,huffington post (rubicon),huffington post,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC244,live,saas,saas,publisher omp,huffington post (ix),huffington post,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC245,live,saas,saas,publisher pmp,huffington post (ix),huffington post,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC246,live,saas,saas,publisher omp,buzzfeed (xandr),buzzfeed,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC247,live,saas,saas,publisher pmp,buzzfeed (xandr),buzzfeed,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC248,live,saas,saas,publisher omp,buzzfeed (rubicon),buzzfeed,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC249,live,saas,saas,publisher pmp,buzzfeed (rubicon),buzzfeed,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC250,live,saas,saas,publisher omp,buzzfeed (ix),buzzfeed,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC251,live,saas,saas,publisher pmp,buzzfeed (ix),buzzfeed,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC252,live,saas,saas,publisher omp,bbc (rubicon),bbc,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC253,live,saas,saas,publisher pmp,bbc (rubicon),bbc,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC254,live,saas,saas,publisher omp,bbc (pubmatic),bbc,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC255,live,saas,saas,publisher pmp,bbc (pubmatic),bbc,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC256,live,saas,programmatic,publisher omp,prisma (pubmatic),prisma,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC257,live,saas,programmatic,publisher pmp,prisma (pubmatic),prisma,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC258,live,saas,programmatic,publisher omp,prisma (gravity),prisma,"gravity,gravityv,gravityiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC259,live,saas,programmatic,publisher pmp,prisma (gravity),prisma,"gravity,gravityv,gravityiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC260,live,saas,saas,publisher omp,autovia (xandr),autovia,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC261,live,saas,saas,publisher pmp,autovia (xandr),autovia,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC262,live,saas,saas,publisher omp,autovia (rubicon),autovia,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC263,live,saas,saas,publisher pmp,autovia (rubicon),autovia,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC264,live,saas,saas,publisher omp,autovia (ix),autovia,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC265,live,saas,saas,publisher pmp,autovia (ix),autovia,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC266,live,saas,programmatic,publisher omp,autovia (pubmatic),autovia,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC267,live,saas,programmatic,publisher pmp,autovia (pubmatic),autovia,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC268,live,saas,saas,publisher omp,autovia (triplelift),autovia,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC269,live,saas,saas,publisher pmp,autovia (triplelift),autovia,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC270,live,telegraph,programmatic,publisher omp,tmg (index exchange),telegraph,"ix, ixv, ixiv",FALSE,,,,revenue_share,0.2,,publisher managed demand,publisher-omp
+RC271,live,telegraph,programmatic,publisher pmp,tmg (index exchange),telegraph,"ix, ixv, ixiv",TRUE,*,,,revenue_share,0.1,,publisher managed demand,publisher-pmp
+RC272,live,ozone,programmatic,marketplace,groupm outstream marketplace (pubmatic),ozone,"ozpubmatic, ozpubmv, ozpubmiv",FALSE,,,groupm,revenue_share,0.1,,ozone managed demand,context +
+RC273,live,news,programmatic,publisher omp,news uk (kargo),news uk,kargo,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC274,live,news,programmatic,publisher pmp,news uk (kargo),news uk,kargo,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC275,live,saas,programmatic,publisher omp,guardian (kargo),guardian,kargo,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC276,live,saas,programmatic,publisher pmp,guardian (kargo),guardian,kargo,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC277,live,saas,programmatic,publisher omp,bauer (kargo),bauer,kargo,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC278,live,saas,programmatic,publisher pmp,bauer (kargo),bauer,kargo,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC279,live,saas,programmatic,publisher omp,bbc (kargo),bbc,kargo,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC280,live,saas,programmatic,publisher pmp,bbc (kargo),bbc,kargo,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC281,live,ozone,programmatic,ozone omp,kargo,ozone,"ozkargo, ozkargov, ozkargoiv",FALSE,,,,revenue_share,,,ozone managed demand,context
+RC282,live,ozone,programmatic,ozone omp,kargo (ssp deals),ozone,"ozkargo, ozkargov, ozkargoiv",TRUE,*,,,revenue_share,,,ozone managed demand,context
+RC283,live,ozone,programmatic,marketplace,groupm outstream marketplace (pubmatic),ozone,"ozpubmatic, ozpubmv, ozpubmiv",TRUE,GM-,,,revenue_share,0.1,,ozone managed demand,context +
+RC284,live,saas,programmatic,publisher omp,esi (kargo),esi,kargo,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC285,live,saas,programmatic,publisher pmp,esi (kargo),esi,kargo,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC286,live,saas,saas,publisher omp,guardian (triplelift),guardian,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC287,live,saas,saas,publisher pmp,guardian (triplelift),guardian,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC288,live,ozone,programmatic,ozone omp,inventory only (dan),ozone,"ozgrid, ozgridv",FALSE,,,,revenue_share,0.08,,ozone managed demand,context
+RC289,live,saas,programmatic,publisher omp,grv media (xandr),grv media,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC290,live,saas,programmatic,publisher pmp,grv media (xandr),grv media,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC291,live,saas,programmatic,publisher omp,grv media (pubmatic),grv media,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC292,live,saas,programmatic,publisher pmp,grv media (pubmatic),grv media,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC293,live,saas,programmatic,publisher omp,grv media (rubicon),grv media,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC294,live,saas,programmatic,publisher pmp,grv media (rubicon),grv media,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC295,live,saas,programmatic,publisher omp,grv media (index),grv media,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC296,live,saas,programmatic,publisher pmp,grv media (index),grv media,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC297,live,saas,programmatic,publisher omp,grv media (openx),grv media,"openx, openxv, openxiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC298,live,saas,programmatic,publisher pmp,grv media (openx),grv media,"openx, openxv, openxiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC299,live,saas,programmatic,publisher omp,grv media (improve),grv media,improve,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC300,live,saas,programmatic,publisher pmp,grv media (improve),grv media,improve,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC301,live,saas,programmatic,publisher omp,grv media (triplelift),grv media,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC302,live,saas,programmatic,publisher pmp,grv media (triplelift),grv media,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC303,live,ozone,programmatic,ozone omp,yahoo,ozone,"ozyahoo, ozyahoov, ozyahooiv",FALSE,,,,revenue_share,,,ozone managed demand,context
+RC304,live,ozone,programmatic,ozone omp,yahoo (ssp deals),ozone,"ozyahoo, ozyahoov, ozyahooiv",TRUE,*,,,revenue_share,,,ozone managed demand,context
+RC305,live,saas,programmatic,publisher pmp,news uk (yahoo),news uk,yahoo,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC306,live,saas,programmatic,publisher omp,news uk (yahoo),news uk,yahoo,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC307,live,saas,programmatic,publisher pmp,reach (yahoo),reach,yahoo,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC308,live,saas,programmatic,publisher omp,reach (yahoo),reach,yahoo,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC309,live,saas,programmatic,publisher pmp,mumsnet (yahoo),mumsnet,yahoo,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC310,live,saas,programmatic,publisher omp,mumsnet (yahoo),mumsnet,yahoo,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC311,live,ozone,programmatic,ozone omp,beeswax omp,ozone,"ozbwomp, ozbwompv, ozbwompiv, ozbwompibv",FALSE,,,,revenue_share,,,ozone managed demand,context
+RC312,live,ozone,programmatic,marketplace,Conversant,ozone,"ozepsil, ozepsilv, ozepsiliv",FALSE,,,,revenue_share,,,ozone managed demand,context +
+RC313,live,ozone,programmatic,marketplace,Conversant (via PMP),ozone,"ozepsil, ozepsilv, ozepsiliv",TRUE,*,,,revenue_share,,,ozone managed demand,context +
+RC314,live,saas,programmatic,publisher pmp,bauer (gumgum),bauer,"gumgum, gumgumv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC315,live,saas,programmatic,publisher omp,bauer (gumgum),bauer,"gumgum, gumgumv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC316,live,saas,saas,publisher omp,lmc (openx),lmc,"openx, openxv, openxiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC317,live,saas,saas,publisher pmp,lmc (openx),lmc,"openx, openxv, openxiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC318,live,saas,saas,publisher omp,lmc (triplelift),lmc,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC319,live,saas,saas,publisher pmp,lmc (triplelift),lmc,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC320,live,saas,saas,publisher omp,esi (xandr),esi,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC321,live,saas,saas,publisher pmp,esi (xandr),esi,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC322,live,saas,saas,publisher omp,esi (pubmatic),esi,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC323,live,saas,saas,publisher pmp,esi (pubmatic),esi,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC324,live,saas,saas,publisher omp,standard (xandr),standard,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC325,live,saas,saas,publisher pmp,standard (xandr),standard,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC326,live,saas,saas,publisher omp,standard (pubmatic),standard,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC327,live,saas,saas,publisher pmp,standard (pubmatic),standard,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC328,live,saas,saas,publisher omp,lmc (yahoo),lmc,yahoo,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC329,live,saas,saas,publisher pmp,lmc (yahoo),lmc,yahoo,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC330,live,saas,saas,publisher omp,gravity (xandr),gravity,"gravity,gravityv,gravityiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC331,live,saas,saas,publisher pmp,gravity (xandr),gravity,"gravity,gravityv,gravityiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC332,live,saas,saas,publisher omp,standard (triplelift),standard,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC333,live,saas,saas,publisher pmp,standard (triplelift),standard,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC334,live,saas,saas,publisher omp,standard (improve),standard,improve,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC335,live,saas,saas,publisher pmp,standard (improve),standard,improve,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC336,live,saas,saas,publisher omp,standard media (magnite),standard,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC337,live,saas,saas,publisher pmp,standard media (magnite),standard,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC338,live,saas,saas,publisher omp,independent (magnite),esi,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC339,live,saas,saas,publisher pmp,independent (magnite),esi,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC340,live,saas,saas,publisher omp,standard media (index),standard,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC341,live,saas,saas,publisher pmp,standard media (index),standard,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC342,live,saas,saas,publisher omp,independent (index),esi,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC343,live,saas,saas,publisher pmp,independent (index),esi,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC344,live,ozone,programmatic,marketplace,audience deals,ozone,"ozadfv, ozadfiv",TRUE,*,,,revenue_share,0.1,,ozone managed demand,audience +
+RC345,live,saas,saas,publisher omp,independent (triplelift ),esi,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC346,live,saas,saas,publisher pmp,independent (triplelift ),esi,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC347,live,saas,saas,publisher omp,independent (improve),esi,improve,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC348,live,saas,saas,publisher pmp,independent (improve),esi,improve,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC349,live,saas,saas,publisher omp,venatus (pubmatic),venatus,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC350,live,saas,saas,publisher omp,venatus (triplelift),venatus,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC351,live,saas,saas,publisher omp,venatus (rubicon),venatus,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC352,live,saas,saas,publisher pmp,venatus (pubmatic),venatus,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC353,live,saas,saas,publisher pmp,venatus (triplelift),venatus,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC354,live,saas,saas,publisher pmp,venatus (rubicon),venatus,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC355,live,ozone,programmatic,ozone omp,adform,ozone,"ozadfv, ozadfiv",FALSE,,,,revenue_share,0.1,,ozone managed demand,context
+RC356,live,saas,saas,publisher omp,new york post (xandr),ny post,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC357,live,saas,saas,publisher omp,new york post (rubicon),ny post,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC358,live,saas,saas,publisher omp,new york post (ix),ny post,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC359,live,saas,saas,publisher omp,new york post (triplelift),ny post,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC360,live,saas,saas,publisher omp,guardian (index),guardian,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC361,live,saas,saas,publisher pmp,guardian (index),guardian,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC362,live,saas,saas,publisher omp,bauer (index),bauer,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC363,live,saas,saas,publisher pmp,bauer (index),bauer,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC364,live,saas,saas,publisher omp,venatus (xandr),venatus,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC365,live,saas,saas,publisher pmp,venatus (xandr),venatus,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC366,live,saas,saas,publisher omp,tekan (yahoo),tekan,yahoo,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC367,live,saas,saas,publisher pmp,tekan (yahoo),tekan,yahoo,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC368,live,saas,saas,publisher omp,tekan (gumgum),tekan,gumgum,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC369,live,saas,saas,publisher pmp,tekan (gumgum),tekan,gumgum,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC370,live,saas,saas,publisher omp,venatus (index),venatus,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC371,live,saas,saas,publisher pmp,venatus (index),venatus,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC372,live,saas,saas,publisher omp,venatus (openx),venatus,"openx, openxv, openxiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC373,live,saas,saas,publisher pmp,venatus (openx),venatus,"openx, openxv, openxiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC374,live,saas,saas,publisher pmp,new york post (xandr),ny post,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC375,live,saas,saas,publisher pmp,new york post (rubicon),ny post,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC376,live,saas,saas,publisher pmp,new york post (ix),ny post,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC377,live,saas,saas,publisher pmp,new york post (triplelift),ny post,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC378,live,news,saas,publisher omp,news uk (sharethrough),news uk,"shtr, shtrv, shtriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC379,live,news,saas,publisher pmp,news uk (sharethrough),news uk,"shtr, shtrv, shtriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC380,live,saas,saas,publisher omp,bauer (sharethrough),bauer,"shtr, shtrv, shtriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC381,live,saas,saas,publisher pmp,bauer (sharethrough),bauer,"shtr, shtrv, shtriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC382,live,ozone,programmatic,ozone omp,sharethrough,ozone,"ozshtr, ozshtrv, ozshtriv",FALSE,,,,revenue_share,,,ozone managed demand,context
+RC383,live,ozone,programmatic,ozone pmp,sharethrough (ssp deals),ozone,"ozshtr, ozshtrv, ozshtriv",TRUE,*,,,revenue_share,,,ozone managed demand,context
+RC384,live,ozone,programmatic,deals,audience deals (ttd),ozone,"ozttd, ozttdv, ozttdiv",TRUE,ozdb,not in (2566),,revenue_share,,,ozone managed demand,audience +
+RC385,live,ozone,programmatic,deals,inventory only deals (ttd),ozone,"ozttd, ozttdv, ozttdiv",TRUE,ozdp,not in (2566),,revenue_share,,,ozone managed demand,audience +
+RC386,live,ozone,programmatic,deals,contextual deals (ttd),ozone,"ozttd, ozttdv, ozttdiv",TRUE,ozdc,not in (2566),,revenue_share,,,ozone managed demand,audience +
+RC387,live,ozone,programmatic,marketplace,p&g audience marketplace (ttd),ozone,"ozttd, ozttdv, ozttdiv",TRUE,ozpgb,in (2566),,revenue_share,,,ozone managed demand,audience +
+RC388,live,ozone,programmatic,marketplace,p&g inventory only marketplace (ttd),ozone,"ozttd, ozttdv, ozttdiv",TRUE,ozpgp,in (2566),,revenue_share,,,ozone managed demand,context +
+RC389,live,ozone,programmatic,marketplace,p&g contextual marketplace (ttd),ozone,"ozttd, ozttdv, ozttdiv",TRUE,ozpgc,in (2566),,revenue_share,,,ozone managed demand,context +
+RC390,live,ozone,programmatic,marketplace,audience marketplace (ttd),ozone,"ozttd, ozttdv, ozttdiv",TRUE,ozmb,not in (2566),,revenue_share,,,ozone managed demand,audience +
+RC391,live,ozone,programmatic,marketplace,inventory only marketplace (ttd),ozone,"ozttd, ozttdv, ozttdiv",TRUE,ozmp,not in (2566),,revenue_share,,,ozone managed demand,context +
+RC392,live,ozone,programmatic,marketplace,contextual marketplace (ttd),ozone,"ozttd, ozttdv, ozttdiv",TRUE,ozmc,not in (2566),,revenue_share,,,ozone managed demand,context +
+RC393,live,saas,saas,publisher omp,planet sport (index),planet sport,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC394,live,saas,saas,publisher pmp,planet sport (index),planet sport,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC395,live,saas,saas,publisher omp,planet sport (xandr),planet sport,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC396,live,saas,saas,publisher pmp,planet sport (xandr),planet sport,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC397,live,saas,saas,publisher omp,planet sport (triplelift ),planet sport,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC398,live,saas,saas,publisher pmp,planet sport (triplelift ),planet sport,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC399,live,saas,saas,publisher omp,autovia (smartadserver),autovia,"smart, smartiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC400,live,saas,saas,publisher pmp,autovia (smartadserver),autovia,"smart, smartiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC401,live,saas,saas,publisher pmp,33across,publisher,"acrs, acrsv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC402,live,saas,saas,publisher omp,33across,publisher,"acrs, acrsv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC403,live,saas,saas,publisher pmp,alkimi exchange,publisher,"alkim, alkimv, alkimiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC404,live,saas,saas,publisher omp,alkimi exchange,publisher,"alkim, alkimv, alkimiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC405,live,saas,saas,publisher pmp,freewheel,publisher,"fwheel, fwheelv, fwheeliv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC406,live,saas,saas,publisher omp,freewheel,publisher,"fwheel, fwheelv, fwheeliv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC407,live,saas,saas,publisher pmp,medianet,publisher,"mediant, mediantv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC408,live,saas,saas,publisher omp,medianet,publisher,"mediant, mediantv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC409,live,saas,saas,publisher pmp,onetag,publisher,"onetag, onetagv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC410,live,saas,saas,publisher omp,onetag,publisher,"onetag, onetagv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC411,live,saas,saas,publisher pmp,outbrain,publisher,"obrain, obrainv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC412,live,saas,saas,publisher omp,outbrain,publisher,"obrain, obrainv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC413,live,saas,saas,publisher pmp,pulsepoint,publisher,"plspnt, plspntv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC414,live,saas,saas,publisher omp,pulsepoint,publisher,"plspnt, plspntv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC415,live,saas,saas,publisher pmp,rich audience,publisher,"richaud, richaudv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC416,live,saas,saas,publisher omp,rich audience,publisher,"richaud, richaudv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC417,live,saas,saas,publisher pmp,sharethrough,publisher,"shtr, shtrv, shtriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC418,live,saas,saas,publisher omp,sharethrough,publisher,"shtr, shtrv, shtriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC419,live,saas,saas,publisher pmp,sovrn,publisher,"sovrn, sovrnv, sovrniv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC420,live,saas,saas,publisher omp,sovrn,publisher,"sovrn, sovrnv, sovrniv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC421,live,saas,saas,publisher pmp,tappx,publisher,"tappx, tappxv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC422,live,saas,saas,publisher omp,tappx,publisher,"tappx, tappxv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC423,live,saas,saas,publisher pmp,unruly,publisher,"unruly, unrulyv, unrulyiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC424,live,saas,saas,publisher omp,unruly,publisher,"unruly, unrulyv, unrulyiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC425,live,saas,saas,publisher pmp,yieldmo,publisher,"yieldmo, yieldmov",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC426,live,saas,saas,publisher omp,yieldmo,publisher,"yieldmo, yieldmov",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC427,live,saas,saas,publisher pmp,triplelift,publisher,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC428,live,saas,saas,publisher omp,triplelift,publisher,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC429,live,saas,saas,publisher pmp,gumgum,publisher,gumgum,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC430,live,saas,saas,publisher omp,gumgum,publisher,gumgum,FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC431,live,saas,saas,ozone omp,index,ozone,"ozix, ozixv, ozixiv, ozixibv",FALSE,,,,revenue_share,,,ozone managed demand,context
+RC432,live,saas,saas,ozone pmp,index (ssp deals),ozone,"ozix, ozixv, ozixiv, ozixibv",TRUE,*,,,revenue_share,,,ozone managed demand,context
+RC433,live,saas,saas,publisher omp,tekan (pubmatic),tekan,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC434,live,saas,saas,publisher pmp,tekan (pubmatic),tekan,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC435,live,saas,saas,publisher omp,adinplay (pubmatic),adinplay,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC436,live,saas,saas,publisher pmp,adinplay (pubmatic),adinplay,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC437,live,saas,saas,publisher omp,adinplay (rubicon),adinplay,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC438,live,saas,saas,publisher pmp,adinplay (rubicon),adinplay,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC439,live,saas,saas,publisher omp,adinplay (triplelift),adinplay,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC440,live,saas,saas,publisher pmp,adinplay (triplelift),adinplay,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC441,live,saas,saas,publisher omp,lmc (index),lmc,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC442,live,saas,saas,publisher pmp,lmc (index),lmc,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC443,live,saas,saas,publisher omp,fandom (rubicon),fandom,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC444,live,saas,saas,publisher pmp,fandom (rubicon),fandom,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC445,live,saas,saas,publisher omp,fandom (ix),fandom,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC446,live,saas,saas,publisher pmp,fandom (ix),fandom,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC447,live,saas,saas,publisher omp,fandom (pubmatic),fandom,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC448,live,saas,saas,publisher pmp,fandom (pubmatic),fandom,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC449,live,saas,saas,publisher omp,fandom (xandr),fandom,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC450,live,saas,saas,publisher pmp,fandom (xandr),fandom,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC451,live,ozone,programmatic,deals,audience deals (bidswitch),ozone,"ozbsw, ozbswv, ozbswiv",TRUE,ozbsbdv,,,revenue_share,,,ozone managed demand,audience +
+RC452,live,ozone,programmatic,deals,inventory only deals (bidswitch),ozone,"ozbsw, ozbswv, ozbswiv",TRUE,ozbspdv,,,revenue_share,,,ozone managed demand,audience +
+RC453,live,ozone,programmatic,deals,contextual deals (bidswitch),ozone,"ozbsw, ozbswv, ozbswiv",TRUE,ozbscdv,,,revenue_share,,,ozone managed demand,audience +
+RC454,live,ozone,programmatic,marketplace,audience marketplace (bidswitch),ozone,"ozbsw, ozbswv, ozbswiv",TRUE,ozmb,,,revenue_share,,,ozone managed demand,audience +
+RC455,live,ozone,programmatic,marketplace,inventory only marketplace (bidswitch),ozone,"ozbsw, ozbswv, ozbswiv",TRUE,ozmp,,,revenue_share,,,ozone managed demand,context +
+RC456,live,ozone,programmatic,marketplace,contextual marketplace (bidswitch),ozone,"ozbsw, ozbswv, ozbswiv",TRUE,ozmc,,,revenue_share,,,ozone managed demand,context +
+RC457,live,ozone,programmatic,ozone omp,inventory only (bidswitch),ozone,"ozbsw, ozbswv, ozbswiv",FALSE,n/a,,,revenue_share,,,ozone managed demand,context
+RC458,live,saas,saas,publisher omp,adform,publisher,"adform, adformv, adformiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC459,live,saas,saas,publisher pmp,adform,publisher,"adform, adformv, adformiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC460,live,saas,saas,publisher omp,improve,publisher,improve,FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC461,live,saas,saas,publisher pmp,improve,publisher,improve,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC462,live,saas,saas,publisher omp,kargo,publisher,"kargo, kargov",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC463,live,saas,saas,publisher pmp,kargo,publisher,"kargo, kargov",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC464,live,saas,saas,publisher omp,mediagrid,publisher,grid,FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC465,live,saas,saas,publisher pmp,mediagrid,publisher,grid,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC466,live,saas,saas,publisher omp,yahoo,publisher,"yahoo, yahoov",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC467,live,saas,saas,publisher pmp,yahoo,publisher,"yahoo, yahoov",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC468,live,saas,saas,publisher omp,smart,publisher,"smart, smartiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC469,live,saas,saas,publisher pmp,smart,publisher,"smart, smartiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC470,live,ozone,programmatic,ozone omp,yieldmo,ozone,"ozyieldmo, ozyieldmov",FALSE,n/a,,,revenue_share,,,ozone managed demand,context
+RC471,live,ozone,programmatic,ozone pmp,yieldmo,ozone,"ozyieldmo, ozyieldmov",TRUE,*,,,revenue_share,,,ozone managed demand,context
+RC472,live,saas,saas,publisher omp,xandr,snack media,"appnexus, xandrv, xandriv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC473,live,saas,saas,publisher pmp,xandr,snack media,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC474,live,saas,saas,publisher omp,openx,snack media,"openx, openxv, openxiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC475,live,saas,saas,publisher pmp,openx,snack media,"openx, openxv, openxiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC476,live,saas,saas,publisher omp,rubicon,snack media,"rubicon, rubiconv, rubiconiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC477,live,saas,saas,publisher pmp,rubicon,snack media,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC478,live,saas,saas,publisher omp,pubmatic,snack media,"pubmatic, pubmaticv, pubmaticiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC479,live,saas,saas,publisher pmp,pubmatic,snack media,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC480,live,saas,saas,publisher omp,index,snack media,"ix, ixv, ixiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC481,live,saas,saas,publisher pmp,index,snack media,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC482,live,saas,saas,publisher omp,improve,snack media,improve,FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC483,live,saas,saas,publisher pmp,improve,snack media,improve,TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC484,live,saas,saas,publisher omp,index,adinplay,"ix, ixv, ixiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC485,live,saas,saas,publisher pmp,index,adinplay,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC486,live,saas,saas,publisher omp,daily mail general trust (xandr),daily mail general trust,"appnexus, xandrv, xandriv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC487,live,saas,saas,publisher pmp,daily mail general trust (xandr),daily mail general trust,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC488,live,saas,saas,publisher omp,daily mail general trust (openx),daily mail general trust,"openx, openxv, openxiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC489,live,saas,saas,publisher pmp,daily mail general trust (openx),daily mail general trust,"openx, openxv, openxiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC490,live,saas,saas,publisher omp,daily mail general trust (rubicon),daily mail general trust,"rubicon, rubiconv, rubiconiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC491,live,saas,saas,publisher pmp,daily mail general trust (rubicon),daily mail general trust,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC492,live,saas,saas,publisher omp,daily mail general trust (pubmatic),daily mail general trust,"pubmatic, pubmaticv, pubmaticiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC493,live,saas,saas,publisher pmp,daily mail general trust (pubmatic),daily mail general trust,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC494,live,saas,saas,publisher omp,daily mail general trust (index),daily mail general trust,"ix, ixv, ixiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC495,live,saas,saas,publisher pmp,daily mail general trust (index),daily mail general trust,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC496,live,saas,saas,publisher omp,venatus-bidder-bidder (pubmatic),venatus-bidder,"pubmatic, pubmaticv, pubmaticiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC497,live,saas,saas,publisher omp,venatus-bidder (triplelift),venatus-bidder,"triplelift, tripleliftv, tripleliftiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC498,live,saas,saas,publisher omp,venatus-bidder (rubicon),venatus-bidder,"rubicon, rubiconv, rubiconiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC499,live,saas,saas,publisher pmp,venatus-bidder (pubmatic),venatus-bidder,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC500,live,saas,saas,publisher pmp,venatus-bidder (triplelift),venatus-bidder,"triplelift, tripleliftv, tripleliftiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC501,live,saas,saas,publisher pmp,venatus-bidder (rubicon),venatus-bidder,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC502,live,saas,saas,publisher omp,venatus-bidder (xandr),venatus-bidder,"appnexus, xandrv, xandriv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC503,live,saas,saas,publisher pmp,venatus-bidder (xandr),venatus-bidder,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC504,live,saas,saas,publisher omp,venatus-bidder (index),venatus-bidder,"ix, ixv, ixiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC505,live,saas,saas,publisher pmp,venatus-bidder (index),venatus-bidder,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC506,live,saas,saas,publisher omp,venatus-bidder (openx),venatus-bidder,"openx, openxv, openxiv",FALSE,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC507,live,saas,saas,publisher pmp,venatus-bidder (openx),venatus-bidder,"openx, openxv, openxiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC508,live,saas,saas,publisher omp,reach (index),reach,"ix, ixv, ixiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC509,live,saas,saas,publisher pmp,reach (index),reach,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC510,live,saas,saas,publisher omp,inmobi,publisher,"inmob, inmobv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC511,live,saas,saas,publisher pmp,inmobi,publisher,"inmob, inmobv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC512,live,saas,saas,publisher omp,next millenium,publisher,"nextmil, nextmilv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC513,live,saas,saas,publisher pmp,next millenium,publisher,"nextmil, nextmilv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC514,live,saas,saas,publisher omp,loopme,publisher,"loopme, loopmev",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC515,live,saas,saas,publisher pmp,loopme,publisher,"loopme, loopmev",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC516,live,saas,saas,publisher omp,adaptmx,publisher,"adaptmx, adaptmxv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC517,live,saas,saas,publisher pmp,adapmx,publisher,"adaptmx, adaptmxv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC518,live,saas,saas,publisher omp,criteo,publisher,"criteo, criteov, criteoiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC519,live,saas,saas,publisher pmp,criteo,publisher,"criteo, criteov, criteoiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC520,live,saas,saas,publisher pmp,adyoulike,publisher,"adyoulike, adyoulikev",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC521,live,saas,saas,publisher omp,adyoulike,publisher,"adyoulike, adyoulikev",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC522,live,saas,saas,publisher pmp,sovrnxsp,publisher,"sovrnxsp, sovrnxspv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC523,live,saas,saas,publisher omp,sovrnxsp,publisher,"sovrnxsp, sovrnxspv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC524,live,saas,saas,publisher pmp,smaato,publisher,"smaato, smaatov",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC525,live,saas,saas,publisher omp,smaato,publisher,"smaato, smaatov",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC526,live,saas,saas,publisher omp,undertone,publisher,"undert,undertv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC527,live,saas,saas,publisher pmp,undertone,publisher,"undert,undertv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC528,live,saas,saas,publisher omp,rise,publisher,"rise,risev, riseiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC529,live,saas,saas,publisher pmp,rise,publisher,"rise,risev, riseiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC530,live,saas,saas,publisher omp,rtbhouse,publisher,"rtbh, rtbhv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC531,live,saas,saas,publisher pmp,rtbhouse,publisher,"rtbh, rtbhv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC532,live,ozone,programmatic,ozone omp,inmobi,ozone,"ozinmob,ozinmobv",FALSE,n/a,,,revenue_share,,,ozone managed demand,context
+RC533,live,ozone,programmatic,ozone pmp,inmobi,ozone,"ozinmob,ozinmobv",TRUE,*,,,revenue_share,,,ozone managed demand,context
+RC534,live,saas,saas,publisher omp,magnite,publisher,"rubicon, rubiconv, rubiconiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC535,live,saas,saas,publisher pmp,magnite,publisher,"rubicon, rubiconv, rubiconiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC536,live,saas,saas,publisher omp,pubmatic,planet sport,"pubmatic, pubmaticv, pubmaticiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC537,live,saas,saas,publisher pmp,pubmatic,planet sport,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC538,live,saas,saas,publisher omp,standard (openx),standard,"openx, openxv, openxiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC539,live,saas,saas,publisher pmp,standard (openx),standard,"openx, openxv, openxiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC540,live,saas,saas,publisher omp,index,publisher,"ix, ixv, ixiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC541,live,saas,saas,publisher pmp,index,publisher,"ix, ixv, ixiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC542,live,saas,saas,publisher omp,xandr,publisher,"appnexus, xandrv, xandriv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC543,live,saas,saas,publisher pmp,xandr,publisher,"appnexus, xandrv, xandriv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC544,live,saas,saas,publisher omp,pubmatic,publisher,"pubmatic, pubmaticv, pubmaticiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC545,live,saas,saas,publisher pmp,pubmatic,publisher,"pubmatic, pubmaticv, pubmaticiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC546,live,saas,saas,publisher omp,openx,publisher,"openx, openxv, openxiv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC547,live,saas,saas,publisher pmp,openx,publisher,"openx, openxv, openxiv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC548,live,ozone,programmatic,ozone omp,rtbhouse,ozone,"ozrtbh, ozrtbhv",FALSE,n/a,,,revenue_share,,,ozone managed demand,context
+RC549,live,ozone,programmatic,ozone pmp,rtbhouse,ozone,"ozrtbh, ozrtbhv",TRUE,*,,,revenue_share,,,ozone managed demand,context
+RC550,live,saas,saas,publisher omp,sonobi,publisher,"sonob, sonobv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC551,live,saas,saas,publisher pmp,sonobi,publisher,"sonob, sonobv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC552,live,ozone,programmatic,marketplace,inventory only deals (publicis),ozone,"ozpubmatic, ozpubmv, ozpubmiv",TRUE,pcsp*,,,revenue_share,,,ozone managed demand,context +
+RC553,live,ozone,programmatic,marketplace,inventory only marketplace (publicis),ozone,"ozbsw, ozbswv, ozbswiv",TRUE,pcsp*,,,revenue_share,,,ozone managed demand,context +
+RC554,live,saas,saas,publisher omp,client-side bidders,publisher,,,,,,revenue_share,,,publisher managed demand,publisher-omp
+RC555,live,saas,saas,publisher omp,Conversant,publisher,"epsil, epsilv",FALSE,n/a,,,revenue_share,,,publisher managed demand,publisher-omp
+RC556,live,saas,saas,publisher pmp,Conversant,publisher,"epsil, epsilv",TRUE,*,,,revenue_share,,,publisher managed demand,publisher-pmp
+RC557,live,ozone,programmatic,ozone omp,hawk,ozone,"ozhawk, ozhawkv, ozhawkiv",FALSE,n/a,,,revenue_share,,,ozone managed demand,context
+RC558,live,ozone,programmatic,ozone pmp,hawk,ozone,"ozhawk, ozhawkv, ozhawkiv",TRUE,*,,,revenue_share,,,ozone managed demand,context
+RC559,live,ozone,programmatic,deals,audience deals (hawk),ozone,"ozhawk, ozhawkv, ozhawkiv",TRUE,ozhb*,,,revenue_share,,,ozone managed demand,audience +
+RC560,live,ozone,programmatic,deals,inventory only deals (hawk),ozone,"ozhawk, ozhawkv, ozhawkiv",TRUE,ozhp*,,,revenue_share,,,ozone managed demand,audience +
+RC561,live,ozone,programmatic,deals,contextual deals (hawk),ozone,"ozhawk, ozhawkv, ozhawkiv",TRUE,ozhc*,,,revenue_share,,,ozone managed demand,audience +
+RC562,live,ozone,programmatic,marketplace,marketplace (hawk),ozone,"ozhawk, ozhawkv, ozhawkiv",TRUE,ozhm*,,,revenue_share,,,ozone managed demand,context +
+RC563,live,ozone,programmatic,deals,pubdeals brand (bidswitch),ozone,"ozbsw, ozbswv, ozbswiv",TRUE,ozbspdb,,,revenue_share,,,ozone managed demand,audience +
+RC564,live,ozone,programmatic,deals,pubdeals performance (bidswitch),ozone,"ozbsw, ozbswv, ozbswiv",TRUE,ozbspdp,,,revenue_share,,,ozone managed demand,audience +
+RC565,live,ozone,programmatic,deals,pubdeals context(bidswitch),ozone,"ozbsw, ozbswv, ozbswiv",TRUE,ozbspdc,,,revenue_share,,,ozone managed demand,audience +

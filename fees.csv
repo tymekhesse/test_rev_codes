@@ -1,0 +1,6 @@
+publisher,publisher_id,product_fee_tier,fee,fee_calc
+sportskeeda,OZONESPO001,"audience +",0.36,"run-time"
+sportskeeda,OZONESPO001,"context +",0.26,"eom"
+sportskeeda,OZONESPO001,"context",0.16,"run-time"
+sportskeeda,OZONESPO001,"publisher-omp",0.1,"run-time"
+sportskeeda,OZONESPO001,"publisher-pmp",0.9,"run-time"
