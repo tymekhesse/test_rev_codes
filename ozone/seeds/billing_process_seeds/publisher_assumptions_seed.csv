@@ -1,6 +1,4 @@
 revenue_code,status,business_unit,publisher,product,sub_product,ozone_fee,fee_calc,data_contribution_percent,bid_adjustment,avg_data_share_percent,valid_from
-B1,live,ozone,stylist,biddable management,biddable management,0.2,eom,0,1,0,2023-09-20
-B1,live,ozone,stylist,biddable management,biddable management,0.2,eom,0.1,0.5,0.1,2025-06-16
 RC1,live,ozone,accuweather,managed,beeswax,0.36,run-time,0.3,0.448,0,2024-12-12
 RC1,live,ozone,arkadium,managed,beeswax,0.36,run-time,0.3,0.448,0,2025-04-18
 RC1,live,ozone,asian media group,managed,beeswax,0.3,eom,0.3,1,,2024-10-30
@@ -33,7 +31,7 @@ RC1,live,ozone,reach,managed,beeswax,0.4,run-time,0.1,0.54,0.3476,2024-08-01
 RC1,live,ozone,snack media,managed,beeswax,0.35,run-time,0.3,0.448,0,2024-11-07
 RC1,live,ozone,sportskeeda,managed,beeswax,0.36,run-time,0.3,0.448,0,2025-04-30
 RC1,live,ozone,standard,managed,beeswax,0.35,run-time,0.3,0.455,,
-RC1,live,ozone,stylist,managed,beeswax,0.35,run-time,0.3,0.455,0.1525,
+RC1,live,ozone,stylist,managed,beeswax,0,0,0,0.1,0,2025-06-17
 RC1,live,ozone,telegraph,managed,beeswax,0.4,run-time,0.1,0.54,0.0364,
 RC1,live,ozone,the jewish chronicle,managed,beeswax,0.36,run-time,0,0.64,0,
 RC1,live,ozone,timeout,managed,beeswax,0.35,run-time,0.3,0.455,0.1525,
@@ -72,7 +70,7 @@ RC10,live,ozone,reach,deals,audience deals (openx),0.4,run-time,0.1,0.513,0.3476
 RC10,live,ozone,snack media,deals,audience deals (openx),0.35,run-time,0.3,0.426,0,2024-11-07
 RC10,live,ozone,sportskeeda,deals,audience deals (openx),0.36,run-time,0.3,0.4256,0,2025-04-30
 RC10,live,ozone,standard,deals,audience deals (openx),0.35,run-time,0.3,0.43225,,
-RC10,live,ozone,stylist,deals,audience deals (openx),0.35,run-time,0.3,0.43225,0.1525,
+RC10,live,ozone,stylist,deals,audience deals (openx),0,0,0,0.1,0,2025-06-17
 RC10,live,ozone,telegraph,deals,audience deals (openx),0.4,run-time,0.1,0.513,0.0364,
 RC10,live,ozone,the jewish chronicle,deals,audience deals (openx),0.392,run-time,0,0.608,0,
 RC10,live,ozone,timeout,deals,audience deals (openx),0.35,run-time,0.3,0.43225,0.1525,
@@ -183,7 +181,7 @@ RC14,live,ozone,reach,marketplace,audience deals (omg),0.4,run-time,0.1,0.54,0,2
 RC14,live,ozone,snack media,marketplace,audience deals (omg),0.35,run-time,0.3,0.448,0,2024-11-07
 RC14,live,ozone,sportskeeda,marketplace,audience deals (omg),0.36,run-time,0.3,0.448,0,2025-04-30
 RC14,live,ozone,standard,marketplace,audience deals (omg),0.35,run-time,0.3,0.455,,
-RC14,live,ozone,stylist,marketplace,audience deals (omg),0.35,run-time,0.3,0.455,,
+RC14,live,ozone,stylist,marketplace,audience deals (omg),0,0,0,0.1,0,2025-06-17
 RC14,live,ozone,telegraph,marketplace,audience deals (omg),0.4,run-time,0.1,0.54,,
 RC14,live,ozone,the jewish chronicle,marketplace,audience deals (omg),0.36,run-time,0,0.64,0,
 RC14,live,ozone,timeout,marketplace,audience deals (omg),0.3,run-time,0.3,0.455,,
@@ -236,7 +234,6 @@ RC15,live,ozone,reach,marketplace,inventory only deals (omg),0.4,eom,0,1,0,2024-
 RC15,live,ozone,snack media,marketplace,inventory only deals (omg),0.35,run-time,0,0.65,0,2024-09-12
 RC15,live,ozone,sportskeeda,marketplace,inventory only deals (omg),0.36,run-time,0,0.64,0,2025-04-30
 RC15,live,ozone,standard,marketplace,inventory only deals (omg),0.18,run-time,0,0.82,,
-RC15,live,ozone,stylist,marketplace,inventory only deals (omg),0.18,run-time,0,0.82,0,2024-07-05
 RC15,live,ozone,telegraph,marketplace,inventory only deals (omg),0.4,run-time,0,0.6,,
 RC15,live,ozone,the jewish chronicle,marketplace,inventory only deals (omg),0.18,run-time,0,0.82,0,
 RC15,live,ozone,timeout,marketplace,inventory only deals (omg),0.18,run-time,0,0.82,,
@@ -291,10 +288,6 @@ RC16,live,ozone,the jewish chronicle,marketplace,contextual deals (omg),0.18,run
 RC16,live,ozone,timeout,marketplace,contextual deals (omg),0.18,run-time,0,0.82,,
 RC16,live,ozone,unwind,marketplace,contextual deals (omg),0.18,run-time,0,0.82,0,2024-11-18
 RC16,live,ozone,wall street journal,marketplace,contextual deals (omg),0.18,run-time,0,0.82,0,
-RC160,live,saas,stylist,publisher omp,stylist (xandr),0.12,run-time,0,0.88,0,2025-02-11
-RC161,live,saas,stylist,publisher pmp,stylist (xandr),0.12,run-time,0,0.88,0,2025-02-11
-RC162,live,saas,stylist,publisher omp,stylist (openx),0.12,eom,0,1,,
-RC163,live,saas,stylist,publisher pmp,stylist (openx),0.12,eom,0,1,,
 RC164,live,news,news,publisher direct,direct io,0.4,eom,0,1,,
 RC165,live,news,news,publisher omp,news (districtm),0,eom,0,1,,2023-09-27
 RC166,live,saas,bauer,publisher omp,bauer (triplelift),0.09,run-time,0,0.91,0,2025-02-11
@@ -331,7 +324,7 @@ RC168,live,ozone,reach,marketplace,audience deals (multibuyer) - xandr,0.4,run-t
 RC168,live,ozone,snack media,marketplace,audience deals (multibuyer) - xandr,0.35,run-time,0.3,0.448,0,2024-11-07
 RC168,live,ozone,sportskeeda,marketplace,audience deals (multibuyer) - xandr,0.36,run-time,0.3,0.448,0,2025-04-30
 RC168,live,ozone,standard,marketplace,audience deals (multibuyer) - xandr,0.35,run-time,0.3,0.455,,
-RC168,live,ozone,stylist,marketplace,audience deals (multibuyer) - xandr,0.35,run-time,0.3,0.455,,
+RC168,live,ozone,stylist,marketplace,audience deals (multibuyer) - xandr,0,0,0,0.1,0,2025-06-17
 RC168,live,ozone,telegraph,marketplace,audience deals (multibuyer) - xandr,0.4,run-time,0.1,0.54,,
 RC168,live,ozone,the jewish chronicle,marketplace,audience deals (multibuyer) - xandr,0.36,run-time,0,0.64,0,
 RC168,live,ozone,timeout,marketplace,audience deals (multibuyer) - xandr,0.35,run-time,0.3,0.455,,
@@ -370,7 +363,6 @@ RC169,live,ozone,prisma media,marketplace,inventory only deals (multibuyer) - xa
 RC169,live,ozone,reach,marketplace,inventory only deals (multibuyer) - xandr,0.4,eom,0,1,0,2024-08-15
 RC169,live,ozone,sportskeeda,marketplace,inventory only deals (multibuyer) - xandr,0.36,run-time,0,0.64,0,2025-04-30
 RC169,live,ozone,standard,marketplace,inventory only deals (multibuyer) - xandr,0.18,run-time,0,0.82,,
-RC169,live,ozone,stylist,marketplace,inventory only deals (multibuyer) - xandr,0.18,run-time,0,0.82,,
 RC169,live,ozone,telegraph,marketplace,inventory only deals (multibuyer) - xandr,0.4,run-time,0,0.6,,
 RC169,live,ozone,the jewish chronicle,marketplace,inventory only deals (multibuyer) - xandr,0.18,run-time,0,0.82,0,
 RC169,live,ozone,timeout,marketplace,inventory only deals (multibuyer) - xandr,0.18,run-time,0,0.82,,
@@ -447,7 +439,6 @@ RC170,live,ozone,prisma media,marketplace,contextual deals (multibuyer)- xandr,0
 RC170,live,ozone,reach,marketplace,contextual deals (multibuyer)- xandr,0.4,eom,0,1,0,2024-08-15
 RC170,live,ozone,sportskeeda,marketplace,contextual deals (multibuyer)- xandr,0.36,run-time,0,0.64,0,2025-04-30
 RC170,live,ozone,standard,marketplace,contextual deals (multibuyer)- xandr,0.18,run-time,0,0.82,,
-RC170,live,ozone,stylist,marketplace,contextual deals (multibuyer)- xandr,0.18,run-time,0,0.82,,
 RC170,live,ozone,telegraph,marketplace,contextual deals (multibuyer)- xandr,0.4,run-time,0,0.6,,
 RC170,live,ozone,the jewish chronicle,marketplace,contextual deals (multibuyer)- xandr,0.18,run-time,0,0.82,0,
 RC170,live,ozone,timeout,marketplace,contextual deals (multibuyer)- xandr,0.18,run-time,0,0.82,,
@@ -486,7 +477,6 @@ RC171,live,ozone,prisma media,marketplace,publisher deals (multibuyer)- xandr,0.
 RC171,live,ozone,reach,marketplace,publisher deals (multibuyer)- xandr,0.4,eom,0,1,0,2024-08-15
 RC171,live,ozone,sportskeeda,marketplace,publisher deals (multibuyer)- xandr,0.36,run-time,0,0.64,0,2025-04-30
 RC171,live,ozone,standard,marketplace,publisher deals (multibuyer)- xandr,0.18,run-time,0,0.82,,
-RC171,live,ozone,stylist,marketplace,publisher deals (multibuyer)- xandr,0.18,run-time,0,0.82,,
 RC171,live,ozone,telegraph,marketplace,publisher deals (multibuyer)- xandr,0.4,run-time,0,0.6,,
 RC171,live,ozone,the jewish chronicle,marketplace,publisher deals (multibuyer)- xandr,0.18,run-time,0,0.82,0,
 RC171,live,ozone,timeout,marketplace,publisher deals (multibuyer)- xandr,0.18,run-time,0,0.82,,
@@ -532,7 +522,6 @@ RC172,live,ozone,reach,ozone omp,openx,0.4,eom,0,1,0,2024-08-15
 RC172,live,ozone,snack media,ozone omp,openx,0.35,run-time,0,0.57,,
 RC172,live,ozone,sportskeeda,ozone omp,openx,0.36,run-time,0,0.5632,0,2025-04-30
 RC172,live,ozone,standard,ozone omp,openx,0.1,run-time,,0.792,,
-RC172,live,ozone,stylist,ozone omp,openx,0.1,run-time,0,0.792,,
 RC172,live,ozone,tekan,ozone omp,openx,0.1,run-time,0,0.792,,
 RC172,live,ozone,telegraph,ozone omp,openx,0.4,run-time,0,0.528,,
 RC172,live,ozone,the jewish chronicle,ozone omp,openx,0.208,run-time,0,0.792,0,
@@ -575,7 +564,7 @@ RC173,live,ozone,reach,deals,inventory only deals (multibuyer) - pubmatic,0.4,ru
 RC173,live,ozone,snack media,deals,inventory only deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
 RC173,live,ozone,sportskeeda,deals,inventory only deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,2025-04-30
 RC173,live,ozone,standard,deals,inventory only deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
-RC173,live,ozone,stylist,deals,inventory only deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
+RC173,live,ozone,stylist,deals,inventory only deals (multibuyer) - pubmatic,0,0,0,0.1,0,2025-06-17
 RC173,live,ozone,telegraph,deals,inventory only deals (multibuyer) - pubmatic,0.4,run-time,0,0.6,,
 RC173,live,ozone,the jewish chronicle,deals,inventory only deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,
 RC173,live,ozone,timeout,deals,inventory only deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
@@ -615,7 +604,7 @@ RC174,live,ozone,reach,deals,contextual deals (multibuyer) - pubmatic,0.4,run-ti
 RC174,live,ozone,snack media,deals,contextual deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
 RC174,live,ozone,sportskeeda,deals,contextual deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,2025-04-30
 RC174,live,ozone,standard,deals,contextual deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
-RC174,live,ozone,stylist,deals,contextual deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
+RC174,live,ozone,stylist,deals,contextual deals (multibuyer) - pubmatic,0,0,0,0.1,0,2025-06-17
 RC174,live,ozone,telegraph,deals,contextual deals (multibuyer) - pubmatic,0.4,run-time,0,0.6,,
 RC174,live,ozone,the jewish chronicle,deals,contextual deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,
 RC174,live,ozone,timeout,deals,contextual deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
@@ -655,7 +644,7 @@ RC175,live,ozone,reach,deals,publisher deals (multibuyer) - pubmatic,0.4,run-tim
 RC175,live,ozone,snack media,deals,publisher deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
 RC175,live,ozone,sportskeeda,deals,publisher deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,2025-04-30
 RC175,live,ozone,standard,deals,publisher deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
-RC175,live,ozone,stylist,deals,publisher deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
+RC175,live,ozone,stylist,deals,publisher deals (multibuyer) - pubmatic,0,0,0,0.1,0,2025-06-17
 RC175,live,ozone,telegraph,deals,publisher deals (multibuyer) - pubmatic,0.4,run-time,0,0.6,,
 RC175,live,ozone,the jewish chronicle,deals,publisher deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,
 RC175,live,ozone,timeout,deals,publisher deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
@@ -701,7 +690,6 @@ RC176,live,ozone,reach,ozone omp,pubmatic,0.4,eom,0,1,0,2024-08-15
 RC176,live,ozone,snack media,ozone omp,pubmatic,0.35,run-time,0,0.65,,
 RC176,live,ozone,sportskeeda,ozone omp,pubmatic,0.36,run-time,0,0.64,0,2025-04-30
 RC176,live,ozone,standard,ozone omp,pubmatic,0.1,run-time,,0.9,,
-RC176,live,ozone,stylist,ozone omp,pubmatic,0.1,run-time,,0.9,,
 RC176,live,ozone,tekan,ozone omp,pubmatic,0.1,run-time,,0.9,,
 RC176,live,ozone,telegraph,ozone omp,pubmatic,0.4,run-time,0,0.6,,
 RC176,live,ozone,the jewish chronicle,ozone omp,pubmatic,0.1,run-time,0,0.9,0,
@@ -746,7 +734,6 @@ RC177,live,ozone,reach,marketplace,inventory only deals (multibuyer) - adform,0.
 RC177,live,ozone,snack media,marketplace,inventory only deals (multibuyer) - adform,0.35,run-time,0,0.65,,
 RC177,live,ozone,sportskeeda,marketplace,inventory only deals (multibuyer) - adform,0.36,run-time,0,0.64,0,2025-04-30
 RC177,live,ozone,standard,marketplace,inventory only deals (multibuyer) - adform,0.18,run-time,0,0.82,,
-RC177,live,ozone,stylist,marketplace,inventory only deals (multibuyer) - adform,0.18,run-time,0,0.82,,
 RC177,live,ozone,telegraph,marketplace,inventory only deals (multibuyer) - adform,0.4,run-time,0,0.6,,
 RC177,live,ozone,the jewish chronicle,marketplace,inventory only deals (multibuyer) - adform,0.18,run-time,0,0.82,0,
 RC177,live,ozone,timeout,marketplace,inventory only deals (multibuyer) - adform,0.18,run-time,0,0.82,,
@@ -785,7 +772,7 @@ RC178,live,ozone,reach,deals,audience deals (multibuyer) - pubmatic,0.4,run-time
 RC178,live,ozone,snack media,deals,audience deals (multibuyer) - pubmatic,0.35,run-time,0.3,0.448,0,2024-11-07
 RC178,live,ozone,sportskeeda,deals,audience deals (multibuyer) - pubmatic,0.36,run-time,0.3,0.448,0,2025-04-30
 RC178,live,ozone,standard,deals,audience deals (multibuyer) - pubmatic,0.35,run-time,0.3,0.455,,
-RC178,live,ozone,stylist,deals,audience deals (multibuyer) - pubmatic,0.35,run-time,0.3,0.455,,
+RC178,live,ozone,stylist,deals,audience deals (multibuyer) - pubmatic,0,0,0,0.1,0,2025-06-17
 RC178,live,ozone,telegraph,deals,audience deals (multibuyer) - pubmatic,0.4,run-time,0.1,0.54,,
 RC178,live,ozone,the jewish chronicle,deals,audience deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,
 RC178,live,ozone,timeout,deals,audience deals (multibuyer) - pubmatic,0.35,run-time,0.3,0.455,,
@@ -828,7 +815,6 @@ RC179,live,ozone,reach,ozone omp,smart adserver,0.4,eom,0,1,0,2025-02-11
 RC179,live,ozone,snack media,ozone omp,smart adserver,0.35,run-time,0,0.65,,
 RC179,live,ozone,sportskeeda,ozone omp,smart adserver,0.36,run-time,0,0.64,0,2025-04-30
 RC179,live,ozone,standard,ozone omp,smart adserver,0.1,run-time,0,0.9,,
-RC179,live,ozone,stylist,ozone omp,smart adserver,0.1,run-time,0,0.9,,
 RC179,live,ozone,tekan,ozone omp,smart adserver,0.1,run-time,0,0.9,,
 RC179,live,ozone,telegraph,ozone omp,smart adserver,0.4,run-time,0,0.6,,
 RC179,live,ozone,the jewish chronicle,ozone omp,smart adserver,0.1,run-time,0,0.9,0,
@@ -877,7 +863,6 @@ RC181,live,ozone,raptive,ozone omp,pubmatic (ssp deals),0.35,run-time,0,0.65,0,2
 RC181,live,ozone,reach,ozone omp,pubmatic (ssp deals),0.4,eom,0,1,0,2024-08-15
 RC181,live,ozone,snack media,ozone omp,pubmatic (ssp deals),0.35,run-time,0,0.65,,
 RC181,live,ozone,sportskeeda,ozone omp,pubmatic (ssp deals),0.36,run-time,0,0.64,0,2025-04-30
-RC181,live,ozone,stylist,ozone omp,pubmatic (ssp deals),0.1,run-time,,0.9,,
 RC181,live,ozone,tekan,ozone omp,pubmatic (ssp deals),0.1,run-time,,0.9,,
 RC181,live,ozone,telegraph,ozone omp,pubmatic (ssp deals),0.4,run-time,0,0.6,,
 RC181,live,ozone,the jewish chronicle,ozone omp,pubmatic (ssp deals),0.1,run-time,0,0.9,0,
@@ -926,7 +911,6 @@ RC182,live,ozone,reach,ozone omp,openx (ssp deals),0.4,eom,0,1,0,2024-08-15
 RC182,live,ozone,snack media,ozone omp,openx (ssp deals),0.35,run-time,0,0.57,,
 RC182,live,ozone,sportskeeda,ozone omp,openx (ssp deals),0.36,run-time,0,0.5632,0,2025-04-30
 RC182,live,ozone,standard,ozone omp,openx (ssp deals),0.1,run-time,0,0.792,,
-RC182,live,ozone,stylist,ozone omp,openx (ssp deals),0.1,run-time,0,0.792,,
 RC182,live,ozone,tekan,ozone omp,openx (ssp deals),0.1,run-time,0,0.792,,
 RC182,live,ozone,telegraph,ozone omp,openx (ssp deals),0.4,run-time,0,0.528,,
 RC182,live,ozone,the jewish chronicle,ozone omp,openx (ssp deals),0.208,run-time,0,0.792,0,
@@ -978,7 +962,6 @@ RC19,live,ozone,reach,marketplace,inventory only marketplace (dan),0.4,eom,0,1,0
 RC19,live,ozone,snack media,marketplace,inventory only marketplace (dan),0.35,run-time,0,0.65,,
 RC19,live,ozone,sportskeeda,marketplace,inventory only marketplace (dan),0.36,run-time,0,0.64,0,2025-04-30
 RC19,live,ozone,standard,marketplace,inventory only marketplace (dan),0.18,run-time,0,0.82,,
-RC19,live,ozone,stylist,marketplace,inventory only marketplace (dan),0.18,run-time,0,0.82,,
 RC19,live,ozone,tekan,marketplace,inventory only marketplace (dan),0.1,run-time,,0.9,,
 RC19,live,ozone,telegraph,marketplace,inventory only marketplace (dan),0.4,run-time,0,0.6,,
 RC19,live,ozone,the jewish chronicle,marketplace,inventory only marketplace (dan),0.18,run-time,0,0.82,0,
@@ -1025,7 +1008,6 @@ RC193,live,ozone,reach,marketplace,inventory only (p&g via the trade desk),0.4,e
 RC193,live,ozone,snack media,marketplace,inventory only (p&g via the trade desk),0.35,run-time,0,0.65,,
 RC193,live,ozone,sportskeeda,marketplace,inventory only (p&g via the trade desk),0.36,run-time,0,0.64,0,2025-04-30
 RC193,live,ozone,standard,marketplace,inventory only (p&g via the trade desk),0.18,run-time,0,0.82,,
-RC193,live,ozone,stylist,marketplace,inventory only (p&g via the trade desk),0.18,run-time,0,0.82,,
 RC193,live,ozone,telegraph,marketplace,inventory only (p&g via the trade desk),0.4,run-time,0,0.6,,
 RC193,live,ozone,the jewish chronicle,marketplace,inventory only (p&g via the trade desk),0.18,run-time,0,0.82,0,
 RC193,live,ozone,timeout,marketplace,inventory only (p&g via the trade desk),0.18,run-time,0,0.82,,
@@ -1067,7 +1049,6 @@ RC194,live,ozone,reach,marketplace,xandr deals (catchall),0.4,eom,0,1,0,2024-08-
 RC194,live,ozone,snack media,marketplace,xandr deals (catchall),0.35,run-time,0,0.65,,
 RC194,live,ozone,sportskeeda,marketplace,xandr deals (catchall),0.36,run-time,0,0.64,0,2025-04-30
 RC194,live,ozone,standard,marketplace,xandr deals (catchall),0.18,run-time,0,0.82,,
-RC194,live,ozone,stylist,marketplace,xandr deals (catchall),0.18,run-time,0,0.82,,
 RC194,live,ozone,telegraph,marketplace,xandr deals (catchall),0.4,run-time,0,0.6,,
 RC194,live,ozone,the jewish chronicle,marketplace,xandr deals (catchall),0.18,run-time,0,0.82,0,
 RC194,live,ozone,timeout,marketplace,xandr deals (catchall),0.18,run-time,0,0.82,,
@@ -1118,7 +1099,6 @@ RC199,live,ozone,reach,ozone omp,inventory only (omp),0.4,eom,0,1,0,2024-08-15
 RC199,live,ozone,snack media,ozone omp,inventory only (omp),0.35,run-time,0,0.65,,
 RC199,live,ozone,sportskeeda,ozone omp,inventory only (omp),0.36,run-time,0,0.64,0,2025-04-30
 RC199,live,ozone,standard,ozone omp,inventory only (omp),0.1,run-time,0,0.9,,
-RC199,live,ozone,stylist,ozone omp,inventory only (omp),0.1,run-time,0,0.9,,
 RC199,live,ozone,tekan,ozone omp,inventory only (omp),0.1,run-time,,0.9,,
 RC199,live,ozone,telegraph,ozone omp,inventory only (omp),0.4,run-time,0,0.6,,
 RC199,live,ozone,the jewish chronicle,ozone omp,inventory only (omp),0.1,run-time,0,0.9,0,
@@ -1159,7 +1139,7 @@ RC2,live,ozone,reach,managed,complex formats,0.4,run-time,0.1,0.54,0.3476,2024-0
 RC2,live,ozone,snack media,managed,complex formats,0.35,run-time,0.3,0.448,0,2024-11-07
 RC2,live,ozone,sportskeeda,managed,complex formats,0.36,run-time,0.3,0.448,0,2025-04-30
 RC2,live,ozone,standard,managed,complex formats,0.35,run-time,0.3,0.455,,
-RC2,live,ozone,stylist,managed,complex formats,0.35,run-time,0.3,0.455,0.1525,
+RC2,live,ozone,stylist,managed,complex formats,0,0,0,0.1,0,2025-06-17
 RC2,live,ozone,telegraph,managed,complex formats,0.4,run-time,0.1,0.54,0.0364,
 RC2,live,ozone,the jewish chronicle,managed,complex formats,0.36,run-time,0,0.64,0,
 RC2,live,ozone,timeout,managed,complex formats,0.35,run-time,0.3,0.455,0.1525,
@@ -1206,7 +1186,6 @@ RC212,live,ozone,primis,marketplace,smart adserver,0.36,run-time,0,0.64,0,2024-1
 RC212,live,ozone,prisma media,marketplace,smart adserver,0.25,run-time,0,0.75,,
 RC212,live,ozone,sportskeeda,marketplace,smart adserver,0.36,run-time,0,0.64,0,2025-04-30
 RC212,live,ozone,standard,marketplace,smart adserver,0.18,run-time,0,,,
-RC212,live,ozone,stylist,marketplace,smart adserver,0.18,run-time,0,0.82,,
 RC212,live,ozone,telegraph,marketplace,smart adserver,0.4,run-time,0,0.6,,
 RC212,live,ozone,the jewish chronicle,marketplace,smart adserver,0.18,run-time,0,0.82,0,
 RC212,live,ozone,timeout,marketplace,smart adserver,0.18,run-time,0,0.82,0,2024-10-16
@@ -1252,7 +1231,7 @@ RC22,live,ozone,reach,marketplace,audience deals (publicis),0.4,run-time,0.1,0.5
 RC22,live,ozone,snack media,marketplace,audience deals (publicis),0.35,run-time,0.3,0.448,0,2024-11-07
 RC22,live,ozone,sportskeeda,marketplace,audience deals (publicis),0.36,run-time,0.3,0.448,0,2025-04-30
 RC22,live,ozone,standard,marketplace,audience deals (publicis),0.35,run-time,0.3,0.455,,
-RC22,live,ozone,stylist,marketplace,audience deals (publicis),0.35,run-time,0.3,0.455,,
+RC22,live,ozone,stylist,marketplace,audience deals (publicis),0,0,0,0.1,0,2025-06-17
 RC22,live,ozone,telegraph,marketplace,audience deals (publicis),0.4,run-time,0.1,0.54,,
 RC22,live,ozone,the jewish chronicle,marketplace,audience deals (publicis),0.36,run-time,0,0.64,0,
 RC22,live,ozone,timeout,marketplace,audience deals (publicis),0.35,run-time,0.3,0.455,,
@@ -1304,7 +1283,6 @@ RC225,live,ozone,reach,marketplace,external managed services,0.4,eom,0,1,0,2024-
 RC225,live,ozone,snack media,marketplace,external managed services,0.35,run-time,0,0.65,,
 RC225,live,ozone,sportskeeda,marketplace,external managed services,0.36,run-time,0,0.64,0,2025-04-30
 RC225,live,ozone,standard,marketplace,external managed services,0.18,run-time,0,0.82,,
-RC225,live,ozone,stylist,marketplace,external managed services,0.18,run-time,0,0.82,,
 RC225,live,ozone,telegraph,marketplace,external managed services,0.4,run-time,0,0.6,,
 RC225,live,ozone,the jewish chronicle,marketplace,external managed services,0.18,run-time,0,0.82,0,
 RC225,live,ozone,timeout,marketplace,external managed services,0.18,run-time,0,0.82,,
@@ -1348,7 +1326,6 @@ RC226,live,ozone,prisma media,marketplace,external managed services,0.25,run-tim
 RC226,live,ozone,reach,marketplace,external managed services,0.4,eom,0,1,0,2024-08-15
 RC226,live,ozone,sportskeeda,marketplace,external managed services,0.36,run-time,0,0.64,0,2025-04-30
 RC226,live,ozone,standard,marketplace,external managed services,0.18,run-time,0,0.82,,
-RC226,live,ozone,stylist,marketplace,external managed services,0.18,run-time,0,0.82,,
 RC226,live,ozone,telegraph,marketplace,external managed services,0.4,run-time,0,0.6,,
 RC226,live,ozone,the jewish chronicle,marketplace,external managed services,0.18,run-time,0,0.82,0,
 RC226,live,ozone,timeout,marketplace,external managed services,0.18,run-time,0,0.82,,
@@ -1390,7 +1367,6 @@ RC23,live,ozone,prisma media,marketplace,inventory only deals (publicis),0.25,ru
 RC23,live,ozone,reach,marketplace,inventory only deals (publicis),0.4,eom,0,1,0,2024-08-15
 RC23,live,ozone,sportskeeda,marketplace,inventory only deals (publicis),0.36,run-time,0,0.64,0,2025-04-30
 RC23,live,ozone,standard,marketplace,inventory only deals (publicis),0.18,run-time,0,0.82,,
-RC23,live,ozone,stylist,marketplace,inventory only deals (publicis),0.18,run-time,0,0.82,,
 RC23,live,ozone,telegraph,marketplace,inventory only deals (publicis),0.4,run-time,0,0.6,,
 RC23,live,ozone,the jewish chronicle,marketplace,inventory only deals (publicis),0.18,run-time,0,0.82,0,
 RC23,live,ozone,timeout,marketplace,inventory only deals (publicis),0.18,run-time,0,0.82,,
@@ -1446,7 +1422,6 @@ RC239,live,ozone,reach,ozone omp,inventory only (the trade desk),0.4,eom,0,1,0,2
 RC239,live,ozone,snack media,ozone omp,inventory only (the trade desk),0.35,run-time,0,0.65,,
 RC239,live,ozone,sportskeeda,ozone omp,inventory only (the trade desk),0.36,run-time,0,0.64,0,2025-04-30
 RC239,live,ozone,standard,ozone omp,inventory only (the trade desk),0.1,run-time,0,0.9,,
-RC239,live,ozone,stylist,ozone omp,inventory only (the trade desk),0.1,run-time,0,0.9,,
 RC239,live,ozone,tekan,ozone omp,inventory only (the trade desk),0.1,run-time,0,0.9,,
 RC239,live,ozone,telegraph,ozone omp,inventory only (the trade desk),0.4,run-time,0,0.6,,
 RC239,live,ozone,the jewish chronicle,ozone omp,inventory only (the trade desk),0.1,run-time,0,0.9,0,
@@ -1488,7 +1463,6 @@ RC24,live,ozone,prisma media,marketplace,contextual deals (publicis),0.25,run-ti
 RC24,live,ozone,reach,marketplace,contextual deals (publicis),0.4,eom,0,1,0,2024-08-15
 RC24,live,ozone,sportskeeda,marketplace,contextual deals (publicis),0.36,run-time,0,0.64,0,2025-04-30
 RC24,live,ozone,standard,marketplace,contextual deals (publicis),0.18,run-time,0,0.82,,
-RC24,live,ozone,stylist,marketplace,contextual deals (publicis),0.18,run-time,0,0.82,,
 RC24,live,ozone,telegraph,marketplace,contextual deals (publicis),0.4,run-time,0,0.6,,
 RC24,live,ozone,the jewish chronicle,marketplace,contextual deals (publicis),0.18,run-time,0,0.82,0,
 RC24,live,ozone,timeout,marketplace,contextual deals (publicis),0.18,run-time,0,0.82,,
@@ -1537,7 +1511,6 @@ RC25,live,ozone,prisma media,marketplace,publisher deals (publicis),0.25,run-tim
 RC25,live,ozone,reach,marketplace,publisher deals (publicis),0.4,eom,0,1,0,2024-08-15
 RC25,live,ozone,sportskeeda,marketplace,publisher deals (publicis),0.36,run-time,0,0.64,0,2025-04-30
 RC25,live,ozone,standard,marketplace,publisher deals (publicis),0.18,run-time,0,0.82,,
-RC25,live,ozone,stylist,marketplace,publisher deals (publicis),0.18,run-time,0,0.82,,
 RC25,live,ozone,telegraph,marketplace,publisher deals (publicis),0.4,run-time,0,0.6,,
 RC25,live,ozone,the jewish chronicle,marketplace,publisher deals (publicis),0.18,run-time,0,0.82,0,
 RC25,live,ozone,timeout,marketplace,publisher deals (publicis),0.18,run-time,0,0.82,,
@@ -1585,6 +1558,7 @@ RC26,live,ozone,reach,marketplace,audience deals (merkle),0.4,run-time,0.1,0.54,
 RC26,live,ozone,snack media,marketplace,audience deals (merkle),0.35,run-time,0.3,0.448,0,2024-11-07
 RC26,live,ozone,sportskeeda,marketplace,audience deals (merkle),0.36,run-time,0.3,0.448,0,2025-04-30
 RC26,live,ozone,standard,marketplace,audience deals (merkle),0.35,run-time,0.3,0.455,,
+RC26,live,ozone,stylist,marketplace,audience deals (merkle),0,0,0,0.1,0,2025-06-17
 RC26,live,ozone,telegraph,marketplace,audience deals (merkle),0.4,run-time,0.1,0.54,,
 RC26,live,ozone,the jewish chronicle,marketplace,audience deals (merkle),0.36,run-time,0,0.64,0,
 RC26,live,ozone,timeout,marketplace,audience deals (merkle),0.35,run-time,0.3,0.455,0,2023-10-10
@@ -1667,7 +1641,6 @@ RC272,live,ozone,prisma media,marketplace,groupm outstream marketplace (pubmatic
 RC272,live,ozone,reach,marketplace,groupm outstream marketplace (pubmatic),0.4,eom,0,1,0,2024-08-15
 RC272,live,ozone,sportskeeda,marketplace,groupm outstream marketplace (pubmatic),0.36,run-time,0,0.64,0,2025-04-30
 RC272,live,ozone,standard,marketplace,groupm outstream marketplace (pubmatic),0.18,run-time,0,0.82,,
-RC272,live,ozone,stylist,marketplace,groupm outstream marketplace (pubmatic),0.18,run-time,0,0.82,,
 RC272,live,ozone,telegraph,marketplace,groupm outstream marketplace (pubmatic),0.4,run-time,0,0.6,,
 RC272,live,ozone,the jewish chronicle,marketplace,groupm outstream marketplace (pubmatic),0.18,run-time,0,0.82,0,
 RC272,live,ozone,timeout,marketplace,groupm outstream marketplace (pubmatic),0.18,run-time,0,0.82,0,2023-10-10
@@ -1757,7 +1730,6 @@ RC281,live,ozone,reach,ozone omp,kargo,0.4,eom,0,1,0,2024-08-15
 RC281,live,ozone,snack media,ozone omp,kargo,0.35,run-time,0,0.65,,
 RC281,live,ozone,sportskeeda,ozone omp,kargo,0.36,run-time,0,0.64,0,2025-04-30
 RC281,live,ozone,standard,ozone omp,kargo,0.1,run-time,0,0.9,,
-RC281,live,ozone,stylist,ozone omp,kargo,0.1,run-time,0,0.9,,
 RC281,live,ozone,tekan,ozone omp,kargo,0.1,run-time,0,0.9,,
 RC281,live,ozone,telegraph,ozone omp,kargo,0.4,run-time,0,0.6,,
 RC281,live,ozone,the jewish chronicle,ozone omp,kargo,0.1,run-time,0,0.9,0,
@@ -1805,7 +1777,6 @@ RC282,live,ozone,reach,ozone omp,kargo (ssp deals),0.4,eom,0,1,0,2024-08-15
 RC282,live,ozone,snack media,ozone omp,kargo (ssp deals),0.35,run-time,0,0.65,,
 RC282,live,ozone,sportskeeda,ozone omp,kargo (ssp deals),0.36,run-time,0,0.64,0,2025-04-30
 RC282,live,ozone,standard,ozone omp,kargo (ssp deals),0.1,run-time,0,0.9,,
-RC282,live,ozone,stylist,ozone omp,kargo (ssp deals),0.1,run-time,0,0.9,,
 RC282,live,ozone,tekan,ozone omp,kargo (ssp deals),0.1,run-time,0,0.9,,
 RC282,live,ozone,telegraph,ozone omp,kargo (ssp deals),0.4,run-time,0,0.6,,
 RC282,live,ozone,the jewish chronicle,ozone omp,kargo (ssp deals),0.1,run-time,0,0.9,0,
@@ -1851,7 +1822,6 @@ RC283,live,ozone,reach,marketplace,groupm marketplace (pubmatic),0.4,eom,0,1,0,2
 RC283,live,ozone,snack media,marketplace,groupm marketplace (pubmatic),0.35,run-time,0,0.65,0,2024-04-16
 RC283,live,ozone,sportskeeda,marketplace,groupm outstream marketplace (pubmatic),0.36,run-time,0,0.64,0,2025-04-30
 RC283,live,ozone,standard,marketplace,groupm marketplace (pubmatic),0.18,run-time,0,0.82,0,2024-04-16
-RC283,live,ozone,stylist,marketplace,groupm marketplace (pubmatic),0.18,run-time,0,0.82,0,2024-04-16
 RC283,live,ozone,telegraph,marketplace,groupm marketplace (pubmatic),0.4,run-time,0,0.6,0,2024-04-16
 RC283,live,ozone,the jewish chronicle,marketplace,groupm marketplace (pubmatic),0.18,run-time,0,0.82,0,2024-04-16
 RC283,live,ozone,timeout,marketplace,groupm marketplace (pubmatic),0.18,run-time,0,0.82,0,2024-04-16
@@ -1903,7 +1873,6 @@ RC288,live,ozone,reach,ozone omp,inventory only (dan),0.4,eom,0,1,0,2024-08-15
 RC288,live,ozone,snack media,ozone omp,inventory only (dan),0.35,run-time,0,0.65,,
 RC288,live,ozone,sportskeeda,ozone omp,inventory only (dan),0.36,run-time,0,0.64,0,2025-04-30
 RC288,live,ozone,standard,ozone omp,inventory only (dan),0.1,run-time,0,0.9,,
-RC288,live,ozone,stylist,ozone omp,inventory only (dan),0.1,run-time,0,0.9,,
 RC288,live,ozone,tekan,ozone omp,inventory only (dan),0.1,run-time,,0.9,,
 RC288,live,ozone,telegraph,ozone omp,inventory only (dan),0.4,run-time,0,0.6,,
 RC288,live,ozone,the jewish chronicle,ozone omp,inventory only (dan),0.1,run-time,0,0.9,0,
@@ -1980,7 +1949,6 @@ RC3,live,ozone,planet sport,managed,publisher managed,0.325,eom,0,0.473,0,
 RC3,live,ozone,reach,managed,publisher managed,0.4,run-time,0,0.6,0,2024-08-01
 RC3,live,ozone,snack media,managed,publisher managed,0.35,run-time,0,1,0,2024-11-07
 RC3,live,ozone,standard,managed,publisher managed,0.35,eom,0,1,,
-RC3,live,ozone,stylist,managed,publisher managed,0.35,eom,0,1,,
 RC3,live,ozone,telegraph,managed,publisher managed,0.4,run-time,0,0.6,,
 RC3,live,ozone,the jewish chronicle,managed,publisher managed,0.36,run-time,0,0.64,0,
 RC3,live,ozone,timeout,managed,publisher managed,0.35,eom,0,1,,
@@ -2018,6 +1986,7 @@ RC30,live,ozone,reach,marketplace,audience deals (havas),0.4,run-time,0.1,0.54,0
 RC30,live,ozone,snack media,marketplace,audience deals (havas),0.35,run-time,0.3,0.448,0,2024-11-07
 RC30,live,ozone,sportskeeda,marketplace,audience deals (havas),0.36,run-time,0.3,0.448,0,2025-04-30
 RC30,live,ozone,standard,marketplace,audience deals (havas),0.35,run-time,0.3,0.455,,
+RC30,live,ozone,stylist,marketplace,audience deals (havas),0,0,0,0.1,0,2025-06-17
 RC30,live,ozone,telegraph,marketplace,audience deals (havas),0.4,run-time,0.1,0.54,,
 RC30,live,ozone,the jewish chronicle,marketplace,audience deals (havas),0.36,run-time,0,0.64,0,
 RC30,live,ozone,timeout,marketplace,audience deals (havas),0.35,run-time,0.3,0.455,0,2023-10-10
@@ -2061,7 +2030,6 @@ RC303,live,ozone,reach,ozone omp,yahoo,0.4,eom,0,1,0,2024-08-15
 RC303,live,ozone,snack media,ozone omp,yahoo,0.35,run-time,0,0.65,,
 RC303,live,ozone,sportskeeda,ozone omp,yahoo,0.36,run-time,0,0.64,0,2025-04-30
 RC303,live,ozone,standard,ozone omp,yahoo,0.1,run-time,,0.9,,
-RC303,live,ozone,stylist,ozone omp,yahoo,0.1,run-time,0,0.9,,
 RC303,live,ozone,tekan,ozone omp,yahoo,0.1,run-time,0,0.9,,
 RC303,live,ozone,telegraph,ozone omp,yahoo,0.4,run-time,0,0.6,,
 RC303,live,ozone,the jewish chronicle,ozone omp,yahoo,0.1,run-time,0,0.9,0,
@@ -2104,7 +2072,6 @@ RC304,live,ozone,reach,ozone omp,yahoo (ssp deals),0.4,eom,0,1,0,2024-08-15
 RC304,live,ozone,snack media,ozone omp,yahoo (ssp deals),0.35,run-time,0,0.65,,
 RC304,live,ozone,sportskeeda,ozone omp,yahoo (ssp deals),0.36,run-time,0,0.64,0,2025-04-30
 RC304,live,ozone,standard,ozone omp,yahoo (ssp deals),0.1,run-time,,0.9,,
-RC304,live,ozone,stylist,ozone omp,yahoo (ssp deals),0.1,run-time,0,0.9,,
 RC304,live,ozone,tekan,ozone omp,yahoo (ssp deals),0.1,run-time,0,0.9,,
 RC304,live,ozone,telegraph,ozone omp,yahoo (ssp deals),0.4,run-time,0,0.6,,
 RC304,live,ozone,the jewish chronicle,ozone omp,yahoo (ssp deals),0.1,run-time,0,0.9,0,
@@ -2192,7 +2159,6 @@ RC311,live,ozone,reach,ozone omp,beeswax omp,0.4,eom,0,1,0,2024-08-15
 RC311,live,ozone,snack media,ozone omp,beeswax omp,0.35,run-time,0,0.65,,
 RC311,live,ozone,sportskeeda,ozone omp,beeswax omp,0.36,run-time,0,0.64,0,2025-04-30
 RC311,live,ozone,standard,ozone omp,beeswax omp,0.1,run-time,0,0.9,,
-RC311,live,ozone,stylist,ozone omp,beeswax omp,0.1,run-time,0,0.9,,
 RC311,live,ozone,tekan,ozone omp,beeswax omp,0.1,run-time,0,0.9,,
 RC311,live,ozone,telegraph,ozone omp,beeswax omp,0.4,run-time,0,0.6,,
 RC311,live,ozone,the jewish chronicle,ozone omp,beeswax omp,0.1,run-time,0,0.9,0,
@@ -2231,7 +2197,6 @@ RC312,live,ozone,primis,marketplace,Conversant,0.36,run-time,0,0.64,0,2024-12-17
 RC312,live,ozone,reach,marketplace,conversant,0.4,eom,0,1,0,2024-08-15
 RC312,live,ozone,sportskeeda,marketplace,Conversant,0.36,run-time,0,0.64,0,2025-04-30
 RC312,live,ozone,standard,marketplace,conversant,0.18,run-time,0,0.82,,
-RC312,live,ozone,stylist,marketplace,conversant,0.18,run-time,0,0.82,,
 RC312,live,ozone,telegraph,marketplace,conversant,0.4,run-time,0,0.6,,
 RC312,live,ozone,the jewish chronicle,marketplace,conversant,0.18,run-time,0,0.82,0,
 RC312,live,ozone,timeout,marketplace,conversant,0.18,run-time,0,0.82,,
@@ -2266,7 +2231,6 @@ RC313,live,ozone,primis,marketplace,Conversant (via PMP),0.36,run-time,0,0.64,0,
 RC313,live,ozone,reach,marketplace,conversant (via pmp),0.4,eom,0,1,0,2024-08-15
 RC313,live,ozone,sportskeeda,marketplace,Conversant (via PMP),0.36,run-time,0,0.64,0,2025-04-30
 RC313,live,ozone,standard,marketplace,conversant (via pmp),0.18,run-time,0,0.82,,
-RC313,live,ozone,stylist,marketplace,conversant (via pmp),0.18,run-time,0,0.82,,
 RC313,live,ozone,telegraph,marketplace,conversant (via pmp),0.4,run-time,0,0.6,,
 RC313,live,ozone,the jewish chronicle,marketplace,conversant (via pmp),0.18,run-time,0,0.82,0,
 RC313,live,ozone,timeout,marketplace,conversant (via pmp),0.18,run-time,0,0.82,,
@@ -2383,7 +2347,6 @@ RC34,in_validation,ozone,mumsnet,marketplace,ozone ad manager,0.35,,,,,
 RC34,in_validation,ozone,news,marketplace,ozone ad manager,0.4,,,,,
 RC34,in_validation,ozone,reach,marketplace,ozone ad manager,0.4,run-time,0,0.6,0,2024-08-01
 RC34,in_validation,ozone,standard,marketplace,ozone ad manager,0.35,,,,,
-RC34,in_validation,ozone,stylist,marketplace,ozone ad manager,0.35,,,,,
 RC34,in_validation,ozone,telegraph,marketplace,ozone ad manager,0.4,,,,,
 RC34,in_validation,ozone,timeout,marketplace,ozone ad manager,0.35,,,,,
 RC340,live,saas,standard,publisher omp,standard media (index),0.12,run-time,0,0.88,,
@@ -2408,6 +2371,7 @@ RC344,live,ozone,primis,marketplace,audience deals,0.36,run-time,0.3,0.448,0,202
 RC344,live,ozone,reach,marketplace,audience deals,0.4,run-time,0.1,0.54,0,2024-08-01
 RC344,live,ozone,sportskeeda,marketplace,audience deals,0.36,run-time,0.3,0.448,0,2025-04-30
 RC344,live,ozone,standard,marketplace,audience deals,0.35,run-time,0.3,0.455,,
+RC344,live,ozone,stylist,marketplace,audience deals,0,0,0,0.1,0,2025-06-17
 RC344,live,ozone,telegraph,marketplace,audience deals,0.4,run-time,0.1,0.54,,
 RC344,live,ozone,the jewish chronicle,marketplace,audience deals,0.36,run-time,0,0.64,0,
 RC344,live,ozone,unwind,marketplace,audience deals,0.36,run-time,0,0.64,0,2024-11-18
@@ -2427,7 +2391,6 @@ RC35,in_validation,ozone,mumsnet,marketplace,ozone ad manager,0.18,,,,,
 RC35,in_validation,ozone,news,marketplace,ozone ad manager,0.4,,,,,
 RC35,in_validation,ozone,reach,marketplace,ozone ad manager,0.4,eom,0,1,0,2024-08-15
 RC35,in_validation,ozone,standard,marketplace,ozone ad manager,0.18,,,,,
-RC35,in_validation,ozone,stylist,marketplace,ozone ad manager,0.18,,,,,
 RC35,in_validation,ozone,telegraph,marketplace,ozone ad manager,0.4,,,,,
 RC35,in_validation,ozone,timeout,marketplace,ozone ad manager,0.18,,,,,
 RC350,live,saas,venatus,publisher omp,venatus (triplelift),0.12,run-time,0,0.88,0,2024-10-30
@@ -2475,7 +2438,6 @@ RC355,live,ozone,reach,ozone omp,adform,0.4,eom,0,1,0,2024-08-15
 RC355,live,ozone,snack media,ozone omp,adform,0.35,run-time,0,0.65,,
 RC355,live,ozone,sportskeeda,ozone omp,adform,0.36,run-time,0,0.64,0,2025-04-30
 RC355,live,ozone,standard,ozone omp,adform,0.1,run-time,0,0.9,,
-RC355,live,ozone,stylist,ozone omp,adform,0.1,run-time,0,0.9,,
 RC355,live,ozone,tekan,ozone omp,adform,0.1,run-time,0,0.9,,
 RC355,live,ozone,telegraph,ozone omp,adform,0.4,run-time,0,0.6,,
 RC355,live,ozone,the jewish chronicle,ozone omp,adform,0.1,run-time,0,0.9,0,
@@ -2499,7 +2461,6 @@ RC36,in_validation,ozone,mumsnet,marketplace,ozone ad manager,0.18,,,,,
 RC36,in_validation,ozone,news,marketplace,ozone ad manager,0.4,,,,,
 RC36,in_validation,ozone,reach,marketplace,ozone ad manager,0.4,eom,0,1,0,2024-08-15
 RC36,in_validation,ozone,standard,marketplace,ozone ad manager,0.18,,,,,
-RC36,in_validation,ozone,stylist,marketplace,ozone ad manager,0.18,,,,,
 RC36,in_validation,ozone,telegraph,marketplace,ozone ad manager,0.4,,,,,
 RC36,in_validation,ozone,timeout,marketplace,ozone ad manager,0.18,,,,,
 RC360,live,saas,guardian,publisher omp,guardian (index),0.06,run-time,,0.94,,
@@ -2551,7 +2512,6 @@ RC37,live,ozone,reach,ozone omp,xandr context,0.4,eom,0,1,0,2024-08-15
 RC37,live,ozone,snack media,ozone omp,xandr context,0.35,run-time,0,0.65,,
 RC37,live,ozone,sportskeeda,ozone omp,xandr context,0.36,run-time,0,0.64,0,2025-04-30
 RC37,live,ozone,standard,ozone omp,xandr context,0.1,run-time,0,0.9,,
-RC37,live,ozone,stylist,ozone omp,xandr context,0.1,run-time,0,0.9,,
 RC37,live,ozone,tekan,ozone omp,xandr context,0.1,run-time,0,0.9,,
 RC37,live,ozone,telegraph,ozone omp,xandr context,0.4,run-time,0,0.6,,
 RC37,live,ozone,the jewish chronicle,ozone omp,xandr context,0.1,run-time,0,0.9,0,
@@ -2604,7 +2564,6 @@ RC38,live,ozone,prisma media,ozone omp,avocet,0.25,run-time,0,0.75,,
 RC38,live,ozone,reach,ozone omp,avocet,0.4,eom,0,1,0,2024-08-15
 RC38,live,ozone,snack media,ozone omp,avocet,0.35,run-time,0,0.65,,
 RC38,live,ozone,sportskeeda,ozone omp,avocet,0.36,run-time,0,0.64,0,2025-04-30
-RC38,live,ozone,stylist,ozone omp,avocet,0.1,run-time,0,0.9,,
 RC38,live,ozone,tekan,ozone omp,avocet,0.1,run-time,0,0.9,,
 RC38,live,ozone,telegraph,ozone omp,avocet,0.4,run-time,0,0.6,,
 RC38,live,ozone,the jewish chronicle,ozone omp,avocet,0.1,run-time,0,0.9,0,
@@ -2651,7 +2610,6 @@ RC382,live,ozone,reach,ozone omp,sharethrough,0.4,eom,0,1,0,2024-08-15
 RC382,live,ozone,snack media,ozone omp,sharethrough,0.35,run-time,0,0.65,,
 RC382,live,ozone,sportskeeda,ozone omp,sharethrough,0.36,run-time,0,0.64,0,2025-04-30
 RC382,live,ozone,standard,ozone omp,sharethrough,0.1,run-time,0,0.9,,
-RC382,live,ozone,stylist,ozone omp,sharethrough,0.1,run-time,0,0.9,,
 RC382,live,ozone,tekan,ozone omp,sharethrough,0.1,run-time,0,0.9,,
 RC382,live,ozone,telegraph,ozone omp,sharethrough,0.4,run-time,0,0.6,,
 RC382,live,ozone,the jewish chronicle,ozone omp,sharethrough,0.1,run-time,0,0.9,0,
@@ -2697,7 +2655,6 @@ RC383,live,ozone,reach,ozone pmp,sharethrough (ssp deals),0.4,eom,0,1,0,2024-08-
 RC383,live,ozone,snack media,ozone pmp,sharethrough (ssp deals),0.35,run-time,0,0.65,,2024-03-13
 RC383,live,ozone,sportskeeda,ozone pmp,sharethrough (ssp deals),0.36,run-time,0,0.64,0,2025-04-30
 RC383,live,ozone,standard,ozone pmp,sharethrough (ssp deals),0.1,run-time,0,0.9,,2024-03-13
-RC383,live,ozone,stylist,ozone pmp,sharethrough (ssp deals),0.1,run-time,0,0.9,,2024-03-13
 RC383,live,ozone,tekan,ozone pmp,sharethrough (ssp deals),0.1,run-time,0,0.9,,2024-03-13
 RC383,live,ozone,telegraph,ozone pmp,sharethrough (ssp deals),0.4,run-time,0,0.6,,2024-03-13
 RC383,live,ozone,the jewish chronicle,ozone pmp,sharethrough (ssp deals),0.1,run-time,0,0.9,0,2024-03-13
@@ -2738,7 +2695,7 @@ RC384,live,ozone,reach,deals,audience deals (ttd),0.4,run-time,0.1,0.54,0,2024-0
 RC384,live,ozone,snack media,deals,audience deals (ttd),0.35,run-time,0.3,0.448,0,2024-11-07
 RC384,live,ozone,sportskeeda,deals,audience deals (ttd),0.36,run-time,0.3,0.448,0,2025-04-30
 RC384,live,ozone,standard,deals,audience deals (ttd),0.35,run-time,0.3,0.455,0,
-RC384,live,ozone,stylist,deals,audience deals (ttd),0.35,run-time,0.3,0.455,0,
+RC384,live,ozone,stylist,deals,audience deals (ttd),0,0,0,0.1,0,2025-06-17
 RC384,live,ozone,telegraph,deals,audience deals (ttd),0.4,run-time,0.1,0.54,0,
 RC384,live,ozone,the jewish chronicle,deals,audience deals (ttd),0.36,run-time,0.3,0.448,0,
 RC384,live,ozone,timeout,deals,audience deals (ttd),0.35,run-time,0.3,0.455,0,
@@ -2778,7 +2735,7 @@ RC385,live,ozone,reach,deals,inventory only deals (ttd),0.4,run-time,0,0.6,0,202
 RC385,live,ozone,snack media,deals,inventory only deals (ttd),0.35,run-time,0,0.65,0,
 RC385,live,ozone,sportskeeda,deals,inventory only deals (ttd),0.36,run-time,0,0.64,0,2025-04-30
 RC385,live,ozone,standard,deals,inventory only deals (ttd),0.35,run-time,0,0.65,0,
-RC385,live,ozone,stylist,deals,inventory only deals (ttd),0.35,run-time,0,0.65,0,
+RC385,live,ozone,stylist,deals,inventory only deals (ttd),0,0,0,0.1,0,2025-06-17
 RC385,live,ozone,telegraph,deals,inventory only deals (ttd),0.4,run-time,0,0.6,0,
 RC385,live,ozone,the jewish chronicle,deals,inventory only deals (ttd),0.36,run-time,0,0.64,0,
 RC385,live,ozone,timeout,deals,inventory only deals (ttd),0.35,run-time,0,0.65,0,
@@ -2818,7 +2775,7 @@ RC386,live,ozone,reach,deals,contextual deals (ttd),0.4,run-time,0,0.6,0,2024-08
 RC386,live,ozone,snack media,deals,contextual deals (ttd),0.35,run-time,0,0.65,0,
 RC386,live,ozone,sportskeeda,deals,contextual deals (ttd),0.36,run-time,0,0.64,0,2025-04-30
 RC386,live,ozone,standard,deals,contextual deals (ttd),0.35,run-time,0,0.65,0,
-RC386,live,ozone,stylist,deals,contextual deals (ttd),0.35,run-time,0,0.65,0,
+RC386,live,ozone,stylist,deals,contextual deals (ttd),0,0,0,0.1,0,2025-06-17
 RC386,live,ozone,telegraph,deals,contextual deals (ttd),0.4,run-time,0,0.6,0,
 RC386,live,ozone,the jewish chronicle,deals,contextual deals (ttd),0.36,run-time,0,0.64,0,
 RC386,live,ozone,timeout,deals,contextual deals (ttd),0.35,run-time,0,0.65,0,
@@ -2857,7 +2814,7 @@ RC387,live,ozone,reach,marketplace,p&g audience marketplace (ttd),0.4,run-time,0
 RC387,live,ozone,snack media,marketplace,p&g audience marketplace (ttd),0.35,run-time,0.3,0.448,0,2024-11-07
 RC387,live,ozone,sportskeeda,marketplace,p&g audience marketplace (ttd),0.36,run-time,0.3,0.448,0,2025-04-30
 RC387,live,ozone,standard,marketplace,p&g audience marketplace (ttd),0.35,run-time,0.3,0.455,0,
-RC387,live,ozone,stylist,marketplace,p&g audience marketplace (ttd),0.35,run-time,0.3,0.455,0,
+RC387,live,ozone,stylist,marketplace,p&g audience marketplace (ttd),0,0,0,0.1,0,2025-06-17
 RC387,live,ozone,telegraph,marketplace,p&g audience marketplace (ttd),0.4,run-time,0.1,0.54,0,
 RC387,live,ozone,the jewish chronicle,marketplace,p&g audience marketplace (ttd),0.36,run-time,0.3,0.448,0,
 RC387,live,ozone,timeout,marketplace,p&g audience marketplace (ttd),0.35,run-time,0.3,0.455,0,
@@ -2900,7 +2857,6 @@ RC388,live,ozone,reach,marketplace,p&g inventory only marketplace (ttd),0.4,eom,
 RC388,live,ozone,snack media,marketplace,p&g inventory only marketplace (ttd),0.35,run-time,0,0.65,0,
 RC388,live,ozone,sportskeeda,marketplace,p&g inventory only marketplace (ttd),0.36,run-time,0,0.64,0,2025-04-30
 RC388,live,ozone,standard,marketplace,p&g inventory only marketplace (ttd),0.18,run-time,0,0.82,0,
-RC388,live,ozone,stylist,marketplace,p&g inventory only marketplace (ttd),0.18,run-time,0,0.82,0,
 RC388,live,ozone,telegraph,marketplace,p&g inventory only marketplace (ttd),0.4,run-time,0,0.6,0,
 RC388,live,ozone,the jewish chronicle,marketplace,p&g inventory only marketplace (ttd),0.18,run-time,0,0.82,0,
 RC388,live,ozone,timeout,marketplace,p&g inventory only marketplace (ttd),0.18,run-time,0,0.82,0,
@@ -2943,7 +2899,6 @@ RC389,live,ozone,reach,marketplace,p&g contextual marketplace (ttd),0.4,eom,0,1,
 RC389,live,ozone,snack media,marketplace,p&g contextual marketplace (ttd),0.35,run-time,0,0.65,0,
 RC389,live,ozone,sportskeeda,marketplace,p&g contextual marketplace (ttd),0.36,run-time,0,0.64,0,2025-04-30
 RC389,live,ozone,standard,marketplace,p&g contextual marketplace (ttd),0.18,run-time,0,0.82,0,
-RC389,live,ozone,stylist,marketplace,p&g contextual marketplace (ttd),0.18,run-time,0,0.82,0,
 RC389,live,ozone,telegraph,marketplace,p&g contextual marketplace (ttd),0.4,run-time,0,0.6,0,
 RC389,live,ozone,the jewish chronicle,marketplace,p&g contextual marketplace (ttd),0.18,run-time,0,0.82,0,
 RC389,live,ozone,timeout,marketplace,p&g contextual marketplace (ttd),0.18,run-time,0,0.82,0,
@@ -2990,7 +2945,6 @@ RC39,live,ozone,reach,ozone omp,adform,0.4,eom,0,1,0,2024-08-15
 RC39,live,ozone,snack media,ozone omp,adform,0.35,run-time,0,0.65,,
 RC39,live,ozone,sportskeeda,ozone omp,adform,0.36,run-time,0,0.64,0,2025-04-30
 RC39,live,ozone,standard,ozone omp,adform,0.1,run-time,0,0.9,,
-RC39,live,ozone,stylist,ozone omp,adform,0.1,run-time,0,0.9,,
 RC39,live,ozone,tekan,ozone omp,adform,0.1,run-time,0,0.9,,
 RC39,live,ozone,telegraph,ozone omp,adform,0.4,run-time,0,0.6,,
 RC39,live,ozone,the jewish chronicle,ozone omp,adform,0.1,run-time,0,0.9,0,
@@ -3030,7 +2984,7 @@ RC390,live,ozone,reach,marketplace,audience marketplace (ttd),0.4,run-time,0.1,0
 RC390,live,ozone,snack media,marketplace,audience marketplace (ttd),0.35,run-time,0.3,0.448,0,2024-11-07
 RC390,live,ozone,sportskeeda,marketplace,audience marketplace (ttd),0.36,run-time,0.3,0.448,0,2025-04-30
 RC390,live,ozone,standard,marketplace,audience marketplace (ttd),0.35,run-time,0.3,0.455,0,
-RC390,live,ozone,stylist,marketplace,audience marketplace (ttd),0.35,run-time,0.3,0.455,0,
+RC390,live,ozone,stylist,marketplace,audience marketplace (ttd),0,0,0,0.1,0,2025-06-17
 RC390,live,ozone,telegraph,marketplace,audience marketplace (ttd),0.4,run-time,0.1,0.54,0,
 RC390,live,ozone,the jewish chronicle,marketplace,audience marketplace (ttd),0.36,run-time,0.3,0.448,0,
 RC390,live,ozone,timeout,marketplace,audience marketplace (ttd),0.35,run-time,0.3,0.455,0,
@@ -3073,7 +3027,6 @@ RC391,live,ozone,reach,marketplace,inventory only marketplace (ttd),0.4,eom,0,1,
 RC391,live,ozone,snack media,marketplace,inventory only marketplace (ttd),0.35,run-time,0,0.65,0,
 RC391,live,ozone,sportskeeda,marketplace,inventory only marketplace (ttd),0.36,run-time,0,0.64,0,2025-04-30
 RC391,live,ozone,standard,marketplace,inventory only marketplace (ttd),0.18,run-time,0,0.82,0,
-RC391,live,ozone,stylist,marketplace,inventory only marketplace (ttd),0.18,run-time,0,0.82,0,
 RC391,live,ozone,telegraph,marketplace,inventory only marketplace (ttd),0.4,run-time,0,0.6,0,
 RC391,live,ozone,the jewish chronicle,marketplace,inventory only marketplace (ttd),0.18,run-time,0,0.82,0,
 RC391,live,ozone,timeout,marketplace,inventory only marketplace (ttd),0.18,run-time,0,0.82,0,
@@ -3116,7 +3069,6 @@ RC392,live,ozone,reach,marketplace,contextual marketplace (ttd),0.4,eom,0,1,0,20
 RC392,live,ozone,snack media,marketplace,contextual marketplace (ttd),0.35,run-time,0,0.65,0,
 RC392,live,ozone,sportskeeda,marketplace,contextual marketplace (ttd),0.36,run-time,0,0.64,0,2025-04-30
 RC392,live,ozone,standard,marketplace,contextual marketplace (ttd),0.18,run-time,0,0.82,0,
-RC392,live,ozone,stylist,marketplace,contextual marketplace (ttd),0.18,run-time,0,0.82,0,
 RC392,live,ozone,telegraph,marketplace,contextual marketplace (ttd),0.4,run-time,0,0.6,0,
 RC392,live,ozone,the jewish chronicle,marketplace,contextual marketplace (ttd),0.18,run-time,0,0.82,0,
 RC392,live,ozone,timeout,marketplace,contextual marketplace (ttd),0.18,run-time,0,0.82,0,
@@ -3145,7 +3097,6 @@ RC40,live,ozone,our media,ozone omp,districtm,0.23,eom,0,1,,
 RC40,live,ozone,pinknews,ozone omp,districtm,0.1,run-time,0,0.9,0,
 RC40,live,ozone,prisma media,ozone omp,districtm,0.25,run-time,0,0.75,,
 RC40,live,ozone,reach,ozone omp,districtm,0.4,eom,0,1,0,2024-08-15
-RC40,live,ozone,stylist,ozone omp,districtm,0.1,,0,,,
 RC40,live,ozone,tekan,ozone omp,districtm,0.1,run-time,0,0.9,,
 RC40,live,ozone,telegraph,ozone omp,districtm,0.4,run-time,0,0.6,,
 RC40,live,ozone,the jewish chronicle,ozone omp,districtm,0.1,run-time,0,0.9,0,
@@ -3172,7 +3123,6 @@ RC401,live,saas,news,publisher pmp,news (33across),0,eom,0,1,0,2023-09-27
 RC401,live,saas,planet sport,publisher pmp,planet sport (33across),0.12,run-time,0,0.88,0,
 RC401,live,saas,reach,publisher pmp,reach (33across),0.06,run-time,0,0.94,0,2024-08-01
 RC401,live,saas,standard,publisher pmp,standard (33across),0.12,run-time,0,0.88,0,
-RC401,live,saas,stylist,publisher pmp,stylist (33across),0.12,eom,0,1,0,
 RC401,live,saas,tekan,publisher pmp,tekan (33across),0,eom,0,1,0,
 RC401,live,saas,telegraph,publisher pmp,tmg (33across),0.06,run-time,0,0.94,0,
 RC401,live,saas,venatus,publisher pmp,venatus (33across),0.12,run-time,0,0.88,0,2024-10-30
@@ -3195,7 +3145,6 @@ RC402,live,saas,news,publisher omp,news (33across),0,eom,0,1,0,2023-09-27
 RC402,live,saas,planet sport,publisher omp,planet sport (33across),0.12,run-time,0,0.88,0,
 RC402,live,saas,reach,publisher omp,reach (33across),0.06,run-time,0,0.94,0,2024-08-01
 RC402,live,saas,standard,publisher omp,standard (33across),0.12,run-time,0,0.88,0,
-RC402,live,saas,stylist,publisher omp,stylist (33across),0.12,eom,0,1,0,
 RC402,live,saas,tekan,publisher omp,tekan (33across),0,eom,0,1,0,
 RC402,live,saas,telegraph,publisher omp,tmg (33across),0.06,run-time,0,0.94,0,
 RC402,live,saas,venatus,publisher omp,venatus (33across),0.12,run-time,0,0.88,0,2024-10-30
@@ -3218,7 +3167,6 @@ RC403,live,saas,news,publisher pmp,news (alkimi exchange),0,eom,0,1,0,2023-09-27
 RC403,live,saas,planet sport,publisher pmp,planet sport (alkimi exchange),0.12,run-time,0,0.88,0,
 RC403,live,saas,reach,publisher pmp,reach (alkimi exchange),0.06,run-time,0,0.94,0,2024-08-01
 RC403,live,saas,standard,publisher pmp,standard (alkimi exchange),0.12,run-time,0,0.88,0,
-RC403,live,saas,stylist,publisher pmp,stylist (alkimi exchange),0.12,eom,0,1,0,
 RC403,live,saas,tekan,publisher pmp,tekan (alkimi exchange),0,eom,0,1,0,
 RC403,live,saas,telegraph,publisher pmp,tmg (alkimi exchange),0.06,run-time,0,0.94,0,
 RC403,live,saas,venatus,publisher pmp,venatus (alkimi exchange),0.12,run-time,0,0.88,0,2024-10-30
@@ -3241,7 +3189,6 @@ RC404,live,saas,news,publisher omp,news (alkimi exchange),0,eom,0,1,0,2023-09-27
 RC404,live,saas,planet sport,publisher omp,planet sport (alkimi exchange),0.12,run-time,0,0.88,0,
 RC404,live,saas,reach,publisher omp,reach (alkimi exchange),0.06,run-time,0,0.94,0,2024-08-01
 RC404,live,saas,standard,publisher omp,standard (alkimi exchange),0.12,run-time,0,0.88,0,
-RC404,live,saas,stylist,publisher omp,stylist (alkimi exchange),0.12,eom,0,1,0,
 RC404,live,saas,tekan,publisher omp,tekan (alkimi exchange),0,eom,0,1,0,
 RC404,live,saas,telegraph,publisher omp,tmg (alkimi exchange),0.06,run-time,0,0.94,0,
 RC404,live,saas,venatus,publisher omp,venatus (alkimi exchange),0.12,run-time,0,0.88,0,2024-10-30
@@ -3264,7 +3211,6 @@ RC405,live,saas,news,publisher pmp,news (freewheel),0,eom,0,1,0,2023-09-27
 RC405,live,saas,planet sport,publisher pmp,planet sport (freewheel),0.12,run-time,0,0.88,0,
 RC405,live,saas,reach,publisher pmp,reach (freewheel),0.06,run-time,0,0.94,0,2024-08-01
 RC405,live,saas,standard,publisher pmp,standard (freewheel),0.12,run-time,0,0.88,0,
-RC405,live,saas,stylist,publisher pmp,stylist (freewheel),0.12,eom,0,1,0,
 RC405,live,saas,tekan,publisher pmp,tekan (freewheel),0,eom,0,1,0,
 RC405,live,saas,telegraph,publisher pmp,tmg (freewheel),0.06,run-time,0,0.94,0,
 RC405,live,saas,venatus,publisher pmp,venatus (freewheel),0.12,run-time,0,0.88,0,2024-10-30
@@ -3287,7 +3233,6 @@ RC406,live,saas,news,publisher omp,news (freewheel),0,eom,0,1,0,2023-09-27
 RC406,live,saas,planet sport,publisher omp,planet sport (freewheel),0.12,run-time,0,0.88,0,
 RC406,live,saas,reach,publisher omp,reach (freewheel),0.06,run-time,0,0.94,0,2024-08-01
 RC406,live,saas,standard,publisher omp,standard (freewheel),0.12,run-time,0,0.88,0,
-RC406,live,saas,stylist,publisher omp,stylist (freewheel),0.12,eom,0,1,0,
 RC406,live,saas,tekan,publisher omp,tekan (freewheel),0,eom,0,1,0,
 RC406,live,saas,telegraph,publisher omp,tmg (freewheel),0.06,run-time,0,0.94,0,
 RC406,live,saas,venatus,publisher omp,venatus (freewheel),0.12,run-time,0,0.88,0,2024-10-30
@@ -3311,7 +3256,6 @@ RC407,live,saas,news,publisher pmp,news (medianet),0,eom,0,1,0,2023-09-27
 RC407,live,saas,planet sport,publisher pmp,planet sport (medianet),0.12,run-time,0,0.88,0,
 RC407,live,saas,reach,publisher pmp,reach (medianet),0.06,run-time,0,0.94,0,2024-08-01
 RC407,live,saas,standard,publisher pmp,standard (medianet),0.12,run-time,0,0.88,0,
-RC407,live,saas,stylist,publisher pmp,stylist (medianet),0.12,eom,0,1,0,
 RC407,live,saas,tekan,publisher pmp,tekan (medianet),0,eom,0,1,0,
 RC407,live,saas,telegraph,publisher pmp,tmg (medianet),0.06,run-time,0,0.94,0,
 RC407,live,saas,venatus,publisher pmp,venatus (medianet),0.12,run-time,0,0.88,0,2024-10-30
@@ -3336,7 +3280,6 @@ RC408,live,saas,news,publisher omp,news (medianet),0,eom,0,1,0,2023-09-27
 RC408,live,saas,planet sport,publisher omp,planet sport (medianet),0.12,run-time,0,0.88,0,
 RC408,live,saas,reach,publisher omp,reach (medianet),0.06,run-time,0,0.94,0,2024-08-01
 RC408,live,saas,standard,publisher omp,standard (medianet),0.12,run-time,0,0.88,0,
-RC408,live,saas,stylist,publisher omp,stylist (medianet),0.12,eom,0,1,0,
 RC408,live,saas,tekan,publisher omp,tekan (medianet),0,eom,0,1,0,
 RC408,live,saas,telegraph,publisher omp,tmg (medianet),0.06,run-time,0,0.94,0,
 RC408,live,saas,venatus,publisher omp,venatus (medianet),0.12,run-time,0,0.88,0,2024-10-30
@@ -3360,7 +3303,6 @@ RC409,live,saas,news,publisher pmp,news (onetag),0,eom,0,1,0,2023-09-27
 RC409,live,saas,planet sport,publisher pmp,planet sport (onetag),0.12,run-time,0,0.88,0,
 RC409,live,saas,reach,publisher pmp,reach (onetag),0.06,run-time,0,0.94,0,2024-08-01
 RC409,live,saas,standard,publisher pmp,standard (onetag),0.12,run-time,0,0.88,0,
-RC409,live,saas,stylist,publisher pmp,stylist (onetag),0.12,eom,0,1,0,
 RC409,live,saas,tekan,publisher pmp,tekan (onetag),0,eom,0,1,0,
 RC409,live,saas,telegraph,publisher pmp,tmg (onetag),0.06,run-time,0,0.94,0,
 RC409,live,saas,venatus,publisher pmp,venatus (onetag),0.12,run-time,0,0.88,0,2024-10-30
@@ -3402,7 +3344,6 @@ RC41,live,ozone,reach,ozone omp,improve,0.4,eom,0,1,0,2024-08-15
 RC41,live,ozone,snack media,ozone omp,improve,0.35,run-time,0,0.59,,2023-12-05
 RC41,live,ozone,sportskeeda,ozone omp,improve,0.36,run-time,0,0.5824,0,2025-04-30
 RC41,live,ozone,standard,ozone omp,improve,0.1,run-time,,0.819,,2023-12-05
-RC41,live,ozone,stylist,ozone omp,improve,0.1,run-time,,0.819,,2023-12-05
 RC41,live,ozone,tekan,ozone omp,improve,0.1,run-time,0,0.819,,2023-12-05
 RC41,live,ozone,telegraph,ozone omp,improve,0.4,run-time,,0.546,,2023-12-05
 RC41,live,ozone,the jewish chronicle,ozone omp,improve,0.181,run-time,0,0.819,0,2023-12-05
@@ -3428,7 +3369,6 @@ RC410,live,saas,news,publisher omp,news (onetag),0,eom,0,1,0,2023-09-27
 RC410,live,saas,planet sport,publisher omp,planet sport (onetag),0.12,run-time,0,0.88,0,
 RC410,live,saas,reach,publisher omp,reach (onetag),0.06,run-time,0,0.94,0,2024-08-01
 RC410,live,saas,standard,publisher omp,standard (onetag),0.12,run-time,0,0.88,0,
-RC410,live,saas,stylist,publisher omp,stylist (onetag),0.12,eom,0,1,0,
 RC410,live,saas,tekan,publisher omp,tekan (onetag),0,eom,0,1,0,
 RC410,live,saas,telegraph,publisher omp,tmg (onetag),0.06,run-time,0,0.94,0,
 RC410,live,saas,venatus,publisher omp,venatus (onetag),0.12,run-time,0,0.88,0,2024-10-30
@@ -3451,7 +3391,6 @@ RC411,live,saas,news,publisher pmp,news (outbrain),0,eom,0,1,0,2023-09-27
 RC411,live,saas,planet sport,publisher pmp,planet sport (outbrain),0.12,run-time,0,0.88,0,
 RC411,live,saas,reach,publisher pmp,reach (outbrain),0.06,run-time,0,0.94,0,2024-08-01
 RC411,live,saas,standard,publisher pmp,standard (outbrain),0.12,run-time,0,0.88,0,
-RC411,live,saas,stylist,publisher pmp,stylist (outbrain),0.12,eom,0,1,0,
 RC411,live,saas,tekan,publisher pmp,tekan (outbrain),0,eom,0,1,0,
 RC411,live,saas,telegraph,publisher pmp,tmg (outbrain),0.06,run-time,0,0.94,0,
 RC411,live,saas,venatus,publisher pmp,venatus (outbrain),0.12,run-time,0,0.88,0,2024-10-30
@@ -3474,7 +3413,6 @@ RC412,live,saas,news,publisher omp,news (outbrain),0,eom,0,1,0,2023-09-27
 RC412,live,saas,planet sport,publisher omp,planet sport (outbrain),0.12,run-time,0,0.88,0,
 RC412,live,saas,reach,publisher omp,reach (outbrain),0.06,run-time,0,0.94,0,2024-08-01
 RC412,live,saas,standard,publisher omp,standard (outbrain),0.12,run-time,0,0.88,0,
-RC412,live,saas,stylist,publisher omp,stylist (outbrain),0.12,eom,0,1,0,
 RC412,live,saas,tekan,publisher omp,tekan (outbrain),0,eom,0,1,0,
 RC412,live,saas,telegraph,publisher omp,tmg (outbrain),0.06,run-time,0,0.94,0,
 RC412,live,saas,venatus,publisher omp,venatus (outbrain),0.12,run-time,0,0.88,0,2024-10-30
@@ -3497,7 +3435,6 @@ RC413,live,saas,news,publisher pmp,news (pulsepoint),0,eom,0,1,0,2023-09-27
 RC413,live,saas,planet sport,publisher pmp,planet sport (pulsepoint),0.12,run-time,0,0.88,0,
 RC413,live,saas,reach,publisher pmp,reach (pulsepoint),0.06,run-time,0,0.94,0,2024-08-01
 RC413,live,saas,standard,publisher pmp,standard (pulsepoint),0.12,run-time,0,0.88,0,
-RC413,live,saas,stylist,publisher pmp,stylist (pulsepoint),0.12,eom,0,1,0,
 RC413,live,saas,tekan,publisher pmp,tekan (pulsepoint),0,eom,0,1,0,
 RC413,live,saas,telegraph,publisher pmp,tmg (pulsepoint),0.06,run-time,0,0.94,0,
 RC413,live,saas,venatus,publisher pmp,venatus (pulsepoint),0.12,run-time,0,0.88,0,2024-10-30
@@ -3520,7 +3457,6 @@ RC414,live,saas,news,publisher omp,news (pulsepoint),0,eom,0,1,0,2023-09-27
 RC414,live,saas,planet sport,publisher omp,planet sport (pulsepoint),0.12,run-time,0,0.88,0,
 RC414,live,saas,reach,publisher omp,reach (pulsepoint),0.06,run-time,0,0.94,0,2024-08-01
 RC414,live,saas,standard,publisher omp,standard (pulsepoint),0.12,run-time,0,0.88,0,
-RC414,live,saas,stylist,publisher omp,stylist (pulsepoint),0.12,eom,0,1,0,
 RC414,live,saas,tekan,publisher omp,tekan (pulsepoint),0,eom,0,1,0,
 RC414,live,saas,telegraph,publisher omp,tmg (pulsepoint),0.06,run-time,0,0.94,0,
 RC414,live,saas,venatus,publisher omp,venatus (pulsepoint),0.12,run-time,0,0.88,0,2024-10-30
@@ -3543,7 +3479,6 @@ RC415,live,saas,news,publisher pmp,news (rich audience),0,eom,0,1,0,2023-09-27
 RC415,live,saas,planet sport,publisher pmp,planet sport (rich audience),0.12,run-time,0,0.88,0,
 RC415,live,saas,reach,publisher pmp,reach (rich audience),0.06,run-time,0,0.94,0,2024-08-01
 RC415,live,saas,standard,publisher pmp,standard (rich audience),0.12,run-time,0,0.88,0,
-RC415,live,saas,stylist,publisher pmp,stylist (rich audience),0.12,eom,0,1,0,
 RC415,live,saas,tekan,publisher pmp,tekan (rich audience),0,eom,0,1,0,
 RC415,live,saas,telegraph,publisher pmp,tmg (rich audience),0.06,run-time,0,0.94,0,
 RC415,live,saas,venatus,publisher pmp,venatus (rich audience),0.12,run-time,0,0.88,0,2024-10-30
@@ -3566,7 +3501,6 @@ RC416,live,saas,news,publisher omp,news (rich audience),0,eom,0,1,0,2023-09-27
 RC416,live,saas,planet sport,publisher omp,planet sport (rich audience),0.12,run-time,0,0.88,0,
 RC416,live,saas,reach,publisher omp,reach (rich audience),0.06,run-time,0,0.94,0,2024-08-01
 RC416,live,saas,standard,publisher omp,standard (rich audience),0.12,run-time,0,0.88,0,
-RC416,live,saas,stylist,publisher omp,stylist (rich audience),0.12,eom,0,1,0,
 RC416,live,saas,tekan,publisher omp,tekan (rich audience),0,eom,0,1,0,
 RC416,live,saas,telegraph,publisher omp,tmg (rich audience),0.06,run-time,0,0.94,0,
 RC416,live,saas,venatus,publisher omp,venatus (rich audience),0.12,run-time,0,0.88,0,2024-10-30
@@ -3588,7 +3522,6 @@ RC417,live,saas,new york post,publisher pmp,new york post (sharethrough),0,eom,0
 RC417,live,saas,planet sport,publisher pmp,planet sport (sharethrough),0.12,run-time,0,0.88,0,
 RC417,live,saas,reach,publisher pmp,reach (sharethrough),0.06,run-time,0,0.94,0,2024-08-01
 RC417,live,saas,standard,publisher pmp,standard (sharethrough),0.12,run-time,0,0.88,0,
-RC417,live,saas,stylist,publisher pmp,stylist (sharethrough),0.12,eom,0,1,0,
 RC417,live,saas,tekan,publisher pmp,tekan (sharethrough),0,eom,0,1,0,
 RC417,live,saas,telegraph,publisher pmp,tmg (sharethrough),0.06,run-time,0,0.94,0,
 RC417,live,saas,venatus,publisher pmp,venatus (sharethrough),0.12,run-time,0,0.88,0,2024-10-30
@@ -3610,7 +3543,6 @@ RC418,live,saas,new york post,publisher omp,new york post (sharethrough),0,eom,0
 RC418,live,saas,planet sport,publisher omp,planet sport (sharethrough),0.12,run-time,0,0.88,0,
 RC418,live,saas,reach,publisher omp,reach (sharethrough),0.06,run-time,0,0.94,0,2024-08-01
 RC418,live,saas,standard,publisher omp,standard (sharethrough),0.12,run-time,0,0.88,0,
-RC418,live,saas,stylist,publisher omp,stylist (sharethrough),0.12,eom,0,1,0,
 RC418,live,saas,tekan,publisher omp,tekan (sharethrough),0,eom,0,1,0,
 RC418,live,saas,telegraph,publisher omp,tmg (sharethrough),0.06,run-time,0,0.94,0,
 RC418,live,saas,venatus,publisher omp,venatus (sharethrough),0.12,run-time,0,0.88,0,2024-10-30
@@ -3635,7 +3567,6 @@ RC419,live,saas,news,publisher pmp,news (sovrn),0,eom,0,1,0,2023-09-27
 RC419,live,saas,planet sport,publisher pmp,planet sport (sovrn),0.12,run-time,0,0.88,0,
 RC419,live,saas,reach,publisher pmp,reach (sovrn),0.06,run-time,0,0.94,0,2024-08-01
 RC419,live,saas,standard,publisher pmp,standard (sovrn),0.12,run-time,0,0.88,0,
-RC419,live,saas,stylist,publisher pmp,stylist (sovrn),0.12,eom,0,1,0,
 RC419,live,saas,tekan,publisher pmp,tekan (sovrn),0,eom,0,1,0,
 RC419,live,saas,telegraph,publisher pmp,tmg (sovrn),0.06,run-time,0,0.94,0,
 RC419,live,saas,venatus,publisher pmp,venatus (sovrn),0.12,run-time,0,0.88,0,2024-10-30
@@ -3661,7 +3592,6 @@ RC420,live,saas,news,publisher omp,news (sovrn),0,eom,0,1,0,2023-09-27
 RC420,live,saas,planet sport,publisher omp,planet sport (sovrn),0.12,run-time,0,0.88,0,
 RC420,live,saas,reach,publisher omp,reach (sovrn),0.06,run-time,0,0.94,0,2024-08-01
 RC420,live,saas,standard,publisher omp,standard (sovrn),0.12,run-time,0,0.88,0,
-RC420,live,saas,stylist,publisher omp,stylist (sovrn),0.12,eom,0,1,0,
 RC420,live,saas,tekan,publisher omp,tekan (sovrn),0,eom,0,1,0,
 RC420,live,saas,telegraph,publisher omp,tmg (sovrn),0.06,run-time,0,0.94,0,
 RC420,live,saas,venatus,publisher omp,venatus (sovrn),0.12,run-time,0,0.88,0,2024-10-30
@@ -3684,7 +3614,6 @@ RC421,live,saas,news,publisher pmp,news (tappx),0,eom,0,1,0,2023-09-27
 RC421,live,saas,planet sport,publisher pmp,planet sport (tappx),0.12,run-time,0,0.88,0,
 RC421,live,saas,reach,publisher pmp,reach (tappx),0.06,run-time,0,0.94,0,2024-08-01
 RC421,live,saas,standard,publisher pmp,standard (tappx),0.12,run-time,0,0.88,0,
-RC421,live,saas,stylist,publisher pmp,stylist (tappx),0.12,eom,0,1,0,
 RC421,live,saas,tekan,publisher pmp,tekan (tappx),0,eom,0,1,0,
 RC421,live,saas,telegraph,publisher pmp,tmg (tappx),0.06,run-time,0,0.94,0,
 RC421,live,saas,venatus,publisher pmp,venatus (tappx),0.12,run-time,0,0.88,0,2024-10-30
@@ -3707,7 +3636,6 @@ RC422,live,saas,news,publisher omp,news (tappx),0,eom,0,1,0,2023-09-27
 RC422,live,saas,planet sport,publisher omp,planet sport (tappx),0.12,run-time,0,0.88,0,
 RC422,live,saas,reach,publisher omp,reach (tappx),0.06,run-time,0,0.94,0,2024-08-01
 RC422,live,saas,standard,publisher omp,standard (tappx),0.12,run-time,0,0.88,0,
-RC422,live,saas,stylist,publisher omp,stylist (tappx),0.12,eom,0,1,0,
 RC422,live,saas,tekan,publisher omp,tekan (tappx),0,eom,0,1,0,
 RC422,live,saas,telegraph,publisher omp,tmg (tappx),0.06,run-time,0,0.94,0,
 RC422,live,saas,venatus,publisher omp,venatus (tappx),0.12,run-time,0,0.88,0,2024-10-30
@@ -3731,7 +3659,6 @@ RC423,live,saas,planet sport,publisher pmp,planet sport (unruly),0.12,run-time,0
 RC423,live,saas,reach,publisher pmp,reach (unruly),0.06,run-time,0,0.94,0,2024-08-01
 RC423,live,saas,snack media,publisher pmp,snack media (unruly),0.15,run-time,0,0.85,0,2024-07-10
 RC423,live,saas,standard,publisher pmp,standard (unruly),0.12,run-time,0,0.88,0,
-RC423,live,saas,stylist,publisher pmp,stylist (unruly),0.12,eom,0,1,0,
 RC423,live,saas,tekan,publisher pmp,tekan (unruly),0,eom,0,1,0,
 RC423,live,saas,telegraph,publisher pmp,tmg (unruly),0.06,run-time,0,0.94,0,
 RC423,live,saas,venatus,publisher pmp,venatus (unruly),0.12,run-time,0,0.88,0,2024-10-30
@@ -3755,7 +3682,6 @@ RC424,live,saas,planet sport,publisher omp,planet sport (unruly),0.12,run-time,0
 RC424,live,saas,reach,publisher omp,reach (unruly),0.06,run-time,0,0.94,0,2024-08-01
 RC424,live,saas,snack media,publisher omp,snack media (unruly),0.15,run-time,0,0.85,0,2024-07-10
 RC424,live,saas,standard,publisher omp,standard (unruly),0.12,run-time,0,0.88,0,
-RC424,live,saas,stylist,publisher omp,stylist (unruly),0.12,eom,0,1,0,
 RC424,live,saas,tekan,publisher omp,tekan (unruly),0,eom,0,1,0,
 RC424,live,saas,telegraph,publisher omp,tmg (unruly),0.06,run-time,0,0.94,0,
 RC424,live,saas,venatus,publisher omp,venatus (unruly),0.12,run-time,0,0.88,0,2024-10-30
@@ -3778,7 +3704,6 @@ RC425,live,saas,news,publisher pmp,news (yieldmo),0,eom,0,1,0,2023-09-27
 RC425,live,saas,planet sport,publisher pmp,planet sport (yieldmo),0.12,run-time,0,0.88,0,
 RC425,live,saas,reach,publisher pmp,reach (yieldmo),0.06,run-time,0,0.94,0,2024-08-01
 RC425,live,saas,standard,publisher pmp,standard (yieldmo),0.12,run-time,0,0.88,0,
-RC425,live,saas,stylist,publisher pmp,stylist (yieldmo),0.12,eom,0,1,0,
 RC425,live,saas,tekan,publisher pmp,tekan (yieldmo),0,eom,0,1,0,
 RC425,live,saas,telegraph,publisher pmp,tmg (yieldmo),0.06,run-time,0,0.94,0,
 RC425,live,saas,venatus,publisher pmp,venatus (yieldmo),0.12,run-time,0,0.88,0,2024-10-30
@@ -3801,7 +3726,6 @@ RC426,live,saas,news,publisher omp,news (yieldmo),0,eom,0,1,0,2023-09-27
 RC426,live,saas,planet sport,publisher omp,planet sport (yieldmo),0.12,run-time,0,0.88,0,
 RC426,live,saas,reach,publisher omp,reach (yieldmo),0.06,run-time,0,0.94,0,2024-08-01
 RC426,live,saas,standard,publisher omp,standard (yieldmo),0.12,run-time,0,0.88,0,
-RC426,live,saas,stylist,publisher omp,stylist (yieldmo),0.12,eom,0,1,0,
 RC426,live,saas,tekan,publisher omp,tekan (yieldmo),0,eom,0,1,0,
 RC426,live,saas,telegraph,publisher omp,tmg (yieldmo),0.06,run-time,0,0.94,0,
 RC426,live,saas,venatus,publisher omp,venatus (yieldmo),0.12,run-time,0,0.88,0,2024-10-30
@@ -3816,7 +3740,6 @@ RC427,live,saas,huffington post,publisher pmp,huffington post (triplelift),0.12,
 RC427,live,saas,news,publisher pmp,news (triplelift),0,eom,0,1,0,2023-09-27
 RC427,live,saas,reach,publisher pmp,reach (triplelift),0.06,run-time,0,0.94,0,2024-08-01
 RC427,live,saas,snack media,publisher pmp,snack media (triplelift),0.15,run-time,0,0.85,0,2023-09-26
-RC427,live,saas,stylist,publisher pmp,stylist (triplelift),0.12,eom,0,1,0,
 RC427,live,saas,tekan,publisher pmp,tekan (triplelift),0,eom,0,1,0,
 RC427,live,saas,wall street journal,publisher pmp,wall street journal (triplelift),0.12,run-time,0,0.88,0,2024-07-30
 RC428,live,saas,adinplay,publisher omp,triplelift,0.12,run-time,0,0.88,0,2025-01-29
@@ -3829,7 +3752,6 @@ RC428,live,saas,huffington post,publisher omp,huffington post (triplelift),0.12,
 RC428,live,saas,news,publisher omp,news (triplelift),0,eom,0,1,0,2023-09-27
 RC428,live,saas,reach,publisher omp,reach (triplelift),0.06,run-time,0,0.94,0,2024-08-01
 RC428,live,saas,snack media,publisher omp,snack media (triplelift),0.15,run-time,0,0.85,0,2023-09-26
-RC428,live,saas,stylist,publisher omp,stylist (triplelift),0.12,eom,0,1,0,
 RC428,live,saas,tekan,publisher omp,tekan (triplelift),0,eom,0,1,0,
 RC428,live,saas,wall street journal,publisher omp,wall street journal (triplelift),0.12,run-time,0,0.88,0,2024-07-30
 RC429,live,saas,adinplay,publisher pmp,gumgum,0.12,run-time,0,0.88,0,2025-01-29
@@ -3850,7 +3772,6 @@ RC429,live,saas,planet sport,publisher pmp,planet sport (gumgum),0.12,run-time,0
 RC429,live,saas,reach,publisher pmp,reach (gumgum),0.06,run-time,0,0.94,0,2024-08-01
 RC429,live,saas,snack media,publisher pmp,snack media (gumgum),0.15,run-time,0,0.85,0,2024-11-18
 RC429,live,saas,standard,publisher pmp,standard (gumgum),0.12,run-time,0,0.88,0,
-RC429,live,saas,stylist,publisher pmp,stylist (gumgum),0.12,eom,0,1,0,
 RC429,live,saas,telegraph,publisher pmp,tmg (gumgum),0.06,run-time,0,0.94,0,
 RC429,live,saas,venatus,publisher pmp,venatus (gumgum),0.12,run-time,0,0.88,0,2024-10-30
 RC429,live,saas,venatus-bidder,publisher pmp,venatus-bidder (gumgum),0.12,run-time,0,0.7734,0,2023-11-23
@@ -3873,7 +3794,6 @@ RC430,live,saas,planet sport,publisher omp,planet sport (gumgum),0.12,run-time,0
 RC430,live,saas,reach,publisher omp,reach (gumgum),0.06,run-time,0,0.94,0,2024-08-01
 RC430,live,saas,snack media,publisher omp,snack media (gumgum),0.15,run-time,0,0.85,0,2024-11-18
 RC430,live,saas,standard,publisher omp,standard (gumgum),0.12,run-time,0,0.88,0,
-RC430,live,saas,stylist,publisher omp,stylist (gumgum),0.12,eom,0,1,0,
 RC430,live,saas,telegraph,publisher omp,tmg (gumgum),0.06,run-time,0,0.94,0,
 RC430,live,saas,venatus,publisher omp,venatus (gumgum),0.12,run-time,0,0.88,0,2024-10-30
 RC430,live,saas,venatus-bidder,publisher omp,venatus-bidder (gumgum),0.12,run-time,0,0.7734,0,2023-11-23
@@ -3916,7 +3836,6 @@ RC431,live,ozone,reach,ozone omp,index,0.4,eom,0,1,0,2024-08-15
 RC431,live,ozone,snack media,ozone omp,index,0.35,run-time,0,0.65,0,
 RC431,live,ozone,sportskeeda,ozone omp,index,0.36,run-time,0,0.64,0,2025-04-30
 RC431,live,ozone,standard,ozone omp,index,0.1,run-time,0,0.9,0,
-RC431,live,ozone,stylist,ozone omp,index,0.1,run-time,0,0.9,0,
 RC431,live,ozone,tekan,ozone omp,index,0.1,run-time,0,0.9,0,
 RC431,live,ozone,telegraph,ozone omp,index,0.4,run-time,0,0.6,0,
 RC431,live,ozone,the jewish chronicle,ozone omp,index,0.1,run-time,0,0.9,0,
@@ -3964,7 +3883,6 @@ RC432,live,ozone,reach,ozone omp,index,0.4,eom,0,1,0,2024-08-15
 RC432,live,ozone,snack media,ozone omp,index,0.35,run-time,0,0.65,0,
 RC432,live,ozone,sportskeeda,ozone pmp,index (ssp deals),0.36,run-time,0,0.64,0,2025-04-30
 RC432,live,ozone,standard,ozone omp,index,0.1,run-time,0,0.9,0,
-RC432,live,ozone,stylist,ozone omp,index,0.1,run-time,0,0.9,0,
 RC432,live,ozone,tekan,ozone omp,index,0.1,run-time,0,0.9,0,
 RC432,live,ozone,telegraph,ozone omp,index,0.4,run-time,0,0.6,0,
 RC432,live,ozone,the jewish chronicle,ozone omp,index,0.1,run-time,0,0.9,0,
@@ -4020,7 +3938,7 @@ RC451,live,ozone,reach,deals,audience deals (bidswitch),0.4,run-time,0.1,0.4968,
 RC451,live,ozone,snack media,deals,audience deals (bidswitch),0.35,run-time,0.3,0.419,0,2024-11-07
 RC451,live,ozone,sportskeeda,deals,audience deals (bidswitch),0.36,run-time,0.3,0.41216,0,2025-04-30
 RC451,live,ozone,standard,deals,audience deals (bidswitch),0.35,run-time,0.3,0.419,0,2023-09-21
-RC451,live,ozone,stylist,deals,audience deals (bidswitch),0.35,run-time,0.3,0.419,0,2023-09-21
+RC451,live,ozone,stylist,deals,audience deals (bidswitch),0,0,0,0.1,0,2025-06-17
 RC451,live,ozone,telegraph,deals,audience deals (bidswitch),0.4,run-time,0.1,0.497,0,2023-09-21
 RC451,live,ozone,the jewish chronicle,deals,audience deals (bidswitch),0.36,run-time,0.3,0.412,0,2023-09-21
 RC451,live,ozone,timeout,deals,audience deals (bidswitch),0.35,run-time,0.3,0.419,0,2023-09-21
@@ -4059,7 +3977,7 @@ RC452,live,ozone,reach,deals,inventory only deals (bidswitch),0.4,run-time,0,0.5
 RC452,live,ozone,snack media,deals,inventory only deals (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
 RC452,live,ozone,sportskeeda,deals,inventory only deals (bidswitch),0.36,run-time,0,0.5888,0,2025-04-30
 RC452,live,ozone,standard,deals,inventory only deals (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
-RC452,live,ozone,stylist,deals,inventory only deals (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
+RC452,live,ozone,stylist,deals,inventory only deals (bidswitch),0,0,0,0.1,0,2025-06-17
 RC452,live,ozone,telegraph,deals,inventory only deals (bidswitch),0.4,run-time,0,0.552,0,2023-09-21
 RC452,live,ozone,the jewish chronicle,deals,inventory only deals (bidswitch),0.36,run-time,0,0.589,0,2023-09-21
 RC452,live,ozone,timeout,deals,inventory only deals (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
@@ -4098,7 +4016,7 @@ RC453,live,ozone,reach,deals,contextual deals (bidswitch),0.4,run-time,0,0.552,0
 RC453,live,ozone,snack media,deals,contextual deals (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
 RC453,live,ozone,sportskeeda,deals,contextual deals (bidswitch),0.36,run-time,0,0.5888,0,2025-04-30
 RC453,live,ozone,standard,deals,contextual deals (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
-RC453,live,ozone,stylist,deals,contextual deals (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
+RC453,live,ozone,stylist,deals,contextual deals (bidswitch),0,0,0,0.1,0,2025-06-17
 RC453,live,ozone,telegraph,deals,contextual deals (bidswitch),0.4,run-time,0,0.552,0,2023-09-21
 RC453,live,ozone,the jewish chronicle,deals,contextual deals (bidswitch),0.36,run-time,0,0.589,0,2023-09-21
 RC453,live,ozone,timeout,deals,contextual deals (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
@@ -4136,7 +4054,7 @@ RC454,live,ozone,reach,marketplace,audience marketplace (bidswitch),0.4,run-time
 RC454,live,ozone,snack media,marketplace,audience marketplace (bidswitch),0.35,run-time,0.3,0.419,0,2024-11-07
 RC454,live,ozone,sportskeeda,marketplace,audience marketplace (bidswitch),0.36,run-time,0.3,0.41216,0,2025-04-30
 RC454,live,ozone,standard,marketplace,audience marketplace (bidswitch),0.35,run-time,0.3,0.419,0,2023-09-21
-RC454,live,ozone,stylist,marketplace,audience marketplace (bidswitch),0.35,run-time,0.3,0.419,0,2023-09-21
+RC454,live,ozone,stylist,marketplace,audience marketplace (bidswitch),0,0,0,0.1,0,2025-06-17
 RC454,live,ozone,telegraph,marketplace,audience marketplace (bidswitch),0.4,run-time,0.1,0.497,0,2023-09-21
 RC454,live,ozone,the jewish chronicle,marketplace,audience marketplace (bidswitch),0.36,run-time,0.3,0.412,0,2023-09-21
 RC454,live,ozone,timeout,marketplace,audience marketplace (bidswitch),0.35,run-time,0.3,0.419,0,2023-09-21
@@ -4177,7 +4095,6 @@ RC455,live,ozone,reach,marketplace,inventory only marketplace (bidswitch),0.4,eo
 RC455,live,ozone,snack media,marketplace,inventory only marketplace (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
 RC455,live,ozone,sportskeeda,marketplace,inventory only marketplace (bidswitch),0.36,run-time,0,0.5888,0,2025-04-30
 RC455,live,ozone,standard,marketplace,inventory only marketplace (bidswitch),0.18,run-time,0,0.7544,0,2023-09-21
-RC455,live,ozone,stylist,marketplace,inventory only marketplace (bidswitch),0.18,run-time,0,0.7544,0,2023-09-21
 RC455,live,ozone,telegraph,marketplace,inventory only marketplace (bidswitch),0.4,run-time,0,0.552,0,2023-09-21
 RC455,live,ozone,the jewish chronicle,marketplace,inventory only marketplace (bidswitch),0.18,run-time,0,0.754,0,2023-09-21
 RC455,live,ozone,timeout,marketplace,inventory only marketplace (bidswitch),0.18,run-time,0,0.7544,0,2023-09-21
@@ -4219,7 +4136,6 @@ RC456,live,ozone,reach,marketplace,contextual marketplace (bidswitch),0.4,eom,0,
 RC456,live,ozone,snack media,marketplace,contextual marketplace (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
 RC456,live,ozone,sportskeeda,marketplace,contextual marketplace (bidswitch),0.36,run-time,0,0.5888,0,2025-04-30
 RC456,live,ozone,standard,marketplace,contextual marketplace (bidswitch),0.18,run-time,0,0.7544,0,2023-09-21
-RC456,live,ozone,stylist,marketplace,contextual marketplace (bidswitch),0.18,run-time,0,0.7544,0,2023-09-21
 RC456,live,ozone,telegraph,marketplace,contextual marketplace (bidswitch),0.4,run-time,0,0.552,0,2023-09-21
 RC456,live,ozone,the jewish chronicle,marketplace,contextual marketplace (bidswitch),0.18,run-time,0,0.754,0,2023-09-21
 RC456,live,ozone,timeout,marketplace,contextual marketplace (bidswitch),0.18,run-time,0,0.7544,0,2023-09-21
@@ -4262,7 +4178,6 @@ RC457,live,ozone,reach,ozone omp,inventory only (bidswitch),0.4,eom,0,1,0,2024-0
 RC457,live,ozone,snack media,ozone omp,inventory only (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
 RC457,live,ozone,sportskeeda,ozone omp,inventory only (bidswitch),0.36,run-time,0,0.5888,0,2025-04-30
 RC457,live,ozone,standard,ozone omp,inventory only (bidswitch),0.1,run-time,0,0.828,0,2023-09-21
-RC457,live,ozone,stylist,ozone omp,inventory only (bidswitch),0.1,run-time,0,0.828,0,2023-09-21
 RC457,live,ozone,tekan,ozone omp,inventory only (bidswitch),0.1,run-time,0,0.828,0,2023-09-21
 RC457,live,ozone,telegraph,ozone omp,inventory only (bidswitch),0.4,run-time,0,0.552,0,2023-09-21
 RC457,live,ozone,the jewish chronicle,ozone omp,inventory only (bidswitch),0.1,run-time,0,0.828,0,2023-09-21
@@ -4407,7 +4322,6 @@ RC470,live,ozone,reach,ozone omp,yieldmo,0.4,eom,0,1,0,2024-08-15
 RC470,live,ozone,snack media,ozone omp,yieldmo,0.35,run-time,0,0.65,0,2023-09-15
 RC470,live,ozone,sportskeeda,ozone omp,yieldmo,0.36,run-time,0,0.64,0,2025-04-30
 RC470,live,ozone,standard,ozone omp,yieldmo,0.1,run-time,0,0.9,0,2024-03-13
-RC470,live,ozone,stylist,ozone omp,yieldmo,0.1,run-time,0,0.9,0,2023-09-15
 RC470,live,ozone,tekan,ozone omp,yieldmo,0.1,run-time,0,0.9,0,2024-03-13
 RC470,live,ozone,telegraph,ozone omp,yieldmo,0.4,run-time,0,0.6,0,2024-03-13
 RC470,live,ozone,the jewish chronicle,ozone omp,yieldmo,0.1,run-time,0,0.9,0,2024-03-13
@@ -4454,7 +4368,6 @@ RC471,live,ozone,reach,ozone pmp,yieldmo (dealid),0.4,eom,0,1,0,2024-08-15
 RC471,live,ozone,snack media,ozone pmp,yieldmo (dealid),0.35,run-time,0,0.65,0,2024-03-13
 RC471,live,ozone,sportskeeda,ozone pmp,yieldmo,0.36,run-time,0,0.64,0,2025-04-30
 RC471,live,ozone,standard,ozone pmp,yieldmo (dealid),0.1,run-time,0,0.9,0,2024-03-13
-RC471,live,ozone,stylist,ozone pmp,yieldmo (dealid),0.1,run-time,0,0.9,0,2024-03-13
 RC471,live,ozone,tekan,ozone pmp,yieldmo (dealid),0.1,run-time,0,0.9,0,2024-03-13
 RC471,live,ozone,telegraph,ozone pmp,yieldmo (dealid),0.4,run-time,0,0.6,0,2024-03-13
 RC471,live,ozone,the jewish chronicle,ozone pmp,yieldmo (dealid),0.1,run-time,0,0.9,0,2024-03-13
@@ -4544,7 +4457,6 @@ RC510,live,saas,news,publisher omp,news (inmobi),0,eom,0,1,0,2024-01-26
 RC510,live,saas,planet sport,publisher omp,planet sport (inmobi),0.12,run-time,0,0.88,0,2024-01-26
 RC510,live,saas,reach,publisher omp,reach (inmobi),0.06,run-time,0,0.94,0,2024-08-01
 RC510,live,saas,standard,publisher omp,standard (inmobi),0.12,run-time,0,0.88,0,2024-01-26
-RC510,live,saas,stylist,publisher omp,stylist (inmobi),0.12,eom,0,1,0,2024-01-26
 RC510,live,saas,tekan,publisher omp,tekan (inmobi),0,eom,0,1,0,2024-01-26
 RC510,live,saas,telegraph,publisher omp,tmg (inmobi),0.06,run-time,0,0.94,0,2024-01-26
 RC510,live,saas,venatus,publisher omp,venatus (inmobi),0.12,run-time,0,0.88,0,2024-10-30
@@ -4567,7 +4479,6 @@ RC511,live,saas,news,publisher pmp,news (inmobi),0,eom,0,1,0,2024-01-26
 RC511,live,saas,planet sport,publisher pmp,planet sport (inmobi),0.12,run-time,0,0.88,0,2024-01-26
 RC511,live,saas,reach,publisher pmp,reach (inmobi),0.06,run-time,0,0.94,0,2024-08-01
 RC511,live,saas,standard,publisher pmp,standard (inmobi),0.12,run-time,0,0.88,0,2024-01-26
-RC511,live,saas,stylist,publisher pmp,stylist (inmobi),0.12,eom,0,1,0,2024-01-26
 RC511,live,saas,tekan,publisher pmp,tekan (inmobi),0,eom,0,1,0,2024-01-26
 RC511,live,saas,telegraph,publisher pmp,tmg (inmobi),0.06,run-time,0,0.94,0,2024-01-26
 RC511,live,saas,venatus,publisher pmp,venatus (inmobi),0.12,run-time,0,0.88,0,2024-10-30
@@ -4590,7 +4501,6 @@ RC512,live,saas,news,publisher omp,news (next millenium),0,eom,0,1,0,2024-01-26
 RC512,live,saas,planet sport,publisher omp,planet sport (next millenium),0.12,run-time,0,0.88,0,2024-01-26
 RC512,live,saas,reach,publisher omp,reach (next millenium),0.06,run-time,0,0.94,0,2024-08-01
 RC512,live,saas,standard,publisher omp,standard (next millenium),0.12,run-time,0,0.88,0,2024-01-26
-RC512,live,saas,stylist,publisher omp,stylist (next millenium),0.12,eom,0,1,0,2024-01-26
 RC512,live,saas,tekan,publisher omp,tekan (next millenium),0,eom,0,1,0,2024-01-26
 RC512,live,saas,telegraph,publisher omp,tmg (next millenium),0.06,run-time,0,0.94,0,2024-01-26
 RC512,live,saas,venatus,publisher omp,venatus (next millenium),0.12,run-time,0,0.88,0,2024-10-30
@@ -4613,7 +4523,6 @@ RC513,live,saas,news,publisher pmp,news (next millenium),0,eom,0,1,0,2024-01-26
 RC513,live,saas,planet sport,publisher pmp,planet sport (next millenium),0.12,run-time,0,0.88,0,2024-01-26
 RC513,live,saas,reach,publisher pmp,reach (next millenium),0.06,run-time,0,0.94,0,2024-08-01
 RC513,live,saas,standard,publisher pmp,standard (next millenium),0.12,run-time,0,0.88,0,2024-01-26
-RC513,live,saas,stylist,publisher pmp,stylist (next millenium),0.12,eom,0,1,0,2024-01-26
 RC513,live,saas,tekan,publisher pmp,tekan (next millenium),0,eom,0,1,0,2024-01-26
 RC513,live,saas,telegraph,publisher pmp,tmg (next millenium),0.06,run-time,0,0.94,0,2024-01-26
 RC513,live,saas,venatus,publisher pmp,venatus (next millenium),0.12,run-time,0,0.88,0,2024-10-30
@@ -4636,7 +4545,6 @@ RC514,live,saas,news,publisher omp,news (loopme),0,eom,0,1,0,2024-01-26
 RC514,live,saas,planet sport,publisher omp,planet sport (loopme),0.12,run-time,0,0.88,0,2024-01-26
 RC514,live,saas,reach,publisher omp,reach (loopme),0.06,run-time,0,0.94,0,2024-08-01
 RC514,live,saas,standard,publisher omp,standard (loopme),0.12,run-time,0,0.88,0,2024-01-26
-RC514,live,saas,stylist,publisher omp,stylist (loopme),0.12,eom,0,1,0,2024-01-26
 RC514,live,saas,tekan,publisher omp,tekan (loopme),0,eom,0,1,0,2024-01-26
 RC514,live,saas,telegraph,publisher omp,tmg (loopme),0.06,run-time,0,0.94,0,2024-01-26
 RC514,live,saas,venatus,publisher omp,venatus (loopme),0.12,run-time,0,0.88,0,2024-10-30
@@ -4659,7 +4567,6 @@ RC515,live,saas,news,publisher pmp,news (loopme),0,eom,0,1,0,2024-01-26
 RC515,live,saas,planet sport,publisher pmp,planet sport (loopme),0.12,run-time,0,0.88,0,2024-01-26
 RC515,live,saas,reach,publisher pmp,reach (loopme),0.06,run-time,0,0.94,0,2024-08-01
 RC515,live,saas,standard,publisher pmp,standard (loopme),0.12,run-time,0,0.88,0,2024-01-26
-RC515,live,saas,stylist,publisher pmp,stylist (loopme),0.12,eom,0,1,0,2024-01-26
 RC515,live,saas,tekan,publisher pmp,tekan (loopme),0,eom,0,1,0,2024-01-26
 RC515,live,saas,telegraph,publisher pmp,tmg (loopme),0.06,run-time,0,0.94,0,2024-01-26
 RC515,live,saas,venatus,publisher pmp,venatus (loopme),0.12,run-time,0,0.88,0,2024-10-30
@@ -4682,7 +4589,6 @@ RC516,live,saas,news,publisher omp,news (adaptmx),0,eom,0,1,0,2024-01-26
 RC516,live,saas,planet sport,publisher omp,planet sport (adaptmx),0.12,run-time,0,0.88,0,2024-01-26
 RC516,live,saas,reach,publisher omp,reach (adaptmx),0.06,run-time,0,0.94,0,2024-08-01
 RC516,live,saas,standard,publisher omp,standard (adaptmx),0.12,run-time,0,0.88,0,2024-01-26
-RC516,live,saas,stylist,publisher omp,stylist (adaptmx),0.12,eom,0,1,0,2024-01-26
 RC516,live,saas,tekan,publisher omp,tekan (adaptmx),0,eom,0,1,0,2024-01-26
 RC516,live,saas,telegraph,publisher omp,tmg (adaptmx),0.06,run-time,0,0.94,0,2024-01-26
 RC516,live,saas,venatus,publisher omp,venatus (adaptmx),0.12,run-time,0,0.88,0,2024-10-30
@@ -4705,7 +4611,6 @@ RC517,live,saas,news,publisher pmp,news (adaptmx),0,eom,0,1,0,2024-01-26
 RC517,live,saas,planet sport,publisher pmp,planet sport (adaptmx),0.12,run-time,0,0.88,0,2024-01-26
 RC517,live,saas,reach,publisher pmp,reach (adaptmx),0.06,run-time,0,0.94,0,2024-08-01
 RC517,live,saas,standard,publisher pmp,standard (adaptmx),0.12,run-time,0,0.88,0,2024-01-26
-RC517,live,saas,stylist,publisher pmp,stylist (adaptmx),0.12,eom,0,1,0,2024-01-26
 RC517,live,saas,tekan,publisher pmp,tekan (adaptmx),0,eom,0,1,0,2024-01-26
 RC517,live,saas,telegraph,publisher pmp,tmg (adaptmx),0.06,run-time,0,0.94,0,2024-01-26
 RC517,live,saas,venatus,publisher pmp,venatus (adaptmx),0.12,run-time,0,0.88,0,2024-10-30
@@ -4728,7 +4633,6 @@ RC518,live,saas,planet sport,publisher omp,planet sport (criteo),0.12,run-time,0
 RC518,live,saas,reach,publisher omp,reach (criteo),0.06,run-time,0,0.94,0,2024-08-01
 RC518,live,saas,snack media,publisher omp,snack media (criteo),0.15,run-time,0,0.85,0,2024-10-07
 RC518,live,saas,standard,publisher omp,standard (criteo),0.12,run-time,0,0.88,0,2024-02-06
-RC518,live,saas,stylist,publisher omp,stylist (criteo),0.12,eom,0,1,0,2024-02-06
 RC518,live,saas,tekan,publisher omp,tekan (criteo),0,eom,0,1,0,2024-02-06
 RC518,live,saas,venatus,publisher omp,venatus (criteo),0.12,run-time,0,0.88,0,2024-10-30
 RC518,live,saas,venatus-bidder,publisher omp,venatus-bidder (criteo),0.12,run-time,0,0.7734,0,2024-02-06
@@ -4751,7 +4655,6 @@ RC519,live,saas,planet sport,publisher pmp,planet sport (criteo),0.12,run-time,0
 RC519,live,saas,reach,publisher pmp,reach (criteo),0.06,run-time,0,0.94,0,2024-08-01
 RC519,live,saas,snack media,publisher pmp,snack media (criteo),0.15,run-time,0,0.85,0,2024-10-07
 RC519,live,saas,standard,publisher pmp,standard (criteo),0.12,run-time,0,0.88,0,2024-02-06
-RC519,live,saas,stylist,publisher pmp,stylist (criteo),0.12,eom,0,1,0,2024-02-06
 RC519,live,saas,tekan,publisher pmp,tekan (criteo),0,eom,0,1,0,2024-02-06
 RC519,live,saas,venatus,publisher pmp,venatus (criteo),0.12,run-time,0,0.88,0,2024-10-30
 RC519,live,saas,venatus-bidder,publisher pmp,venatus-bidder (criteo),0.12,run-time,0,0.7734,0,2024-02-06
@@ -4776,7 +4679,6 @@ RC520,live,saas,planet sport,publisher pmp,planet sport (adyoulike),0.12,run-tim
 RC520,live,saas,reach,publisher pmp,reach (adyoulike),0.06,run-time,0,0.94,0,2024-08-01
 RC520,live,saas,snack media,publisher pmp,snack media (adyoulike),0.15,run-time,0,0.85,0,2024-03-20
 RC520,live,saas,standard,publisher pmp,standard (adyoulike),0.12,run-time,0,0.88,0,2024-03-20
-RC520,live,saas,stylist,publisher pmp,stylist (adyoulike),0.12,eom,0,1,0,2024-03-20
 RC520,live,saas,tekan,publisher pmp,tekan (adyoulike),0,eom,0,1,0,2024-03-20
 RC520,live,saas,telegraph,publisher pmp,tmg (adyoulike),0.06,run-time,0,0.94,0,2024-03-20
 RC520,live,saas,venatus,publisher pmp,venatus (adyoulike),0.12,run-time,0,0.88,0,2024-10-30
@@ -4800,7 +4702,6 @@ RC521,live,saas,planet sport,publisher omp,planet sport (adyoulike),0.12,run-tim
 RC521,live,saas,reach,publisher omp,reach (adyoulike),0.06,run-time,0,0.94,0,2024-08-01
 RC521,live,saas,snack media,publisher omp,snack media (adyoulike),0.15,run-time,0,0.85,0,2024-03-20
 RC521,live,saas,standard,publisher omp,standard (adyoulike),0.12,run-time,0,0.88,0,2024-03-20
-RC521,live,saas,stylist,publisher omp,stylist (adyoulike),0.12,eom,0,1,0,2024-03-20
 RC521,live,saas,tekan,publisher omp,tekan (adyoulike),0,eom,0,1,0,2024-03-20
 RC521,live,saas,telegraph,publisher omp,tmg (adyoulike),0.06,run-time,0,0.94,0,2024-03-20
 RC521,live,saas,venatus,publisher omp,venatus (adyoulike),0.12,run-time,0,0.88,0,2024-10-30
@@ -4825,7 +4726,6 @@ RC522,live,saas,planet sport,publisher pmp,planet sport (sovrnxsp),0.12,run-time
 RC522,live,saas,reach,publisher pmp,reach (sovrnxsp),0.06,run-time,0,0.94,0,2024-08-01
 RC522,live,saas,snack media,publisher pmp,snack media (sovrnxsp),0.15,run-time,0,0.85,0,2024-03-20
 RC522,live,saas,standard,publisher pmp,standard (sovrnxsp),0.12,run-time,0,0.88,0,2024-03-20
-RC522,live,saas,stylist,publisher pmp,stylist (sovrnxsp),0.12,eom,0,1,0,2024-03-20
 RC522,live,saas,tekan,publisher pmp,tekan (sovrnxsp),0,eom,0,1,0,2024-03-20
 RC522,live,saas,telegraph,publisher pmp,tmg (sovrnxsp),0.06,run-time,0,0.94,0,2024-03-20
 RC522,live,saas,venatus,publisher pmp,venatus (sovrnxsp),0.12,run-time,0,0.88,0,2024-10-30
@@ -4850,7 +4750,6 @@ RC523,live,saas,planet sport,publisher omp,planet sport (sovrnxsp),0.12,run-time
 RC523,live,saas,reach,publisher omp,reach (sovrnxsp),0.06,run-time,0,0.94,0,2024-08-01
 RC523,live,saas,snack media,publisher omp,snack media (sovrnxsp),0.15,run-time,0,0.85,0,2024-03-20
 RC523,live,saas,standard,publisher omp,standard (sovrnxsp),0.12,run-time,0,0.88,0,2024-03-20
-RC523,live,saas,stylist,publisher omp,stylist (sovrnxsp),0.12,eom,0,1,0,2024-03-20
 RC523,live,saas,tekan,publisher omp,tekan (sovrnxsp),0,eom,0,1,0,2024-03-20
 RC523,live,saas,telegraph,publisher omp,tmg (sovrnxsp),0.06,run-time,0,0.94,0,2024-03-20
 RC523,live,saas,venatus,publisher omp,venatus (sovrnxsp),0.12,run-time,0,0.88,0,2024-10-30
@@ -4875,7 +4774,6 @@ RC524,live,saas,planet sport,publisher pmp,planet sport (smaato),0.12,run-time,0
 RC524,live,saas,reach,publisher pmp,reach (smaato),0.06,run-time,0,0.94,0,2024-08-01
 RC524,live,saas,snack media,publisher pmp,snack media (smaato),0.15,run-time,0,0.85,0,2024-03-20
 RC524,live,saas,standard,publisher pmp,standard (smaato),0.12,run-time,0,0.88,0,2024-03-20
-RC524,live,saas,stylist,publisher pmp,stylist (smaato),0.12,eom,0,1,0,2024-03-20
 RC524,live,saas,tekan,publisher pmp,tekan (smaato),0,eom,0,1,0,2024-03-20
 RC524,live,saas,telegraph,publisher pmp,tmg (smaato),0.06,run-time,0,0.94,0,2024-03-20
 RC524,live,saas,venatus,publisher pmp,venatus (smaato),0.12,run-time,0,0.88,0,2024-10-30
@@ -4900,7 +4798,6 @@ RC525,live,saas,planet sport,publisher omp,planet sport (smaato),0.12,run-time,0
 RC525,live,saas,reach,publisher omp,reach (smaato),0.06,run-time,0,0.94,0,2024-08-01
 RC525,live,saas,snack media,publisher omp,snack media (smaato),0.15,run-time,0,0.85,0,2024-03-20
 RC525,live,saas,standard,publisher omp,standard (smaato),0.12,run-time,0,0.88,0,2024-03-20
-RC525,live,saas,stylist,publisher omp,stylist (smaato),0.12,eom,0,1,0,2024-03-20
 RC525,live,saas,tekan,publisher omp,tekan (smaato),0,eom,0,1,0,2024-03-20
 RC525,live,saas,telegraph,publisher omp,tmg (smaato),0.06,run-time,0,0.94,0,2024-03-20
 RC525,live,saas,venatus,publisher omp,venatus (smaato),0.12,run-time,0,0.88,0,2024-10-30
@@ -4922,7 +4819,6 @@ RC526,live,saas,new york post,publisher omp,new york post (undertone),0,eom,0,1,
 RC526,live,saas,planet sport,publisher omp,planet sport (undertone),0.12,run-time,0,0.88,0,2024-04-10
 RC526,live,saas,reach,publisher omp,reach (undertone),0.06,run-time,0,0.94,0,2024-08-01
 RC526,live,saas,standard,publisher omp,standard (undertone),0.12,run-time,0,0.88,0,2024-04-10
-RC526,live,saas,stylist,publisher omp,stylist (undertone),0.12,eom,0,1,0,2024-04-10
 RC526,live,saas,tekan,publisher omp,tekan (undertone),0,eom,0,1,0,2024-04-10
 RC526,live,saas,venatus,publisher omp,venatus (undertone),0.12,run-time,0,0.88,0,2024-10-30
 RC526,live,saas,venatus-bidder,publisher omp,venatus-bidder (undertone),0.12,run-time,0,0.7734,0,2024-04-10
@@ -4943,7 +4839,6 @@ RC527,live,saas,new york post,publisher pmp,new york post (undertone),0,eom,0,1,
 RC527,live,saas,planet sport,publisher pmp,planet sport (undertone),0.12,run-time,0,0.88,0,2024-04-10
 RC527,live,saas,reach,publisher pmp,reach (undertone),0.06,run-time,0,0.94,0,2024-08-01
 RC527,live,saas,standard,publisher pmp,standard (undertone),0.12,run-time,0,0.88,0,2024-04-10
-RC527,live,saas,stylist,publisher pmp,stylist (undertone),0.12,eom,0,1,0,2024-04-10
 RC527,live,saas,tekan,publisher pmp,tekan (undertone),0,eom,0,1,0,2024-04-10
 RC527,live,saas,venatus,publisher pmp,venatus (undertone),0.12,run-time,0,0.88,0,2024-10-30
 RC527,live,saas,venatus-bidder,publisher pmp,venatus-bidder (undertone),0.12,run-time,0,0.7734,0,2024-04-10
@@ -4980,7 +4875,6 @@ RC530,live,saas,planet sport,publisher omp,planet sport (rthbhouse),0.12,run-tim
 RC530,live,saas,reach,publisher omp,reach (rthbhouse),0.06,run-time,0,0.94,0,2024-08-01
 RC530,live,saas,snack media,publisher omp,snack media (rthbhouse),0.15,run-time,0,0.85,0,2024-06-21
 RC530,live,saas,standard,publisher omp,standard (rthbhouse),0.12,run-time,0,0.88,0,2024-06-21
-RC530,live,saas,stylist,publisher omp,stylist (rthbhouse),0.12,eom,0,1,0,2024-06-21
 RC530,live,saas,tekan,publisher omp,tekan (rthbhouse),0,eom,0,1,0,2024-06-21
 RC530,live,saas,telegraph,publisher omp,telegraph (rthbhouse),0.06,run-time,0,0.94,0,2024-06-21
 RC530,live,saas,venatus,publisher omp,venatus (rthbhouse),0.12,run-time,0,0.88,0,2024-10-30
@@ -5005,7 +4899,6 @@ RC531,live,saas,planet sport,publisher pmp,planet sport (rthbhouse),0.12,run-tim
 RC531,live,saas,reach,publisher pmp,reach (rthbhouse),0.06,run-time,0,0.94,0,2024-08-01
 RC531,live,saas,snack media,publisher pmp,snack media (rthbhouse),0.15,run-time,0,0.85,0,2024-06-21
 RC531,live,saas,standard,publisher pmp,standard (rthbhouse),0.12,run-time,0,0.88,0,2024-06-21
-RC531,live,saas,stylist,publisher pmp,stylist (rthbhouse),0.12,eom,0,1,0,2024-06-21
 RC531,live,saas,tekan,publisher pmp,tekan (rthbhouse),0,eom,0,1,0,2024-06-21
 RC531,live,saas,telegraph,publisher pmp,telegraph (rthbhouse),0.06,run-time,0,0.94,0,2024-06-21
 RC531,live,saas,venatus,publisher pmp,venatus (rthbhouse),0.12,run-time,0,0.88,0,2024-10-30
@@ -5042,7 +4935,6 @@ RC532,live,ozone,reach,ozone omp,inmobi,0.4,eom,0,1,0,2024-09-27
 RC532,live,ozone,snack media,ozone omp,inmobi,0.35,run-time,0,0.65,0,2024-06-21
 RC532,live,ozone,sportskeeda,ozone omp,inmobi,0.36,run-time,0,0.64,0,2025-04-30
 RC532,live,ozone,standard,ozone omp,inmobi,0.1,run-time,0,0.9,0,2024-06-21
-RC532,live,ozone,stylist,ozone omp,inmobi,0.1,run-time,0,0.9,0,2024-06-21
 RC532,live,ozone,tekan,ozone omp,inmobi,0.1,run-time,0,0.9,0,2024-06-21
 RC532,live,ozone,telegraph,ozone omp,inmobi,0.4,run-time,0,0.6,0,2024-06-21
 RC532,live,ozone,the jewish chronicle,ozone omp,inmobi,0.1,run-time,0,0.9,0,2024-06-21
@@ -5083,7 +4975,6 @@ RC533,live,ozone,reach,ozone pmp,inmobi,0.4,eom,0,1,0,2024-09-27
 RC533,live,ozone,snack media,ozone pmp,inmobi,0.35,run-time,0,0.65,0,2024-06-21
 RC533,live,ozone,sportskeeda,ozone pmp,inmobi,0.36,run-time,0,0.64,0,2025-04-30
 RC533,live,ozone,standard,ozone pmp,inmobi,0.1,run-time,0,0.9,0,2024-06-21
-RC533,live,ozone,stylist,ozone pmp,inmobi,0.1,run-time,0,0.9,0,2024-06-21
 RC533,live,ozone,tekan,ozone pmp,inmobi,0.1,run-time,0,0.9,0,2024-06-21
 RC533,live,ozone,telegraph,ozone pmp,inmobi,0.4,run-time,0,0.6,0,2024-06-21
 RC533,live,ozone,the jewish chronicle,ozone pmp,inmobi,0.1,run-time,0,0.9,0,2024-06-21
@@ -5172,7 +5063,6 @@ RC548,live,ozone,raptive,ozone omp,raptive (rtbhouse),0.35,run-time,0,0.65,0,202
 RC548,live,ozone,snack media,ozone omp,snack media (rtbhouse),0.35,run-time,0,0.65,0,2024-09-09
 RC548,live,ozone,sportskeeda,ozone omp,rtbhouse,0.36,run-time,0,0.64,0,2025-04-30
 RC548,live,ozone,standard,ozone omp,standard (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
-RC548,live,ozone,stylist,ozone omp,stylist (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
 RC548,live,ozone,tekan,ozone omp,tekan (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
 RC548,live,ozone,the jewish chronicle,ozone omp,the jewish chronicle (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
 RC548,live,ozone,timeout,ozone omp,timeout (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
@@ -5219,7 +5109,6 @@ RC549,live,ozone,reach,ozone pmp,reach (rtbhouse),0.4,eom,0,1,0,2024-09-09
 RC549,live,ozone,snack media,ozone pmp,snack media (rtbhouse),0.35,run-time,0,0.65,0,2024-09-09
 RC549,live,ozone,sportskeeda,ozone pmp,rtbhouse,0.36,run-time,0,0.64,0,2025-04-30
 RC549,live,ozone,standard,ozone pmp,standard (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
-RC549,live,ozone,stylist,ozone pmp,stylist (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
 RC549,live,ozone,tekan,ozone pmp,tekan (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
 RC549,live,ozone,telegraph,ozone pmp,telegraph (rtbhouse),0.4,run-time,0,0.6,0,2024-09-09
 RC549,live,ozone,the jewish chronicle,ozone pmp,the jewish chronicle (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
@@ -5249,7 +5138,6 @@ RC550,live,saas,planet sport,publisher omp,planet sport (sonobi),0.12,run-time,0
 RC550,live,saas,reach,publisher omp,reach (sonobi),0.06,run-time,0,0.94,0,2024-10-07
 RC550,live,saas,snack media,publisher omp,snack media (sonobi),0.15,run-time,0,0.85,0,2024-10-07
 RC550,live,saas,standard,publisher omp,standard (sonobi),0.12,run-time,0,0.88,0,2024-10-07
-RC550,live,saas,stylist,publisher omp,stylist (sonobi),0.12,eom,0,1,0,2024-10-07
 RC550,live,saas,tekan,publisher omp,tekan (sonobi),0,eom,0,1,0,2024-10-07
 RC550,live,saas,telegraph,publisher omp,telegraph (sonobi),0.06,run-time,0,0.94,0,2024-10-07
 RC550,live,saas,venatus,publisher omp,venatus (sonobi),0.12,run-time,0,0.88,0,2024-10-30
@@ -5274,7 +5162,6 @@ RC551,live,saas,planet sport,publisher pmp,planet sport (sonobi),0.12,run-time,0
 RC551,live,saas,reach,publisher pmp,reach (sonobi),0.06,run-time,0,0.94,0,2024-10-07
 RC551,live,saas,snack media,publisher pmp,snack media (sonobi),0.15,run-time,0,0.85,0,2024-10-07
 RC551,live,saas,standard,publisher pmp,standard (sonobi),0.12,run-time,0,0.88,0,2024-10-07
-RC551,live,saas,stylist,publisher pmp,stylist (sonobi),0.12,eom,0,1,0,2024-10-07
 RC551,live,saas,tekan,publisher pmp,tekan (sonobi),0,eom,0,1,0,2024-10-07
 RC551,live,saas,telegraph,publisher pmp,telegraph (sonobi),0.06,run-time,0,0.94,0,2024-10-07
 RC551,live,saas,venatus,publisher pmp,venatus (sonobi),0.12,run-time,0,0.88,0,2024-10-30
@@ -5351,7 +5238,6 @@ RC553,live,ozone,reach,marketplace,inventory only marketplace (publicis),0.4,eom
 RC553,live,ozone,snack media,marketplace,inventory only marketplace (publicis),0.35,run-time,0,0.598,0,2024-10-07
 RC553,live,ozone,sportskeeda,marketplace,inventory only marketplace (publicis),0.36,run-time,0,0.64,0,2025-04-30
 RC553,live,ozone,standard,marketplace,inventory only marketplace (publicis),0.18,run-time,0,0.7544,0,2024-10-07
-RC553,live,ozone,stylist,marketplace,inventory only marketplace (publicis),0.18,run-time,0,0.7544,0,2024-10-07
 RC553,live,ozone,telegraph,marketplace,inventory only marketplace (publicis),0.4,run-time,0,0.552,0,2024-10-07
 RC553,live,ozone,the jewish chronicle,marketplace,inventory only marketplace (publicis),0.18,run-time,0,0.754,0,2024-10-07
 RC553,live,ozone,timeout,marketplace,inventory only marketplace (publicis),0.18,run-time,0,0.7544,0,2024-10-07
@@ -5402,7 +5288,6 @@ RC557,live,ozone,reach,ozone omp,hawk,0.4,eom,0,1,0,2025-01-23
 RC557,live,ozone,snack media,ozone omp,hawk,0.35,run-time,0,0.65,0,2025-01-23
 RC557,live,ozone,sportskeeda,ozone omp,hawk,0.36,run-time,0,0.64,0,2025-04-30
 RC557,live,ozone,standard,ozone omp,hawk,0.1,run-time,0,0.9,0,2025-01-23
-RC557,live,ozone,stylist,ozone omp,hawk,0.1,run-time,0,0.9,0,2025-01-23
 RC557,live,ozone,tekan,ozone omp,hawk,0.1,run-time,0,0.9,0,2025-01-23
 RC557,live,ozone,telegraph,ozone omp,hawk,0.4,run-time,0,0.6,0,2025-01-23
 RC557,live,ozone,the jewish chronicle,ozone omp,hawk,0.1,run-time,0,0.9,0,2025-01-23
@@ -5450,7 +5335,6 @@ RC558,live,ozone,reach,ozone pmp,hawk,0.4,eom,0,1,0,2025-01-23
 RC558,live,ozone,snack media,ozone pmp,hawk,0.35,run-time,0,0.65,0,2025-01-23
 RC558,live,ozone,sportskeeda,ozone pmp,hawk,0.36,run-time,0,0.64,0,2025-04-30
 RC558,live,ozone,standard,ozone pmp,hawk,0.1,run-time,0,0.9,0,2025-01-23
-RC558,live,ozone,stylist,ozone pmp,hawk,0.1,run-time,0,0.9,0,2025-01-23
 RC558,live,ozone,tekan,ozone pmp,hawk,0.1,run-time,0,0.9,0,2025-01-23
 RC558,live,ozone,telegraph,ozone pmp,hawk,0.4,run-time,0,0.6,0,2025-01-23
 RC558,live,ozone,the jewish chronicle,ozone pmp,hawk,0.1,run-time,0,0.9,0,2025-01-23
@@ -5487,7 +5371,7 @@ RC559,live,ozone,reach,deals,audience deals (hawk),0.4,run-time,0.3,0.42,0,2025-
 RC559,live,ozone,snack media,deals,audience deals (hawk),0.35,run-time,0.3,0.455,0,2025-02-12
 RC559,live,ozone,sportskeeda,deals,audience deals (hawk),0.36,run-time,0.3,0.448,0,2025-04-30
 RC559,live,ozone,standard,deals,audience deals (hawk),0.35,run-time,0.3,0.455,0,2025-02-12
-RC559,live,ozone,stylist,deals,audience deals (hawk),0.35,run-time,0.3,0.455,0,2025-02-12
+RC559,live,ozone,stylist,deals,audience deals (hawk),0,0,0,0.1,0,2025-06-17
 RC559,live,ozone,telegraph,deals,audience deals (hawk),0.4,run-time,0.3,0.42,0,2025-02-12
 RC559,live,ozone,timeout,deals,audience deals (hawk),0.35,run-time,0.3,0.455,0,2025-02-12
 RC559,live,ozone,unwind,deals,audience deals (hawk),0.36,run-time,0.3,0.448,0,2025-02-12
@@ -5522,7 +5406,7 @@ RC560,live,ozone,reach,deals,inventory only deals (hawk),0.4,run-time,0,0.6,0,20
 RC560,live,ozone,snack media,deals,inventory only deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
 RC560,live,ozone,sportskeeda,deals,inventory only deals (hawk),0.36,run-time,0,0.64,0,2025-04-30
 RC560,live,ozone,standard,deals,inventory only deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
-RC560,live,ozone,stylist,deals,inventory only deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
+RC560,live,ozone,stylist,deals,inventory only deals (hawk),0,0,0,0.1,0,2025-06-17
 RC560,live,ozone,telegraph,deals,inventory only deals (hawk),0.4,run-time,0,0.6,0,2025-02-12
 RC560,live,ozone,timeout,deals,inventory only deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
 RC560,live,ozone,unwind,deals,inventory only deals (hawk),0.36,run-time,0,0.64,0,2025-02-12
@@ -5556,7 +5440,7 @@ RC561,live,ozone,reach,deals,contextual deals (hawk),0.4,run-time,0,0.6,0,2025-0
 RC561,live,ozone,snack media,deals,contextual deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
 RC561,live,ozone,sportskeeda,deals,contextual deals (hawk),0.36,run-time,0,0.64,0,2025-04-30
 RC561,live,ozone,standard,deals,contextual deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
-RC561,live,ozone,stylist,deals,contextual deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
+RC561,live,ozone,stylist,deals,contextual deals (hawk),0,0,0,0.1,0,2025-06-17
 RC561,live,ozone,telegraph,deals,contextual deals (hawk),0.4,run-time,0,0.6,0,2025-02-12
 RC561,live,ozone,timeout,deals,contextual deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
 RC561,live,ozone,unwind,deals,contextual deals (hawk),0.36,run-time,0,0.64,0,2025-02-12
@@ -5595,7 +5479,6 @@ RC562,live,ozone,reach,marketplace,marketplace (hawk),0.4,eom,0,1,0,2025-02-12
 RC562,live,ozone,snack media,marketplace,marketplace (hawk),0.35,run-time,0,0.65,0,2025-02-12
 RC562,live,ozone,sportskeeda,marketplace,marketplace (hawk),0.36,run-time,0,0.64,0,2025-04-30
 RC562,live,ozone,standard,marketplace,marketplace (hawk),0.18,run-time,0,0.82,0,2025-02-12
-RC562,live,ozone,stylist,marketplace,marketplace (hawk),0.18,run-time,0,0.82,0,2025-02-12
 RC562,live,ozone,tekan,marketplace,marketplace (hawk),0.1,run-time,0,0.9,0,2025-02-12
 RC562,live,ozone,telegraph,marketplace,marketplace (hawk),0.4,run-time,0,0.6,0,2025-02-12
 RC562,live,ozone,timeout,marketplace,marketplace (hawk),0.18,run-time,0,0.82,0,2025-02-12
@@ -5640,7 +5523,7 @@ RC563,live,ozone,reach,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2
 RC563,live,ozone,snack media,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC563,live,ozone,sportskeeda,deals,pubdeals brand (bidswitch),0.36,run-time,0,0.64,0,2025-04-30
 RC563,live,ozone,standard,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
-RC563,live,ozone,stylist,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
+RC563,live,ozone,stylist,deals,pubdeals brand (bidswitch),0,0,0,0.1,0,2025-06-17
 RC563,live,ozone,telegraph,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC563,live,ozone,timeout,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC563,live,ozone,unwind,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
@@ -5684,7 +5567,7 @@ RC564,live,ozone,reach,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.
 RC564,live,ozone,snack media,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC564,live,ozone,sportskeeda,deals,pubdeals performance (bidswitch),0.36,run-time,0,0.64,0,2025-04-30
 RC564,live,ozone,standard,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
-RC564,live,ozone,stylist,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
+RC564,live,ozone,stylist,deals,pubdeals performance (bidswitch),0,0,0,0.1,0,2025-06-17
 RC564,live,ozone,telegraph,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC564,live,ozone,timeout,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC564,live,ozone,unwind,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
@@ -5728,7 +5611,7 @@ RC565,live,ozone,reach,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,
 RC565,live,ozone,snack media,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC565,live,ozone,sportskeeda,deals,pubdeals context(bidswitch),0.36,run-time,0,0.64,0,2025-04-30
 RC565,live,ozone,standard,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2025-04-02
-RC565,live,ozone,stylist,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2025-04-02
+RC565,live,ozone,stylist,deals,pubdeals context(bidswitch),0,0,0,0.1,0,2025-06-17
 RC565,live,ozone,telegraph,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC565,live,ozone,timeout,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC565,live,ozone,unwind,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2025-04-02
@@ -5782,7 +5665,7 @@ RC7,live,ozone,reach,deals,audience deals (xandr),0.4,run-time,0.1,0.54,0.3476,2
 RC7,live,ozone,snack media,deals,audience deals (xandr),0.35,run-time,0.3,0.448,0,2024-11-07
 RC7,live,ozone,sportskeeda,deals,audience deals (xandr),0.36,run-time,0.3,0.448,0,2025-04-30
 RC7,live,ozone,standard,deals,audience deals (xandr),0.35,run-time,0.3,0.455,,
-RC7,live,ozone,stylist,deals,audience deals (xandr),0.35,run-time,0.3,0.455,0.1525,
+RC7,live,ozone,stylist,deals,audience deals (xandr),0,0,0,0.1,0,2025-06-17
 RC7,live,ozone,telegraph,deals,audience deals (xandr),0.4,run-time,0.1,0.54,0.0364,
 RC7,live,ozone,the jewish chronicle,deals,audience deals (xandr),0.36,run-time,0,0.64,0,
 RC7,live,ozone,timeout,deals,audience deals (xandr),0.35,run-time,0.3,0.455,0.1525,
@@ -5832,7 +5715,7 @@ RC8,live,ozone,reach,deals,inventory only deals (xandr),0.4,run-time,0,0.6,0,202
 RC8,live,ozone,snack media,deals,inventory only deals (xandr),0.35,run-time,0,0.64,0,2024-11-07
 RC8,live,ozone,sportskeeda,deals,inventory only deals (xandr),0.36,run-time,0,0.64,0,2025-04-30
 RC8,live,ozone,standard,deals,inventory only deals (xandr),0.35,run-time,0,0.82,,
-RC8,live,ozone,stylist,deals,inventory only deals (xandr),0.35,run-time,0,0.82,,
+RC8,live,ozone,stylist,deals,inventory only deals (xandr),0,0,0,0.1,0,2025-06-17
 RC8,live,ozone,telegraph,deals,inventory only deals (xandr),0.4,run-time,0,0.6,,
 RC8,live,ozone,the jewish chronicle,deals,inventory only deals (xandr),0.36,run-time,0,0.64,0,
 RC8,live,ozone,timeout,deals,inventory only deals (xandr),0.35,run-time,0,0.82,,
@@ -5880,7 +5763,7 @@ RC9,live,ozone,reach,deals,contextual deals (xandr),0.4,run-time,0,0.6,0,2024-08
 RC9,live,ozone,snack media,deals,contextual deals (xandr),0.35,run-time,0,0.64,0,2024-11-07
 RC9,live,ozone,sportskeeda,deals,contextual deals (xandr),0.36,run-time,0,0.64,0,2025-04-30
 RC9,live,ozone,standard,deals,contextual deals (xandr),0.35,run-time,0,0.82,,
-RC9,live,ozone,stylist,deals,contextual deals (xandr),0.35,run-time,0,0.82,,
+RC9,live,ozone,stylist,deals,contextual deals (xandr),0,0,0,0.1,0,2025-06-17
 RC9,live,ozone,telegraph,deals,contextual deals (xandr),0.4,run-time,0,0.6,,
 RC9,live,ozone,the jewish chronicle,deals,contextual deals (xandr),0.36,run-time,0,0.64,0,
 RC9,live,ozone,timeout,deals,contextual deals (xandr),0.35,run-time,0,0.82,,
