@@ -1,6 +1,6 @@
 revenue_code,status,business_unit,publisher,product,sub_product,ozone_fee,fee_calc,data_contribution_percent,bid_adjustment,avg_data_share_percent,valid_from
 RC1,live,ozone,accuweather,managed,beeswax,0.36,run-time,0.3,0.448,0,2024-12-12
-RC1,live,ozone,adinplay,managed,beeswax,0.35,run-time,0,1,0,2025-06-18
+RC1,live,ozone,adinplay,managed,beeswax,0.01,run-time,0.3,0.693,0,2025-06-18
 RC1,live,ozone,arkadium,managed,beeswax,0.36,run-time,0.3,0.448,0,2025-04-18
 RC1,live,ozone,asian media group,managed,beeswax,0.3,eom,0.3,1,,2024-10-30
 RC1,live,ozone,autovia,managed,beeswax,0.35,run-time,0.3,0.455,,
@@ -40,7 +40,7 @@ RC1,live,ozone,unwind,managed,beeswax,0.36,run-time,0.3,0.448,0,2024-11-18
 RC1,live,ozone,valnet,managed,beeswax,0.35,run-time,0.3,0.448,0,2024-11-07
 RC1,live,ozone,wall street journal,managed,beeswax,0.36,run-time,0.3,0.448,0,2024-11-18
 RC10,live,ozone,accuweather,deals,audience deals (openx),0.36,run-time,0.3,0.4256,0,2024-12-12
-RC10,live,ozone,adinplay,deals,audience deals (openx),0.35,run-time,0,0.6175,0,2025-06-18
+RC10,live,ozone,adinplay,deals,audience deals (openx),0.01,run-time,0.3,0.65835,0,2025-06-18
 RC10,live,ozone,arkadium,deals,audience deals (openx),0.36,run-time,0.3,0.4256,0,2025-04-18
 RC10,live,ozone,asian media group,deals,audience deals (openx),0.3,eom,0.3,0.95,,2024-10-30
 RC10,live,ozone,autovia,deals,audience deals (openx),0.35,run-time,0.3,0.43225,,
@@ -153,7 +153,7 @@ RC137,live,telegraph,telegraph,publisher pmp,tmg (openx),0.4,eom,0,1,,
 RC138,live,saas,reach,publisher omp,reach (xandr),0.06,run-time,0,0.94,0,2024-08-01
 RC139,live,saas,reach,publisher pmp,reach (xandr),0.06,run-time,0,0.94,0,2024-08-01
 RC14,live,ozone,accuweather,marketplace,audience deals (omg),0.36,run-time,0.3,0.448,0,2024-12-12
-RC14,live,ozone,adinplay,marketplace,audience deals (omg),0.35,run-time,0,1,0,2025-06-18
+RC14,live,ozone,adinplay,marketplace,audience deals (omg),0.01,run-time,0.3,0.693,0,2025-06-18
 RC14,live,ozone,arkadium,marketplace,audience deals (omg),0.36,run-time,0.3,0.448,0,2025-04-18
 RC14,live,ozone,asian media group,marketplace,audience deals (omg),0.3,eom,0.3,1,,2024-10-30
 RC14,live,ozone,autovia,marketplace,audience deals (omg),0.35,run-time,0.3,0.455,,
@@ -298,7 +298,7 @@ RC165,live,news,news,publisher omp,news (districtm),0,eom,0,1,,2023-09-27
 RC166,live,saas,bauer,publisher omp,bauer (triplelift),0.09,run-time,0,0.91,0,2025-02-11
 RC167,live,saas,bauer,publisher pmp,bauer (triplelift),0.09,run-time,0,0.91,0,2025-02-11
 RC168,live,ozone,accuweather,marketplace,audience deals (multibuyer) - xandr,0.36,run-time,0.3,0.448,0,2024-12-12
-RC168,live,ozone,adinplay,marketplace,audience deals (multibuyer) - xandr,0.35,run-time,0,1,0,2025-06-18
+RC168,live,ozone,adinplay,marketplace,audience deals (multibuyer) - xandr,0.01,run-time,0.3,0.693,0,2025-06-18
 RC168,live,ozone,arkadium,marketplace,audience deals (multibuyer) - xandr,0.36,run-time,0.3,0.448,0,2025-04-18
 RC168,live,ozone,asian media group,marketplace,audience deals (multibuyer) - xandr,0.3,eom,0.3,1,,2024-10-30
 RC168,live,ozone,autovia,marketplace,audience deals (multibuyer) - xandr,0.35,run-time,0.3,0.455,,
@@ -541,7 +541,7 @@ RC172,live,ozone,valnet,ozone omp,openx,0.35,run-time,0,0.572,0,2024-08-30
 RC172,live,ozone,venatus,ozone omp,openx,0.35,run-time,0,0.572,,
 RC172,live,ozone,wall street journal,ozone omp,openx,0.1,run-time,0,0.792,0,
 RC173,live,ozone,accuweather,deals,inventory only deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,2024-12-12
-RC173,live,ozone,adinplay,deals,inventory only deals (multibuyer) - pubmatic,0.35,run-time,0,1,0,2025-06-18
+RC173,live,ozone,adinplay,deals,inventory only deals (multibuyer) - pubmatic,0.01,run-time,0,0.99,0,2025-06-18
 RC173,live,ozone,arkadium,deals,inventory only deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,2025-04-18
 RC173,live,ozone,asian media group,deals,inventory only deals (multibuyer) - pubmatic,0.3,eom,0,1,,
 RC173,live,ozone,autovia,deals,inventory only deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
@@ -582,7 +582,7 @@ RC173,live,ozone,timeout,deals,inventory only deals (multibuyer) - pubmatic,0.35
 RC173,live,ozone,unwind,deals,inventory only deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,2024-11-18
 RC173,live,ozone,valnet,deals,inventory only deals (multibuyer) - pubmatic,0.35,run-time,0,0.64,0,2024-11-07
 RC174,live,ozone,accuweather,deals,contextual deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,2024-12-12
-RC174,live,ozone,adinplay,deals,contextual deals (multibuyer) - pubmatic,0.35,run-time,0,1,0,2025-06-18
+RC174,live,ozone,adinplay,deals,contextual deals (multibuyer) - pubmatic,0.01,run-time,0,0.99,0,2025-06-18
 RC174,live,ozone,arkadium,deals,contextual deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,2025-04-18
 RC174,live,ozone,asian media group,deals,contextual deals (multibuyer) - pubmatic,0.3,eom,0,1,,
 RC174,live,ozone,autovia,deals,contextual deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
@@ -623,7 +623,7 @@ RC174,live,ozone,timeout,deals,contextual deals (multibuyer) - pubmatic,0.35,run
 RC174,live,ozone,unwind,deals,contextual deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,2024-11-18
 RC174,live,ozone,valnet,deals,contextual deals (multibuyer) - pubmatic,0.35,run-time,0,0.64,0,2024-11-07
 RC175,live,ozone,accuweather,deals,publisher deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,2024-12-12
-RC175,live,ozone,adinplay,deals,publisher deals (multibuyer) - pubmatic,0.35,run-time,0,1,0,2025-06-18
+RC175,live,ozone,adinplay,deals,publisher deals (multibuyer) - pubmatic,0.01,run-time,0,0.99,0,2025-06-18
 RC175,live,ozone,arkadium,deals,publisher deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,2025-04-18
 RC175,live,ozone,asian media group,deals,publisher deals (multibuyer) - pubmatic,0.3,eom,0,1,,
 RC175,live,ozone,autovia,deals,publisher deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
@@ -754,7 +754,7 @@ RC177,live,ozone,unwind,marketplace,inventory only deals (multibuyer) - adform,0
 RC177,live,ozone,venatus,marketplace,inventory only deals (multibuyer) - adform,0.35,run-time,0,0.65,,
 RC177,live,ozone,wall street journal,marketplace,inventory only deals (multibuyer) - adform,0.18,run-time,0,0.82,0,
 RC178,live,ozone,accuweather,deals,audience deals (multibuyer) - pubmatic,0.36,run-time,0.3,0.448,0,2024-12-12
-RC178,live,ozone,adinplay,deals,audience deals (multibuyer) - pubmatic,0.35,run-time,0,1,0,2025-06-18
+RC178,live,ozone,adinplay,deals,audience deals (multibuyer) - pubmatic,0.01,run-time,0.3,0.693,0,2025-06-18
 RC178,live,ozone,arkadium,deals,audience deals (multibuyer) - pubmatic,0.36,run-time,0.3,0.448,0,2025-04-18
 RC178,live,ozone,asian media group,deals,audience deals (multibuyer) - pubmatic,0.3,eom,0,1,,
 RC178,live,ozone,autovia,deals,audience deals (multibuyer) - pubmatic,0.35,run-time,0.3,0.455,,
@@ -1123,7 +1123,7 @@ RC199,live,ozone,valnet,ozone omp,inventory only (omp),0.35,run-time,0,0.65,0,20
 RC199,live,ozone,venatus,ozone omp,inventory only (omp),0.35,run-time,0,0.65,0,
 RC199,live,ozone,wall street journal,ozone omp,inventory only (omp),0.1,run-time,0,0.9,0,
 RC2,live,ozone,accuweather,managed,complex formats,0.36,run-time,0.3,0.448,0,2024-12-12
-RC2,live,ozone,adinplay,managed,complex formats,0.35,run-time,0,1,0,2025-06-18
+RC2,live,ozone,adinplay,managed,complex formats,0.01,run-time,0.3,0.693,0,2025-06-18
 RC2,live,ozone,arkadium,managed,complex formats,0.36,run-time,0.3,0.448,0,2025-04-18
 RC2,live,ozone,asian media group,managed,complex formats,0.3,eom,0.3,1,,2024-10-30
 RC2,live,ozone,autovia,managed,complex formats,0.35,run-time,0.3,0.455,,
@@ -1217,7 +1217,7 @@ RC217,live,saas,mumsnet,publisher omp,mumsnet (triplelift),0.12,run-time,,0.88,,
 RC218,live,saas,mumsnet,publisher pmp,mumsnet (triplelift),0.12,run-time,,0.88,,
 RC219,live,saas,mumsnet,publisher omp,mumsnet (rubicon),0.12,run-time,,0.88,,
 RC22,live,ozone,accuweather,marketplace,audience deals (publicis),0.36,run-time,0.3,0.448,0,2024-12-12
-RC22,live,ozone,adinplay,marketplace,audience deals (publicis),0.35,run-time,0,1,0,2025-06-18
+RC22,live,ozone,adinplay,marketplace,audience deals (publicis),0.01,run-time,0.3,0.693,0,2025-06-18
 RC22,live,ozone,arkadium,marketplace,audience deals (publicis),0.36,run-time,0.3,0.448,0,2025-04-18
 RC22,live,ozone,asian media group,marketplace,audience deals (publicis),0.3,eom,0.3,1,,2024-10-30
 RC22,live,ozone,autovia,marketplace,audience deals (publicis),0.35,run-time,0.3,0.455,,
@@ -1549,7 +1549,7 @@ RC257,live,saas,prisma media,publisher pmp,prisma (pubmatic),0.25,run-time,0,0.7
 RC258,live,saas,prisma media,publisher omp,prisma (gravity),0.25,run-time,0,0.75,,
 RC259,live,saas,prisma media,publisher pmp,prisma (gravity),0.25,run-time,0,0.75,,
 RC26,live,ozone,accuweather,marketplace,audience deals (merkle),0.36,run-time,0.3,0.448,0,2024-12-12
-RC26,live,ozone,adinplay,marketplace,audience deals (merkle),0.35,run-time,0,1,0,2025-06-18
+RC26,live,ozone,adinplay,marketplace,audience deals (merkle),0.01,run-time,0.3,0.693,0,2025-06-18
 RC26,live,ozone,arkadium,marketplace,audience deals (merkle),0.36,run-time,0.3,0.448,0,2025-04-18
 RC26,live,ozone,asian media group,marketplace,audience deals (merkle),0.3,eom,0.3,1,,2024-10-30
 RC26,live,ozone,autovia,marketplace,audience deals (merkle),0.35,run-time,0.3,0.455,,
@@ -1982,7 +1982,7 @@ RC3,live,ozone,timeout,managed,publisher managed,0.35,eom,0,1,,
 RC3,live,ozone,unwind,managed,publisher managed,0.36,run-time,0,0.64,0,2024-11-18
 RC3,live,ozone,valnet,managed,publisher managed,0.35,run-time,0,1,0,2024-11-07
 RC30,live,ozone,accuweather,marketplace,audience deals (havas),0.36,run-time,0.3,0.448,0,2024-12-12
-RC30,live,ozone,adinplay,marketplace,audience deals (havas),0.35,run-time,0,1,0,2025-06-18
+RC30,live,ozone,adinplay,marketplace,audience deals (havas),0.01,run-time,0.3,0.693,0,2025-06-18
 RC30,live,ozone,arkadium,marketplace,audience deals (havas),0.36,run-time,0.3,0.448,0,2025-04-18
 RC30,live,ozone,asian media group,marketplace,audience deals (havas),0.3,eom,0.3,1,,2024-10-30
 RC30,live,ozone,autovia,marketplace,audience deals (havas),0.35,run-time,0.3,0.455,,
@@ -2387,7 +2387,7 @@ RC341,live,saas,standard,publisher pmp,standard media (index),0.12,run-time,0,0.
 RC342,live,saas,esi,publisher omp,independent (index),0.12,run-time,0,0.88,,
 RC343,live,saas,esi,publisher pmp,independent (index),0.12,run-time,0,0.88,,
 RC344,live,ozone,accuweather,marketplace,audience deals,0.36,run-time,0.3,0.448,0,2024-12-12
-RC344,live,ozone,adinplay,marketplace,audience deals,0.35,run-time,0,1,0,2025-06-18
+RC344,live,ozone,adinplay,marketplace,audience deals,0.01,run-time,0.3,0.693,0,2025-06-18
 RC344,live,ozone,arkadium,marketplace,audience deals,0.36,run-time,0.3,0.448,0,2025-04-18
 RC344,live,ozone,bbc,marketplace,audience deals,0.36,run-time,0.3,0.448,0,2025-04-17
 RC344,live,ozone,chegg,marketplace,audience deals,0.36,run-time,0.3,0.448,0,2025-03-14
@@ -2698,7 +2698,7 @@ RC383,live,ozone,valnet,ozone pmp,sharethrough (ssp deals),0.35,run-time,0,0.65,
 RC383,live,ozone,venatus,ozone pmp,sharethrough (ssp deals),0.35,run-time,0,0.65,,2024-03-13
 RC383,live,ozone,wall street journal,ozone pmp,sharethrough (ssp deals),0.1,run-time,0,0.9,,2024-03-13
 RC384,live,ozone,accuweather,deals,audience deals (ttd),0.36,run-time,0.3,0.448,0,2024-12-12
-RC384,live,ozone,adinplay,deals,audience deals (ttd),0.35,run-time,0,1,0,2025-06-18
+RC384,live,ozone,adinplay,deals,audience deals (ttd),0.01,run-time,0.3,0.693,0,2025-06-18
 RC384,live,ozone,arkadium,deals,audience deals (ttd),0.36,run-time,0.3,0.448,0,2025-04-18
 RC384,live,ozone,asian media group,deals,audience deals (ttd),0.3,eom,0.3,1,0,2024-10-30
 RC384,live,ozone,autovia,deals,audience deals (ttd),0.35,run-time,0.3,0.455,0,
@@ -2738,7 +2738,7 @@ RC384,live,ozone,unwind,deals,audience deals (ttd),0.36,run-time,0.3,0.448,0,202
 RC384,live,ozone,valnet,deals,audience deals (ttd),0.35,run-time,0.3,0.448,0,2024-11-07
 RC384,live,ozone,wall street journal,deals,audience deals (ttd),0.36,run-time,0.3,0.448,0,2024-11-18
 RC385,live,ozone,accuweather,deals,inventory only deals (ttd),0.36,run-time,0,0.64,0,2024-12-12
-RC385,live,ozone,adinplay,deals,inventory only deals (ttd),0.35,run-time,0,1,0,2025-06-18
+RC385,live,ozone,adinplay,deals,inventory only deals (ttd),0.01,run-time,0,0.99,0,2025-06-18
 RC385,live,ozone,arkadium,deals,inventory only deals (ttd),0.36,run-time,0,0.64,0,2025-04-18
 RC385,live,ozone,asian media group,deals,inventory only deals (ttd),0.3,eom,0,1,0,
 RC385,live,ozone,autovia,deals,inventory only deals (ttd),0.35,run-time,0,0.65,0,
@@ -2779,7 +2779,7 @@ RC385,live,ozone,unwind,deals,inventory only deals (ttd),0.36,run-time,0,0.64,0,
 RC385,live,ozone,valnet,deals,inventory only deals (ttd),0.35,run-time,0,0.64,0,2024-11-07
 RC385,live,ozone,wall street journal,deals,inventory only deals (ttd),0.36,run-time,0,0.64,0,2024-11-18
 RC386,live,ozone,accuweather,deals,contextual deals (ttd),0.36,run-time,0,0.64,0,2024-12-12
-RC386,live,ozone,adinplay,deals,contextual deals (ttd),0.35,run-time,0,1,0,2025-06-18
+RC386,live,ozone,adinplay,deals,contextual deals (ttd),0.01,run-time,0,0.99,0,2025-06-18
 RC386,live,ozone,arkadium,deals,contextual deals (ttd),0.36,run-time,0,0.64,0,2025-04-18
 RC386,live,ozone,asian media group,deals,contextual deals (ttd),0.3,eom,0,1,0,
 RC386,live,ozone,autovia,deals,contextual deals (ttd),0.35,run-time,0,0.65,0,
@@ -2820,7 +2820,7 @@ RC386,live,ozone,unwind,deals,contextual deals (ttd),0.36,run-time,0,0.64,0,2024
 RC386,live,ozone,valnet,deals,contextual deals (ttd),0.35,run-time,0,0.64,0,2024-11-07
 RC386,live,ozone,wall street journal,deals,contextual deals (ttd),0.36,run-time,0,0.64,0,2024-11-18
 RC387,live,ozone,accuweather,marketplace,p&g audience marketplace (ttd),0.36,run-time,0.3,0.448,0,2024-12-12
-RC387,live,ozone,adinplay,marketplace,p&g audience marketplace (ttd),0.35,run-time,0,1,0,2025-06-18
+RC387,live,ozone,adinplay,marketplace,p&g audience marketplace (ttd),0.01,run-time,0.3,0.693,0,2025-06-18
 RC387,live,ozone,arkadium,marketplace,p&g audience marketplace (ttd),0.36,run-time,0.3,0.448,0,2025-04-18
 RC387,live,ozone,asian media group,marketplace,p&g audience marketplace (ttd),0.3,eom,0.3,1,0,2024-10-30
 RC387,live,ozone,autovia,marketplace,p&g audience marketplace (ttd),0.35,run-time,0.3,0.455,0,
@@ -2992,7 +2992,7 @@ RC39,live,ozone,valnet,ozone omp,adform,0.35,run-time,0,0.65,0,2024-08-30
 RC39,live,ozone,venatus,ozone omp,adform,0.35,run-time,0,0.65,,
 RC39,live,ozone,wall street journal,ozone omp,adform,0.1,run-time,0,0.9,0,
 RC390,live,ozone,accuweather,marketplace,audience marketplace (ttd),0.36,run-time,0.3,0.448,0,2024-12-12
-RC390,live,ozone,adinplay,marketplace,audience marketplace (ttd),0.35,run-time,0,1,0,2025-06-18
+RC390,live,ozone,adinplay,marketplace,audience marketplace (ttd),0.01,run-time,0.3,0.693,0,2025-06-18
 RC390,live,ozone,arkadium,marketplace,audience marketplace (ttd),0.36,run-time,0.3,0.448,0,2025-04-18
 RC390,live,ozone,asian media group,marketplace,audience marketplace (ttd),0.3,eom,0.3,1,0,2024-10-30
 RC390,live,ozone,autovia,marketplace,audience marketplace (ttd),0.35,run-time,0.3,0.455,0,
@@ -3944,7 +3944,7 @@ RC449,live,saas,fandom,publisher omp,fandom (xandr),0.12,run-time,0,0.88,0,
 RC45,live,saas,lmc,publisher pmp,lmc (xandr),0,eom,0,1,,
 RC450,live,saas,fandom,publisher pmp,fandom (xandr),0.12,run-time,0,0.88,0,
 RC451,live,ozone,accuweather,deals,audience deals (bidswitch),0.36,run-time,0.3,0.41216,0,2024-12-12
-RC451,live,ozone,adinplay,deals,audience deals (bidswitch),0.35,run-time,0,1,0,2025-06-18
+RC451,live,ozone,adinplay,deals,audience deals (bidswitch),0.01,run-time,0.3,0.693,0,2025-06-18
 RC451,live,ozone,arkadium,deals,audience deals (bidswitch),0.36,run-time,0.3,0.41216,0,2025-04-18
 RC451,live,ozone,asian media group,deals,audience deals (bidswitch),0.3,EOM,0,0.92,0,2023-09-21
 RC451,live,ozone,autovia,deals,audience deals (bidswitch),0.35,run-time,0.3,0.419,0,2023-09-21
@@ -3984,7 +3984,7 @@ RC451,live,ozone,timeout,deals,audience deals (bidswitch),0.35,run-time,0.3,0.41
 RC451,live,ozone,unwind,deals,audience deals (bidswitch),0.36,run-time,0.3,0.412,0,2024-11-18
 RC451,live,ozone,valnet,deals,audience deals (bidswitch),0.35,run-time,0.3,0.419,0,2024-11-07
 RC452,live,ozone,accuweather,deals,inventory only deals (bidswitch),0.36,run-time,0,0.5888,0,2024-12-12
-RC452,live,ozone,adinplay,deals,inventory only deals (bidswitch),0.35,run-time,0,1,0,2025-06-18
+RC452,live,ozone,adinplay,deals,inventory only deals (bidswitch),0.01,run-time,0,0.99,0,2025-06-18
 RC452,live,ozone,arkadium,deals,inventory only deals (bidswitch),0.36,run-time,0,0.5888,0,2025-04-18
 RC452,live,ozone,asian media group,deals,inventory only deals (bidswitch),0.3,EOM,0,0.92,0,2023-09-21
 RC452,live,ozone,autovia,deals,inventory only deals (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
@@ -4024,7 +4024,7 @@ RC452,live,ozone,timeout,deals,inventory only deals (bidswitch),0.35,run-time,0,
 RC452,live,ozone,unwind,deals,inventory only deals (bidswitch),0.36,run-time,0,0.589,0,2024-11-18
 RC452,live,ozone,valnet,deals,inventory only deals (bidswitch),0.35,run-time,0,0.598,0,2024-11-07
 RC453,live,ozone,accuweather,deals,contextual deals (bidswitch),0.36,run-time,0,0.5888,0,2024-12-12
-RC453,live,ozone,adinplay,deals,contextual deals (bidswitch),0.35,run-time,0,1,0,2025-06-18
+RC453,live,ozone,adinplay,deals,contextual deals (bidswitch),0.01,run-time,0,0.99,0,2025-06-18
 RC453,live,ozone,arkadium,deals,contextual deals (bidswitch),0.36,run-time,0,0.5888,0,2025-04-18
 RC453,live,ozone,asian media group,deals,contextual deals (bidswitch),0.3,EOM,0,0.92,0,2023-09-21
 RC453,live,ozone,autovia,deals,contextual deals (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
@@ -4064,7 +4064,7 @@ RC453,live,ozone,timeout,deals,contextual deals (bidswitch),0.35,run-time,0,0.59
 RC453,live,ozone,unwind,deals,contextual deals (bidswitch),0.36,run-time,0,0.589,0,2024-11-18
 RC453,live,ozone,valnet,deals,contextual deals (bidswitch),0.35,run-time,0,0.598,0,2024-11-07
 RC454,live,ozone,accuweather,marketplace,audience marketplace (bidswitch),0.36,run-time,0.3,0.41216,0,2024-12-12
-RC454,live,ozone,adinplay,marketplace,audience marketplace (bidswitch),0.35,run-time,0,1,0,2025-06-18
+RC454,live,ozone,adinplay,marketplace,audience marketplace (bidswitch),0.01,run-time,0.3,0.693,0,2025-06-18
 RC454,live,ozone,arkadium,marketplace,audience marketplace (bidswitch),0.36,run-time,0.3,0.41216,0,2025-04-18
 RC454,live,ozone,asian media group,marketplace,audience marketplace (bidswitch),0.3,EOM,0,0.92,0,2023-09-21
 RC454,live,ozone,autovia,marketplace,audience marketplace (bidswitch),0.35,run-time,0.3,0.419,0,2023-09-21
@@ -5387,7 +5387,7 @@ RC558,live,ozone,valnet,ozone pmp,hawk,0.35,run-time,0,0.65,0,2025-01-23
 RC558,live,ozone,venatus,ozone pmp,hawk,0.35,run-time,0,0.65,0,2025-01-23
 RC558,live,ozone,wall street journal,ozone pmp,hawk,0.1,run-time,0,0.9,0,2025-01-23
 RC559,live,ozone,accuweather,deals,audience deals (hawk),0.36,run-time,0.3,0.448,0,2025-02-12
-RC559,live,ozone,adinplay,deals,audience deals (hawk),0.35,run-time,0,1,0,2025-06-18
+RC559,live,ozone,adinplay,deals,audience deals (hawk),0.01,run-time,0.3,0.693,0,2025-06-18
 RC559,live,ozone,arkadium,deals,audience deals (hawk),0.36,run-time,0.3,0.448,0,2025-04-18
 RC559,live,ozone,autovia,deals,audience deals (hawk),0.35,run-time,0.3,0.455,0,2025-02-12
 RC559,live,ozone,bauer,deals,audience deals (hawk),0.35,run-time,0.3,0.455,0,2025-02-12
@@ -5423,7 +5423,7 @@ RC559,live,ozone,valnet,deals,audience deals (hawk),0.35,run-time,0.3,0.455,0,20
 RC559,live,ozone,wall street journal,deals,audience deals (hawk),0.36,run-time,0.3,0.448,0,2025-02-12
 RC56,live,saas,cpex,publisher omp,cpex (xandr),0.15,eom,0,1,,
 RC560,live,ozone,accuweather,deals,inventory only deals (hawk),0.36,run-time,0,0.64,0,2025-02-12
-RC560,live,ozone,adinplay,deals,inventory only deals (hawk),0.35,run-time,0,1,0,2025-06-18
+RC560,live,ozone,adinplay,deals,inventory only deals (hawk),0.01,run-time,0,0.99,0,2025-06-18
 RC560,live,ozone,arkadium,deals,inventory only deals (hawk),0.36,run-time,0,0.64,0,2025-04-18
 RC560,live,ozone,autovia,deals,inventory only deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
 RC560,live,ozone,bauer,deals,inventory only deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
@@ -5458,7 +5458,7 @@ RC560,live,ozone,unwind,deals,inventory only deals (hawk),0.36,run-time,0,0.64,0
 RC560,live,ozone,valnet,deals,inventory only deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
 RC560,live,ozone,wall street journal,deals,inventory only deals (hawk),0.36,run-time,0,0.64,0,2025-02-12
 RC561,live,ozone,accuweather,deals,contextual deals (hawk),0.36,run-time,0,0.64,0,2025-02-12
-RC561,live,ozone,adinplay,deals,contextual deals (hawk),0.35,run-time,0,1,0,2025-06-18
+RC561,live,ozone,adinplay,deals,contextual deals (hawk),0.01,run-time,0,0.99,0,2025-06-18
 RC561,live,ozone,arkadium,deals,contextual deals (hawk),0.36,run-time,0,0.64,0,2025-04-18
 RC561,live,ozone,autovia,deals,contextual deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
 RC561,live,ozone,bauer,deals,contextual deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
@@ -5534,7 +5534,7 @@ RC562,live,ozone,venatus,marketplace,marketplace (hawk),0.35,run-time,0,0.65,0,2
 RC562,live,ozone,venatus-bidder,marketplace,marketplace (hawk),0.35,run-time,0,0.65,0,2025-02-12
 RC562,live,ozone,wall street journal,marketplace,marketplace (hawk),0.18,run-time,0,0.82,0,2025-02-12
 RC563,live,ozone,accuweather,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
-RC563,live,ozone,adinplay,deals,pubdeals brand (bidswitch),0.35,run-time,0,1,0,2025-06-18
+RC563,live,ozone,adinplay,deals,pubdeals brand (bidswitch),0.01,run-time,0,0.99,0,2025-06-18
 RC563,live,ozone,arkadium,deals,pubdeals brand (bidswitch),0.36,run-time,0,0.64,0,2025-04-18
 RC563,live,ozone,asian media group,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC563,live,ozone,autovia,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
@@ -5578,7 +5578,7 @@ RC563,live,ozone,venatus,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0
 RC563,live,ozone,venatus-bidder,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC563,live,ozone,wall street journal,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC564,live,ozone,accuweather,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
-RC564,live,ozone,adinplay,deals,pubdeals performance (bidswitch),0.35,run-time,0,1,0,2025-06-18
+RC564,live,ozone,adinplay,deals,pubdeals performance (bidswitch),0.01,run-time,0,0.99,0,2025-06-18
 RC564,live,ozone,arkadium,deals,pubdeals performance (bidswitch),0.36,run-time,0,0.64,0,2025-04-18
 RC564,live,ozone,asian media group,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC564,live,ozone,autovia,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
@@ -5622,7 +5622,7 @@ RC564,live,ozone,venatus,deals,pubdeals performance (bidswitch),0.18,run-time,0,
 RC564,live,ozone,venatus-bidder,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC564,live,ozone,wall street journal,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC565,live,ozone,accuweather,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2025-04-02
-RC565,live,ozone,adinplay,deals,pubdeals context(bidswitch),0.35,run-time,0,1,0,2025-06-18
+RC565,live,ozone,adinplay,deals,pubdeals context(bidswitch),0.01,run-time,0,0.99,0,2025-06-18
 RC565,live,ozone,arkadium,deals,pubdeals context(bidswitch),0.36,run-time,0,0.64,0,2025-04-18
 RC565,live,ozone,asian media group,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC565,live,ozone,autovia,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2025-04-02
@@ -5680,7 +5680,7 @@ RC67,live,news,news,publisher pmp,news (xandr),0,eom,0,1,,2023-09-27
 RC68,live,news,news,publisher omp,news (xandr),0,eom,0,1,,2023-09-27
 RC69,live,news,news,publisher pmp,news (xandr),0,eom,0,1,,2023-09-27
 RC7,live,ozone,accuweather,deals,audience deals (xandr),0.36,run-time,0.3,0.448,0,2024-12-12
-RC7,live,ozone,adinplay,deals,audience deals (xandr),0.35,run-time,0,1,0,2025-06-18
+RC7,live,ozone,adinplay,deals,audience deals (xandr),0.01,run-time,0.3,0.693,0,2025-06-18
 RC7,live,ozone,arkadium,deals,audience deals (xandr),0.36,run-time,0.3,0.448,0,2025-04-18
 RC7,live,ozone,asian media group,deals,audience deals (xandr),0.3,eom,0.3,1,,2024-10-30
 RC7,live,ozone,autovia,deals,audience deals (xandr),0.35,run-time,0.3,0.455,,
@@ -5730,7 +5730,7 @@ RC77,live,news,news,publisher pmp,news (magnite),0,eom,0,1,,2023-09-27
 RC78,live,news,news,publisher omp,news (index exchange),0,eom,0,1,,2023-09-27
 RC79,live,news,news,publisher pmp,news (index exchange),0,eom,0,1,,2023-09-27
 RC8,live,ozone,accuweather,deals,inventory only deals (xandr),0.36,run-time,0,0.64,0,2024-12-12
-RC8,live,ozone,adinplay,deals,inventory only deals (xandr),0.35,run-time,0,1,0,2025-06-18
+RC8,live,ozone,adinplay,deals,inventory only deals (xandr),0.01,run-time,0,0.99,0,2025-06-18
 RC8,live,ozone,arkadium,deals,inventory only deals (xandr),0.36,run-time,0,0.64,0,2025-04-18
 RC8,live,ozone,asian media group,deals,inventory only deals (xandr),0.3,eom,0,1,,
 RC8,live,ozone,autovia,deals,inventory only deals (xandr),0.35,run-time,0,0.82,,
@@ -5780,7 +5780,7 @@ RC87,live,news,news,publisher omp,news (openx),0,eom,0,1,,2023-09-27
 RC88,live,news,news,publisher pmp,news (openx),0,eom,0,1,,2023-09-27
 RC89,live,news,news,publisher omp,news (improve),0,eom,0,1,,2023-12-05
 RC9,live,ozone,accuweather,deals,contextual deals (xandr),0.36,run-time,0,0.64,0,2024-12-12
-RC9,live,ozone,adinplay,deals,contextual deals (xandr),0.35,run-time,0,1,0,2025-06-18
+RC9,live,ozone,adinplay,deals,contextual deals (xandr),0.01,run-time,0,0.99,0,2025-06-18
 RC9,live,ozone,arkadium,deals,contextual deals (xandr),0.36,run-time,0,0.64,0,2025-04-18
 RC9,live,ozone,asian media group,deals,contextual deals (xandr),0.3,eom,0,1,,
 RC9,live,ozone,autovia,deals,contextual deals (xandr),0.35,run-time,0,0.82,,
