@@ -14,7 +14,7 @@ RC1,live,ozone,crazygames,managed,beeswax,0.36,run-time,0.3,0.448,0,2025-02-07
 RC1,live,ozone,daily mail general trust,managed,beeswax,0.36,run-time,0.3,0.448,0,
 RC1,live,ozone,esi,managed,beeswax,0.35,run-time,0.3,0.455,0.1525,
 RC1,live,ozone,grv media,managed,beeswax,0.2,run-time,0.3,0.448,0,2024-11-07
-RC1,live,ozone,guardian,managed,beeswax,0.4,run-time,0.1,0.54,0.1463,
+RC1,live,ozone,guardian,managed,beeswax,0.09,run-time,0.3,0.637,0,2025-06-24
 RC1,live,ozone,hello,managed,beeswax,0.35,run-time,0.3,0.455,,
 RC1,live,ozone,huffington post,managed,beeswax,0.35,run-time,0.3,0.455,,
 RC1,live,ozone,mediahuis,managed,beeswax,0.36,run-time,0.3,0.448,0,2024-10-30
@@ -54,7 +54,7 @@ RC10,live,ozone,crazygames,deals,audience deals (openx),0.36,run-time,0.3,0.4256
 RC10,live,ozone,daily mail general trust,deals,audience deals (openx),0.36,run-time,0.3,0.426,0,
 RC10,live,ozone,esi,deals,audience deals (openx),0.35,run-time,0.3,0.43225,0.1525,
 RC10,live,ozone,grv media,deals,audience deals (openx),0.2,run-time,0.3,0.426,0,2024-11-07
-RC10,live,ozone,guardian,deals,audience deals (openx),0.4,run-time,0.1,0.513,0.1463,
+RC10,live,ozone,guardian,deals,audience deals (openx),0.09,run-time,0.3,0.60515,0,2025-06-24
 RC10,live,ozone,hello,deals,audience deals (openx),0.35,run-time,0.3,0.43225,,
 RC10,live,ozone,huffington post,deals,audience deals (openx),0.35,run-time,0.3,0.43225,,
 RC10,live,ozone,mediahuis,deals,audience deals (openx),0.36,run-time,0.3,0.426,0,2024-10-30
@@ -120,7 +120,7 @@ RC13,live,ozone,cnn,marketplace,groupm biddable,0.18,run-time,0,0.82,0,2024-12-1
 RC13,live,ozone,crazygames,marketplace,groupm biddable,0.36,run-time,0,0.64,0,2025-02-07
 RC13,live,ozone,daily mail general trust,marketplace,groupm biddable,0.18,run-time,0,0.82,0,
 RC13,live,ozone,esi,marketplace,groupm biddable,0.18,run-time,0,0.82,,
-RC13,live,ozone,guardian,marketplace,groupm biddable,0.4,run-time,0,0.61,,
+RC13,live,ozone,guardian,marketplace,groupm biddable,0.01,run-time,0,0.99,0,2025-06-24
 RC13,live,ozone,hello,marketplace,groupm biddable,0.18,run-time,0,0.82,,
 RC13,live,ozone,huffington post,marketplace,groupm biddable,0.18,run-time,0,0.82,,
 RC13,live,ozone,lagardere,marketplace,groupm biddable,0.2,eom,0,1,,
@@ -167,7 +167,7 @@ RC14,live,ozone,crazygames,marketplace,audience deals (omg),0.36,run-time,0.3,0.
 RC14,live,ozone,daily mail general trust,marketplace,audience deals (omg),0.36,run-time,0.3,0.448,0,
 RC14,live,ozone,esi,marketplace,audience deals (omg),0.35,run-time,0.3,0.455,,
 RC14,live,ozone,grv media,marketplace,audience deals (omg),0.2,run-time,0.3,0.448,0,2024-11-07
-RC14,live,ozone,guardian,marketplace,audience deals (omg),0.4,run-time,0.1,0.54,,
+RC14,live,ozone,guardian,marketplace,audience deals (omg),0.09,run-time,0.3,0.637,0,2025-06-24
 RC14,live,ozone,hello,marketplace,audience deals (omg),0.35,run-time,0.3,0.455,,
 RC14,live,ozone,huffington post,marketplace,audience deals (omg),0.35,run-time,0.3,0.455,,
 RC14,live,ozone,mediahuis,marketplace,audience deals (omg),0.36,run-time,0.3,0.448,0,2024-10-30
@@ -197,10 +197,6 @@ RC142,live,saas,reach,publisher omp,reach (rubicon),0.06,run-time,0,0.94,0,2024-
 RC143,live,saas,reach,publisher pmp,reach (rubicon),0.06,run-time,0,0.94,0,2024-08-01
 RC144,live,saas,reach,publisher omp,reach (pubmatic),0.06,run-time,0,0.94,0,2024-08-01
 RC145,live,saas,reach,publisher pmp,reach (pubmatic),0.06,run-time,0,0.94,0,2024-08-01
-RC146,live,saas,guardian,publisher omp,guardian (xandr),0.06,run-time,0,0.94,,
-RC147,live,saas,guardian,publisher pmp,guardian (xandr),0.06,run-time,0,0.94,,
-RC148,live,saas,guardian,publisher omp,guardian (openx),0.06,run-time,0,0.94,,
-RC149,live,saas,guardian,publisher pmp,guardian (openx),0.06,run-time,0,0.94,,
 RC15,live,ozone,accuweather,marketplace,inventory only deals (omg),0.18,run-time,0,0.82,0,2024-12-12
 RC15,live,ozone,arkadium,marketplace,inventory only deals (omg),0.36,run-time,0,0.64,0,2025-04-18
 RC15,live,ozone,asian media group,marketplace,inventory only deals (omg),0.3,eom,0,1,,
@@ -216,7 +212,7 @@ RC15,live,ozone,daily mail general trust,marketplace,inventory only deals (omg),
 RC15,live,ozone,esi,marketplace,inventory only deals (omg),0.18,run-time,0,0.82,,
 RC15,live,ozone,fandom,marketplace,inventory only deals (omg),0.18,run-time,0,0.82,0,2024-07-15
 RC15,live,ozone,grv media,marketplace,inventory only deals (omg),0.2,run-time,0,0.8,0,2024-10-30
-RC15,live,ozone,guardian,marketplace,inventory only deals (omg),0.4,run-time,0,0.6,,
+RC15,live,ozone,guardian,marketplace,inventory only deals (omg),0.01,run-time,0,0.99,0,2025-06-24
 RC15,live,ozone,gumtree,marketplace,inventory only deals (omg),0.35,run-time,0,0.65,0,2024-09-12
 RC15,live,ozone,hello,marketplace,inventory only deals (omg),0.18,run-time,0,0.82,,
 RC15,live,ozone,huffington post,marketplace,inventory only deals (omg),0.18,run-time,0,0.82,,
@@ -244,8 +240,6 @@ RC15,live,ozone,timeout,marketplace,inventory only deals (omg),0.18,run-time,0,0
 RC15,live,ozone,unwind,marketplace,inventory only deals (omg),0.18,run-time,0,0.82,0,2024-11-18
 RC15,live,ozone,venatus,marketplace,inventory only deals (omg),0.35,run-time,0,0.65,,
 RC15,live,ozone,wall street journal,marketplace,inventory only deals (omg),0.18,run-time,0,0.82,0,
-RC150,live,saas,guardian,publisher omp,guardian (pangaea),,eom,0,1,,
-RC151,live,saas,guardian,publisher pmp,guardian (pangaea),,eom,0,1,,
 RC152,live,saas,bauer,publisher omp,bauer (xandr),0.09,run-time,0,0.91,0,2025-02-11
 RC153,live,saas,bauer,publisher pmp,bauer (xandr),0.09,run-time,0,0.91,0,2025-02-11
 RC154,deprecated,saas,bauer,publisher omp,bauer (openx),,eom,,1,,
@@ -269,7 +263,7 @@ RC16,live,ozone,daily mail general trust,marketplace,contextual deals (omg),0.18
 RC16,live,ozone,esi,marketplace,contextual deals (omg),0.18,run-time,0,0.82,,
 RC16,live,ozone,fandom,marketplace,contextual deals (omg),0.18,run-time,0,0.82,0,2024-07-15
 RC16,live,ozone,grv media,marketplace,contextual deals (omg),0.2,run-time,0,0.8,0,2024-10-30
-RC16,live,ozone,guardian,marketplace,contextual deals (omg),0.4,run-time,0,0.6,,
+RC16,live,ozone,guardian,marketplace,contextual deals (omg),0.01,run-time,0,0.99,0,2025-06-24
 RC16,live,ozone,hello,marketplace,contextual deals (omg),0.18,run-time,0,0.82,,
 RC16,live,ozone,huffington post,marketplace,contextual deals (omg),0.18,run-time,0,0.82,,
 RC16,live,ozone,lagardere,marketplace,contextual deals (omg),0.2,eom,0,1,,
@@ -312,7 +306,7 @@ RC168,live,ozone,crazygames,marketplace,audience deals (multibuyer) - xandr,0.36
 RC168,live,ozone,daily mail general trust,marketplace,audience deals (multibuyer) - xandr,0.36,run-time,0.3,0.448,0,
 RC168,live,ozone,esi,marketplace,audience deals (multibuyer) - xandr,0.35,run-time,0.3,0.455,,
 RC168,live,ozone,grv media,marketplace,audience deals (multibuyer) - xandr,0.2,run-time,0.3,0.448,0,2024-11-07
-RC168,live,ozone,guardian,marketplace,audience deals (multibuyer) - xandr,0.4,run-time,0.1,0.54,,
+RC168,live,ozone,guardian,marketplace,audience deals (multibuyer) - xandr,0.09,run-time,0.3,0.637,0,2025-06-24
 RC168,live,ozone,hello,marketplace,audience deals (multibuyer) - xandr,0.35,run-time,0.3,0.455,,
 RC168,live,ozone,huffington post,marketplace,audience deals (multibuyer) - xandr,0.35,run-time,0.3,0.455,,
 RC168,live,ozone,mediahuis,marketplace,audience deals (multibuyer) - xandr,0.36,run-time,0.3,0.448,0,2024-10-30
@@ -351,7 +345,7 @@ RC169,live,ozone,daily mail general trust,marketplace,inventory only deals (mult
 RC169,live,ozone,esi,marketplace,inventory only deals (multibuyer) - xandr,0.18,run-time,0,0.82,,
 RC169,live,ozone,fandom,marketplace,inventory only deals (multibuyer) - xandr,0.18,run-time,0,0.82,0,2024-07-15
 RC169,live,ozone,grv media,marketplace,inventory only deals (multibuyer) - xandr,0.2,run-time,0,0.8,0,2024-10-30
-RC169,live,ozone,guardian,marketplace,inventory only deals (multibuyer) - xandr,0.4,run-time,0,0.6,,
+RC169,live,ozone,guardian,marketplace,inventory only deals (multibuyer) - xandr,0.01,run-time,0,0.99,0,2025-06-24
 RC169,live,ozone,hello,marketplace,inventory only deals (multibuyer) - xandr,0.18,run-time,0,0.82,,
 RC169,live,ozone,huffington post,marketplace,inventory only deals (multibuyer) - xandr,0.18,run-time,0,0.82,,
 RC169,live,ozone,lagardere,marketplace,inventory only deals (multibuyer) - xandr,0.2,eom,0,1,,
@@ -390,7 +384,7 @@ RC17,live,ozone,daily mail general trust,marketplace,publisher deals (omg),0.18,
 RC17,live,ozone,esi,marketplace,publisher deals (omg),0.18,run-time,0,0.82,,
 RC17,live,ozone,fandom,marketplace,publisher deals (omg),0.18,run-time,0,0.82,0,2024-07-15
 RC17,live,ozone,grv media,marketplace,publisher deals (omg),0.2,run-time,0,0.8,0,2024-10-30
-RC17,live,ozone,guardian,marketplace,publisher deals (omg),0.4,run-time,0,0.6,,
+RC17,live,ozone,guardian,marketplace,publisher deals (omg),0.01,run-time,0,0.99,0,2025-06-24
 RC17,live,ozone,hello,marketplace,publisher deals (omg),0.18,run-time,0,0.82,,
 RC17,live,ozone,huffington post,marketplace,publisher deals (omg),0.18,run-time,0,0.82,,
 RC17,live,ozone,lagardere,marketplace,publisher deals (omg),0.2,eom,0,1,,
@@ -429,7 +423,7 @@ RC170,live,ozone,daily mail general trust,marketplace,contextual deals (multibuy
 RC170,live,ozone,esi,marketplace,contextual deals (multibuyer)- xandr,0.18,run-time,0,0.82,,
 RC170,live,ozone,fandom,marketplace,contextual deals (multibuyer)- xandr,0.18,run-time,0,0.82,0,2024-07-15
 RC170,live,ozone,grv media,marketplace,contextual deals (multibuyer)- xandr,0.2,run-time,0,0.8,0,2024-10-30
-RC170,live,ozone,guardian,marketplace,contextual deals (multibuyer)- xandr,0.4,run-time,0,0.6,,
+RC170,live,ozone,guardian,marketplace,contextual deals (multibuyer)- xandr,0.01,run-time,0,0.99,0,2025-06-24
 RC170,live,ozone,hello,marketplace,contextual deals (multibuyer)- xandr,0.18,run-time,0,0.82,,
 RC170,live,ozone,huffington post,marketplace,contextual deals (multibuyer)- xandr,0.18,run-time,0,0.82,,
 RC170,live,ozone,lagardere,marketplace,contextual deals (multibuyer)- xandr,0.2,eom,0,1,,
@@ -468,7 +462,7 @@ RC171,live,ozone,daily mail general trust,marketplace,publisher deals (multibuye
 RC171,live,ozone,esi,marketplace,publisher deals (multibuyer)- xandr,0.18,run-time,0,0.82,,
 RC171,live,ozone,fandom,marketplace,publisher deals (multibuyer)- xandr,0.18,run-time,0,0.82,0,2024-07-15
 RC171,live,ozone,grv media,marketplace,publisher deals (multibuyer)- xandr,0.2,run-time,0,0.8,0,2024-10-30
-RC171,live,ozone,guardian,marketplace,publisher deals (multibuyer)- xandr,0.4,run-time,0,0.6,,
+RC171,live,ozone,guardian,marketplace,publisher deals (multibuyer)- xandr,0.01,run-time,0,0.99,0,2025-06-24
 RC171,live,ozone,hello,marketplace,publisher deals (multibuyer)- xandr,0.18,run-time,0,0.82,,
 RC171,live,ozone,huffington post,marketplace,publisher deals (multibuyer)- xandr,0.18,run-time,0,0.82,,
 RC171,live,ozone,lagardere,marketplace,publisher deals (multibuyer)- xandr,0.2,eom,0,1,,
@@ -508,7 +502,6 @@ RC172,live,ozone,daily mail general trust,ozone omp,openx,0.1,run-time,0,0.792,0
 RC172,live,ozone,esi,ozone omp,openx,0.1,run-time,0,0.792,,
 RC172,live,ozone,fandom,ozone omp,openx,0.1,run-time,0,0.792,0,2024-07-15
 RC172,live,ozone,grv media,ozone omp,openx,0.2,run-time,0,0.704,0,2024-10-30
-RC172,live,ozone,guardian,ozone omp,openx,0.4,run-time,0,0.528,0,
 RC172,live,ozone,gumtree,ozone omp,openx,0.35,run-time,0,0.572,0,
 RC172,live,ozone,hello,ozone omp,openx,0.1,run-time,,0.792,,
 RC172,live,ozone,huffington post,ozone omp,openx,0.1,run-time,0,0.792,,
@@ -555,7 +548,7 @@ RC173,live,ozone,crazygames,deals,inventory only deals (multibuyer) - pubmatic,0
 RC173,live,ozone,daily mail general trust,deals,inventory only deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,
 RC173,live,ozone,esi,deals,inventory only deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
 RC173,live,ozone,grv media,deals,inventory only deals (multibuyer) - pubmatic,0.2,run-time,0,0.64,0,2024-11-07
-RC173,live,ozone,guardian,deals,inventory only deals (multibuyer) - pubmatic,0.4,run-time,0,0.6,,
+RC173,live,ozone,guardian,deals,inventory only deals (multibuyer) - pubmatic,0.09,run-time,0,0.91,0,2025-06-24
 RC173,live,ozone,hello,deals,inventory only deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
 RC173,live,ozone,huffington post,deals,inventory only deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
 RC173,live,ozone,lagardere,deals,inventory only deals (multibuyer) - pubmatic,0.2,eom,0,1,,
@@ -596,7 +589,7 @@ RC174,live,ozone,crazygames,deals,contextual deals (multibuyer) - pubmatic,0.36,
 RC174,live,ozone,daily mail general trust,deals,contextual deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,
 RC174,live,ozone,esi,deals,contextual deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
 RC174,live,ozone,grv media,deals,contextual deals (multibuyer) - pubmatic,0.2,run-time,0,0.64,0,2024-11-07
-RC174,live,ozone,guardian,deals,contextual deals (multibuyer) - pubmatic,0.4,run-time,0,0.6,,
+RC174,live,ozone,guardian,deals,contextual deals (multibuyer) - pubmatic,0.09,run-time,0,0.91,0,2025-06-24
 RC174,live,ozone,hello,deals,contextual deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
 RC174,live,ozone,huffington post,deals,contextual deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
 RC174,live,ozone,lagardere,deals,contextual deals (multibuyer) - pubmatic,0.2,eom,0,1,,
@@ -637,7 +630,7 @@ RC175,live,ozone,crazygames,deals,publisher deals (multibuyer) - pubmatic,0.36,r
 RC175,live,ozone,daily mail general trust,deals,publisher deals (multibuyer) - pubmatic,0.36,run-time,0,0.64,0,
 RC175,live,ozone,esi,deals,publisher deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
 RC175,live,ozone,grv media,deals,publisher deals (multibuyer) - pubmatic,0.2,run-time,0,0.64,0,2024-11-07
-RC175,live,ozone,guardian,deals,publisher deals (multibuyer) - pubmatic,0.4,run-time,0,0.6,,
+RC175,live,ozone,guardian,deals,publisher deals (multibuyer) - pubmatic,0.09,run-time,0,0.91,0,2025-06-24
 RC175,live,ozone,hello,deals,publisher deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
 RC175,live,ozone,huffington post,deals,publisher deals (multibuyer) - pubmatic,0.35,run-time,0,0.65,,
 RC175,live,ozone,lagardere,deals,publisher deals (multibuyer) - pubmatic,0.2,eom,0,1,,
@@ -679,7 +672,6 @@ RC176,live,ozone,daily mail general trust,ozone omp,pubmatic,0.1,run-time,0,0.9,
 RC176,live,ozone,esi,ozone omp,pubmatic,0.1,run-time,0,0.9,,
 RC176,live,ozone,fandom,ozone omp,pubmatic,0.1,run-time,0,0.9,0,2024-07-15
 RC176,live,ozone,grv media,ozone omp,pubmatic,0.2,run-time,0,0.8,0,2024-10-30
-RC176,live,ozone,guardian,ozone omp,pubmatic,0.4,run-time,,0.6,,
 RC176,live,ozone,gumtree,ozone omp,pubmatic,0.35,run-time,0,0.65,0,
 RC176,live,ozone,hello,ozone omp,pubmatic,,,0,,,
 RC176,live,ozone,huffington post,ozone omp,pubmatic,0.1,run-time,0,0.9,,
@@ -726,7 +718,7 @@ RC177,live,ozone,daily mail general trust,marketplace,inventory only deals (mult
 RC177,live,ozone,esi,marketplace,inventory only deals (multibuyer) - adform,0.18,run-time,0,0.82,,
 RC177,live,ozone,fandom,marketplace,inventory only deals (multibuyer) - adform,0.18,run-time,0,0.82,0,2024-07-15
 RC177,live,ozone,grv media,marketplace,inventory only deals (multibuyer) - adform,0.2,run-time,0,0.8,0,2024-10-30
-RC177,live,ozone,guardian,marketplace,inventory only deals (multibuyer) - adform,0.4,run-time,0,0.6,,
+RC177,live,ozone,guardian,marketplace,inventory only deals (multibuyer) - adform,0.01,run-time,0,0.99,0,2025-06-24
 RC177,live,ozone,hello,marketplace,inventory only deals (multibuyer) - adform,0.18,run-time,0,0.82,,
 RC177,live,ozone,huffington post,marketplace,inventory only deals (multibuyer) - adform,0.18,run-time,0,0.82,,
 RC177,live,ozone,lagardere,marketplace,inventory only deals (multibuyer) - adform,0.2,eom,0,1,,
@@ -768,7 +760,7 @@ RC178,live,ozone,crazygames,deals,audience deals (multibuyer) - pubmatic,0.36,ru
 RC178,live,ozone,daily mail general trust,deals,audience deals (multibuyer) - pubmatic,0.36,run-time,0.3,0.448,0,
 RC178,live,ozone,esi,deals,audience deals (multibuyer) - pubmatic,0.35,run-time,0.3,0.455,,
 RC178,live,ozone,grv media,deals,audience deals (multibuyer) - pubmatic,0.2,run-time,0.3,0.448,0,2024-11-07
-RC178,live,ozone,guardian,deals,audience deals (multibuyer) - pubmatic,0.4,run-time,0.1,0.54,,
+RC178,live,ozone,guardian,deals,audience deals (multibuyer) - pubmatic,0.09,run-time,0.3,0.637,0,2025-06-24
 RC178,live,ozone,hello,deals,audience deals (multibuyer) - pubmatic,0.35,run-time,0.3,0.455,,
 RC178,live,ozone,huffington post,deals,audience deals (multibuyer) - pubmatic,0.35,run-time,0.3,0.455,,
 RC178,live,ozone,mediahuis,deals,audience deals (multibuyer) - pubmatic,0.36,run-time,0.3,0.448,0,2024-10-30
@@ -854,7 +846,6 @@ RC181,live,ozone,daily mail general trust,ozone omp,pubmatic (ssp deals),0.1,run
 RC181,live,ozone,esi,ozone omp,pubmatic (ssp deals),0.1,run-time,0,0.9,,
 RC181,live,ozone,fandom,ozone omp,pubmatic (ssp deals),0.1,run-time,0,0.9,0,2024-07-15
 RC181,live,ozone,grv media,ozone omp,pubmatic (ssp deals),0.2,run-time,0,0.8,0,2024-10-30
-RC181,live,ozone,guardian,ozone omp,pubmatic (ssp deals),0.4,run-time,0,0.6,0,2024-09-12
 RC181,live,ozone,gumtree,ozone omp,pubmatic (ssp deals),0.35,run-time,0,0.65,0,
 RC181,live,ozone,hello,ozone omp,pubmatic (ssp deals),,,0,,,
 RC181,live,ozone,huffington post,ozone omp,pubmatic (ssp deals),0.1,run-time,0,0.9,,
@@ -901,7 +892,6 @@ RC182,live,ozone,daily mail general trust,ozone omp,openx (ssp deals),0.1,run-ti
 RC182,live,ozone,esi,ozone omp,openx (ssp deals),0.1,run-time,0,0.792,,
 RC182,live,ozone,fandom,ozone omp,openx (ssp deals),0.1,run-time,0,0.792,0,2024-07-15
 RC182,live,ozone,grv media,ozone omp,openx (ssp deals),0.2,run-time,0,0.704,0,2024-10-30
-RC182,live,ozone,guardian,ozone omp,openx (ssp deals),0.4,run-time,0,0.528,0,
 RC182,live,ozone,gumtree,ozone omp,openx (ssp deals),0.35,run-time,0,0.572,0,
 RC182,live,ozone,hello,ozone omp,openx (ssp deals),0.1,run-time,,0.792,,
 RC182,live,ozone,huffington post,ozone omp,openx (ssp deals),0.1,run-time,0,0.792,,
@@ -955,7 +945,7 @@ RC19,live,ozone,daily mail general trust,marketplace,inventory only marketplace 
 RC19,live,ozone,esi,marketplace,inventory only marketplace (dan),0.18,run-time,0,0.82,,
 RC19,live,ozone,fandom,marketplace,inventory only marketplace (dan),0.18,run-time,0,0.82,0,2024-07-15
 RC19,live,ozone,grv media,marketplace,inventory only marketplace (dan),0.2,run-time,0,0.8,0,2024-10-30
-RC19,live,ozone,guardian,marketplace,inventory only marketplace (dan),0.4,run-time,0,0.6,,
+RC19,live,ozone,guardian,marketplace,inventory only marketplace (dan),0.01,run-time,0,0.99,0,2025-06-24
 RC19,live,ozone,hello,marketplace,inventory only marketplace (dan),0.18,run-time,0,0.82,,
 RC19,live,ozone,huffington post,marketplace,inventory only marketplace (dan),0.18,run-time,0,0.82,,
 RC19,live,ozone,lagardere,marketplace,inventory only marketplace (dan),0.2,eom,0,1,,
@@ -1001,7 +991,7 @@ RC193,live,ozone,daily mail general trust,marketplace,inventory only (p&g via th
 RC193,live,ozone,esi,marketplace,inventory only (p&g via the trade desk),0.18,run-time,0,0.82,,
 RC193,live,ozone,fandom,marketplace,inventory only (p&g via the trade desk),0.18,run-time,0,0.82,0,2024-07-15
 RC193,live,ozone,grv media,marketplace,inventory only (p&g via the trade desk),0.2,run-time,0,0.8,0,2024-10-30
-RC193,live,ozone,guardian,marketplace,inventory only (p&g via the trade desk),0.4,run-time,0,0.6,,
+RC193,live,ozone,guardian,marketplace,inventory only (p&g via the trade desk),0.01,run-time,0,0.99,0,2025-06-24
 RC193,live,ozone,hello,marketplace,inventory only (p&g via the trade desk),0.18,run-time,0,0.82,,
 RC193,live,ozone,huffington post,marketplace,inventory only (p&g via the trade desk),0.18,run-time,0,0.82,,
 RC193,live,ozone,lagardere,marketplace,inventory only (p&g via the trade desk),0.2,eom,0,1,,
@@ -1043,7 +1033,7 @@ RC194,live,ozone,daily mail general trust,marketplace,xandr deals (catchall),0.1
 RC194,live,ozone,esi,marketplace,xandr deals (catchall),0.18,run-time,0,0.82,,
 RC194,live,ozone,fandom,marketplace,xandr deals (catchall),0.18,run-time,0,0.82,0,2024-07-15
 RC194,live,ozone,grv media,marketplace,xandr deals (catchall),0.2,run-time,0,0.8,0,2024-10-30
-RC194,live,ozone,guardian,marketplace,xandr deals (catchall),0.4,run-time,0,0.6,,
+RC194,live,ozone,guardian,marketplace,xandr deals (catchall),0.01,run-time,0,0.99,0,2025-06-24
 RC194,live,ozone,hello,marketplace,xandr deals (catchall),0.18,run-time,,0.82,,
 RC194,live,ozone,huffington post,marketplace,xandr deals (catchall),0.18,run-time,0,0.82,,
 RC194,live,ozone,lagardere,marketplace,xandr deals (catchall),0.2,eom,0,1,,
@@ -1090,7 +1080,6 @@ RC199,live,ozone,daily mail general trust,ozone omp,inventory only (omp),0.1,run
 RC199,live,ozone,esi,ozone omp,inventory only (omp),0.1,run-time,0,0.9,,
 RC199,live,ozone,fandom,ozone omp,inventory only (omp),0.1,run-time,0,0.9,0,2024-07-15
 RC199,live,ozone,grv media,ozone omp,inventory only (omp),0.2,run-time,0,0.8,0,2024-10-30
-RC199,live,ozone,guardian,ozone omp,inventory only (omp),0.4,run-time,0,0.6,,
 RC199,live,ozone,gumtree,ozone omp,inventory only (omp),0.35,run-time,0,0.65,0,
 RC199,live,ozone,hello,ozone omp,inventory only (omp),0.1,run-time,0,0.9,,
 RC199,live,ozone,huffington post,ozone omp,inventory only (omp),0.1,run-time,0,0.9,,
@@ -1137,7 +1126,7 @@ RC2,live,ozone,crazygames,managed,complex formats,0.36,run-time,0.3,0.448,0,2025
 RC2,live,ozone,daily mail general trust,managed,complex formats,0.36,run-time,0.3,0.448,0,
 RC2,live,ozone,esi,managed,complex formats,0.35,run-time,0.3,0.455,0.1525,
 RC2,live,ozone,grv media,managed,complex formats,0.2,run-time,0.3,0.448,0,2024-11-07
-RC2,live,ozone,guardian,managed,complex formats,0.4,run-time,0.1,0.54,0.1463,
+RC2,live,ozone,guardian,managed,complex formats,0.09,run-time,0.3,0.637,0,2025-06-24
 RC2,live,ozone,hello,managed,complex formats,0.35,run-time,0.3,0.455,,
 RC2,live,ozone,huffington post,managed,complex formats,0.35,run-time,0.3,0.455,,
 RC2,live,ozone,mediahuis,managed,complex formats,0.36,run-time,0.3,0.448,0,2024-10-30
@@ -1172,8 +1161,6 @@ RC206,live,saas,tekan,publisher omp,tekan (districtm),0,eom,0,1,,
 RC207,live,saas,tekan,publisher pmp,tekan (districtm),0,eom,0,1,,
 RC208,in_validation,saas,tekan,publisher omp,tekan (verizon),0,eom,0,1,,
 RC209,in_validation,saas,tekan,publisher pmp,tekan (verizon),0,eom,0,1,,
-RC210,live,saas,guardian,publisher omp,guardian (pubmatic),0.06,run-time,0,0.94,,
-RC211,live,saas,guardian,publisher pmp,guardian (pubmatic),0.06,run-time,0,0.94,,
 RC212,live,ozone,accuweather,marketplace,smart adserver,0.18,run-time,0,0.82,0,2024-12-12
 RC212,live,ozone,arkadium,marketplace,smart adserver,0.36,run-time,0,0.64,0,2025-04-18
 RC212,live,ozone,asian media group,marketplace,smart adserver,0.3,eom,0,1,,
@@ -1188,6 +1175,7 @@ RC212,live,ozone,crazygames,marketplace,smart adserver,0.36,run-time,0,0.64,0,20
 RC212,live,ozone,daily mail general trust,marketplace,smart adserver,0.18,run-time,0,0.82,0,
 RC212,live,ozone,esi,marketplace,smart adserver,0.18,run-time,0,0.82,,
 RC212,live,ozone,grv media,marketplace,smart adserver,0.2,run-time,0,0.8,0,2024-10-30
+RC212,live,ozone,guardian,marketplace,smart adserver,0.01,run-time,0,0.99,0,2025-06-24
 RC212,live,ozone,huffington post,marketplace,smart adserver,0.18,run-time,0,0.82,,
 RC212,live,ozone,lagardere,marketplace,smart adserver,0.2,eom,0,1,,
 RC212,live,ozone,mediahuis,marketplace,smart adserver,0.18,run-time,0,0.82,0,2024-08-27
@@ -1231,7 +1219,7 @@ RC22,live,ozone,crazygames,marketplace,audience deals (publicis),0.36,run-time,0
 RC22,live,ozone,daily mail general trust,marketplace,audience deals (publicis),0.36,run-time,0.3,0.448,0,
 RC22,live,ozone,esi,marketplace,audience deals (publicis),0.35,run-time,0.3,0.455,,
 RC22,live,ozone,grv media,marketplace,audience deals (publicis),0.2,run-time,0.3,0.448,0,2024-11-07
-RC22,live,ozone,guardian,marketplace,audience deals (publicis),0.4,run-time,0.1,0.54,,
+RC22,live,ozone,guardian,marketplace,audience deals (publicis),0.09,run-time,0.3,0.637,0,2025-06-24
 RC22,live,ozone,hello,marketplace,audience deals (publicis),0.35,run-time,0.3,0.455,,
 RC22,live,ozone,huffington post,marketplace,audience deals (publicis),0.35,run-time,0.3,0.455,,
 RC22,live,ozone,mediahuis,marketplace,audience deals (publicis),0.36,run-time,0.3,0.448,0,2024-10-30
@@ -1277,7 +1265,7 @@ RC225,live,ozone,dmgt,marketplace,external managed services,,run-time,,1,,
 RC225,live,ozone,esi,marketplace,external managed services,0.18,run-time,0,0.82,,
 RC225,live,ozone,fandom,marketplace,external managed services,0.18,run-time,0,0.82,0,2024-07-15
 RC225,live,ozone,grv media,marketplace,external managed services,0.2,run-time,0,0.8,0,2024-10-30
-RC225,live,ozone,guardian,marketplace,external managed services,0.4,run-time,0,0.6,,
+RC225,live,ozone,guardian,marketplace,external managed services,0.01,run-time,0,0.99,0,2025-06-24
 RC225,live,ozone,gumtree,marketplace,external managed services,0.35,run-time,0,0.65,0,2024-09-12
 RC225,live,ozone,hello,marketplace,external managed services,0.18,run-time,0,0.82,,
 RC225,live,ozone,huffington post,marketplace,external managed services,0.18,run-time,0,0.82,,
@@ -1325,7 +1313,7 @@ RC226,live,ozone,dmgt,marketplace,external managed services,,run-time,,1,,
 RC226,live,ozone,esi,marketplace,external managed services,0.18,run-time,0,0.82,,
 RC226,live,ozone,fandom,marketplace,external managed services,0.18,run-time,0,0.82,0,2024-07-15
 RC226,live,ozone,grv media,marketplace,external managed services,0.2,run-time,0,0.8,0,2024-10-30
-RC226,live,ozone,guardian,marketplace,external managed services,0.4,run-time,0,0.6,,
+RC226,live,ozone,guardian,marketplace,external managed services,0.01,run-time,0,0.99,0,2025-06-24
 RC226,live,ozone,hello,marketplace,external managed services,0.18,run-time,0,0.82,,
 RC226,live,ozone,huffington post,marketplace,external managed services,0.18,run-time,0,0.82,,
 RC226,live,ozone,lagardere,marketplace,external managed services,0.2,eom,0,1,,
@@ -1350,8 +1338,6 @@ RC226,live,ozone,the jewish chronicle,marketplace,external managed services,0.18
 RC226,live,ozone,timeout,marketplace,external managed services,0.18,run-time,0,0.82,,
 RC226,live,ozone,unwind,marketplace,external managed services,0.18,run-time,0,0.82,0,2024-11-18
 RC226,live,ozone,wall street journal,marketplace,external managed services,0.18,run-time,0,0.82,0,
-RC227,live,saas,guardian,publisher omp,guardian (smartadserver),0.06,run-time,0,0.94,,
-RC228,live,saas,guardian,publisher pmp,guardian (smartadserver),0.06,run-time,0,0.94,,
 RC229,live,saas,tekan,publisher omp,tekan (openx),0,eom,0,1,,
 RC23,live,ozone,accuweather,marketplace,inventory only deals (publicis),0.18,run-time,0,0.82,0,2024-12-12
 RC23,live,ozone,arkadium,marketplace,inventory only deals (publicis),0.36,run-time,0,0.64,0,2025-04-18
@@ -1368,7 +1354,7 @@ RC23,live,ozone,daily mail general trust,marketplace,inventory only deals (publi
 RC23,live,ozone,esi,marketplace,inventory only deals (publicis),0.18,run-time,0,0.82,,
 RC23,live,ozone,fandom,marketplace,inventory only deals (publicis),0.18,run-time,0,0.82,0,2024-07-15
 RC23,live,ozone,grv media,marketplace,inventory only deals (publicis),0.2,run-time,0,0.8,0,2024-10-30
-RC23,live,ozone,guardian,marketplace,inventory only deals (publicis),0.4,run-time,0,0.6,,
+RC23,live,ozone,guardian,marketplace,inventory only deals (publicis),0.01,run-time,0,0.99,0,2025-06-24
 RC23,live,ozone,hello,marketplace,inventory only deals (publicis),0.18,run-time,0,0.82,,
 RC23,live,ozone,huffington post,marketplace,inventory only deals (publicis),0.18,run-time,0,0.82,,
 RC23,live,ozone,lagardere,marketplace,inventory only deals (publicis),0.2,eom,0,1,,
@@ -1418,7 +1404,6 @@ RC239,live,ozone,daily mail general trust,ozone omp,inventory only (the trade de
 RC239,live,ozone,esi,ozone omp,inventory only (the trade desk),0.1,run-time,0,0.9,,
 RC239,live,ozone,fandom,ozone omp,inventory only (the trade desk),0.1,run-time,0,0.9,0,2024-07-15
 RC239,live,ozone,grv media,ozone omp,inventory only (the trade desk),0.2,run-time,0,0.8,0,2024-10-30
-RC239,live,ozone,guardian,ozone omp,inventory only (the trade desk),0.4,run-time,0,0.6,,
 RC239,live,ozone,gumtree,ozone omp,inventory only (the trade desk),0.35,run-time,0,0.65,0,
 RC239,live,ozone,hello,ozone omp,inventory only (the trade desk),0.1,run-time,0,0.9,,
 RC239,live,ozone,huffington post,ozone omp,inventory only (the trade desk),0.1,run-time,0,0.9,,
@@ -1465,7 +1450,7 @@ RC24,live,ozone,daily mail general trust,marketplace,contextual deals (publicis)
 RC24,live,ozone,esi,marketplace,contextual deals (publicis),0.18,run-time,0,0.82,,
 RC24,live,ozone,fandom,marketplace,contextual deals (publicis),0.18,run-time,0,0.82,0,2024-07-15
 RC24,live,ozone,grv media,marketplace,contextual deals (publicis),0.2,run-time,0,0.8,0,2024-10-30
-RC24,live,ozone,guardian,marketplace,contextual deals (publicis),0.4,run-time,0,0.6,,
+RC24,live,ozone,guardian,marketplace,contextual deals (publicis),0.01,run-time,0,0.99,0,2025-06-24
 RC24,live,ozone,hello,marketplace,contextual deals (publicis),0.18,run-time,0,0.82,,
 RC24,live,ozone,huffington post,marketplace,contextual deals (publicis),0.18,run-time,0,0.82,,
 RC24,live,ozone,lagardere,marketplace,contextual deals (publicis),0.2,eom,0,1,,
@@ -1514,7 +1499,7 @@ RC25,live,ozone,daily mail general trust,marketplace,publisher deals (publicis),
 RC25,live,ozone,esi,marketplace,publisher deals (publicis),0.18,run-time,0,0.82,,
 RC25,live,ozone,fandom,marketplace,publisher deals (publicis),0.18,run-time,0,0.82,0,2024-07-15
 RC25,live,ozone,grv media,marketplace,publisher deals (publicis),0.2,run-time,0,0.8,0,2024-10-30
-RC25,live,ozone,guardian,marketplace,publisher deals (publicis),0.4,run-time,0,0.6,,
+RC25,live,ozone,guardian,marketplace,publisher deals (publicis),0.01,run-time,0,0.99,0,2025-06-24
 RC25,live,ozone,hello,marketplace,publisher deals (publicis),0.18,run-time,0,0.82,,
 RC25,live,ozone,huffington post,marketplace,publisher deals (publicis),0.18,run-time,0,0.82,,
 RC25,live,ozone,lagardere,marketplace,publisher deals (publicis),0.2,eom,0,1,,
@@ -1563,7 +1548,7 @@ RC26,live,ozone,crazygames,marketplace,audience deals (merkle),0.36,run-time,0.3
 RC26,live,ozone,daily mail general trust,marketplace,audience deals (merkle),0.36,run-time,0.3,0.448,0,
 RC26,live,ozone,esi,marketplace,audience deals (merkle),0.35,run-time,0.3,0.455,,
 RC26,live,ozone,grv media,marketplace,audience deals (merkle),0.2,run-time,0.3,0.448,0,2024-11-07
-RC26,live,ozone,guardian,marketplace,audience deals (merkle),0.4,run-time,0.1,0.54,,
+RC26,live,ozone,guardian,marketplace,audience deals (merkle),0.09,run-time,0.3,0.637,0,2025-06-24
 RC26,live,ozone,hello,marketplace,audience deals (merkle),0.35,run-time,0.3,0.455,,
 RC26,live,ozone,huffington post,marketplace,audience deals (merkle),0.35,run-time,0.3,0.455,,
 RC26,live,ozone,mediahuis,marketplace,audience deals (merkle),0.36,run-time,0.3,0.448,0,2024-10-30
@@ -1612,7 +1597,7 @@ RC27,live,ozone,daily mail general trust,marketplace,inventory only deals (merkl
 RC27,live,ozone,esi,marketplace,inventory only deals (merkle),0.18,run-time,0,0.82,,
 RC27,live,ozone,fandom,marketplace,inventory only deals (merkle),0.18,run-time,0,0.82,0,2024-07-15
 RC27,live,ozone,grv media,marketplace,inventory only deals (merkle),0.2,run-time,0,0.8,0,2024-10-30
-RC27,live,ozone,guardian,marketplace,inventory only deals (merkle),0.4,run-time,0,0.6,,
+RC27,live,ozone,guardian,marketplace,inventory only deals (merkle),0.01,run-time,0,0.99,0,2025-06-24
 RC27,live,ozone,hello,marketplace,inventory only deals (merkle),0.18,run-time,0,0.82,,
 RC27,live,ozone,huffington post,marketplace,inventory only deals (merkle),0.18,run-time,0,0.82,,
 RC27,live,ozone,lagardere,marketplace,inventory only deals (merkle),0.2,eom,0,1,,
@@ -1649,7 +1634,7 @@ RC272,live,ozone,daily mail general trust,marketplace,groupm outstream marketpla
 RC272,live,ozone,esi,marketplace,groupm outstream marketplace (pubmatic),0.18,run-time,0,0.82,,
 RC272,live,ozone,fandom,marketplace,groupm outstream marketplace (pubmatic),0.18,run-time,0,0.82,0,2024-07-15
 RC272,live,ozone,grv media,marketplace,groupm outstream marketplace (pubmatic),0.2,run-time,0,0.8,0,2024-10-30
-RC272,live,ozone,guardian,marketplace,groupm outstream marketplace (pubmatic),0.4,run-time,0,0.6,,
+RC272,live,ozone,guardian,marketplace,groupm outstream marketplace (pubmatic),0.01,run-time,0,0.99,0,2025-06-24
 RC272,live,ozone,huffington post,marketplace,groupm outstream marketplace (pubmatic),0.18,run-time,0,0.82,,
 RC272,live,ozone,lagardere,marketplace,groupm outstream marketplace (pubmatic),0.2,eom,0,1,,
 RC272,live,ozone,mediahuis,marketplace,groupm outstream marketplace (pubmatic),0.18,run-time,0,0.82,0,2024-08-27
@@ -1673,8 +1658,6 @@ RC272,live,ozone,unwind,marketplace,groupm outstream marketplace (pubmatic),0.18
 RC272,live,ozone,wall street journal,marketplace,groupm outstream marketplace (pubmatic),0.18,run-time,0,0.82,0,
 RC273,live,news,news,publisher omp,news uk (kargo),0,eom,0,1,,2023-09-27
 RC274,live,news,news,publisher pmp,news uk (kargo),0,eom,0,1,,2023-09-27
-RC275,live,saas,guardian,publisher omp,guardian (kargo),0.06,run-time,0,0.94,,
-RC276,live,saas,guardian,publisher pmp,guardian (kargo),0.06,run-time,0,0.94,,
 RC277,live,saas,bauer,publisher omp,bauer (kargo),0.09,run-time,0,0.91,,
 RC278,live,saas,bauer,publisher pmp,bauer (kargo),0.09,run-time,0,0.91,,
 RC279,live,saas,bbc,publisher omp,bbc (kargo),0.1,run-time,0,0.9,,
@@ -1693,7 +1676,7 @@ RC28,live,ozone,daily mail general trust,marketplace,contextual deals (merkle),0
 RC28,live,ozone,esi,marketplace,contextual deals (merkle),0.18,run-time,0,0.82,,
 RC28,live,ozone,fandom,marketplace,contextual deals (merkle),0.18,run-time,0,0.82,0,2024-07-15
 RC28,live,ozone,grv media,marketplace,contextual deals (merkle),0.2,run-time,0,0.8,0,2024-10-30
-RC28,live,ozone,guardian,marketplace,contextual deals (merkle),0.4,run-time,0,0.6,,
+RC28,live,ozone,guardian,marketplace,contextual deals (merkle),0.01,run-time,0,0.99,0,2025-06-24
 RC28,live,ozone,hello,marketplace,contextual deals (merkle),0.18,run-time,0,0.82,,
 RC28,live,ozone,huffington post,marketplace,contextual deals (merkle),0.18,run-time,0,0.82,,
 RC28,live,ozone,lagardere,marketplace,contextual deals (merkle),0.2,eom,0,1,,
@@ -1733,7 +1716,6 @@ RC281,live,ozone,daily mail general trust,ozone omp,kargo,0.1,run-time,0,0.9,0,
 RC281,live,ozone,esi,ozone omp,kargo,0.1,run-time,0,0.9,,
 RC281,live,ozone,fandom,ozone omp,kargo,0.1,run-time,0,0.9,0,2024-07-15
 RC281,live,ozone,grv media,ozone omp,kargo,0.2,run-time,0,0.8,0,2024-10-30
-RC281,live,ozone,guardian,ozone omp,kargo,0.4,eom,0,1,,
 RC281,live,ozone,gumtree,ozone omp,kargo,0.35,run-time,0,0.65,0,
 RC281,live,ozone,hello,ozone omp,kargo,0.1,run-time,0,0.9,,
 RC281,live,ozone,huffington post,ozone omp,kargo,0.1,run-time,0,0.9,,
@@ -1780,7 +1762,6 @@ RC282,live,ozone,daily mail general trust,ozone omp,kargo (ssp deals),0.1,run-ti
 RC282,live,ozone,esi,ozone omp,kargo (ssp deals),0.1,run-time,0,0.9,,
 RC282,live,ozone,fandom,ozone omp,kargo (ssp deals),0.1,run-time,0,0.9,0,2024-07-15
 RC282,live,ozone,grv media,ozone omp,kargo (ssp deals),0.2,run-time,0,0.8,0,2024-10-30
-RC282,live,ozone,guardian,ozone omp,kargo (ssp deals),0.4,eom,0,1,,
 RC282,live,ozone,gumtree,ozone omp,kargo (ssp deals),0.35,run-time,0,0.65,0,
 RC282,live,ozone,hello,ozone omp,kargo (ssp deals),0.1,run-time,0,0.9,,
 RC282,live,ozone,huffington post,ozone omp,kargo (ssp deals),0.1,run-time,0,0.9,,
@@ -1826,7 +1807,7 @@ RC283,live,ozone,daily mail general trust,marketplace,groupm marketplace (pubmat
 RC283,live,ozone,esi,marketplace,groupm marketplace (pubmatic),0.18,run-time,0,0.82,0,2024-04-16
 RC283,live,ozone,fandom,marketplace,groupm marketplace (pubmatic),0.18,run-time,0,0.82,0,2024-07-15
 RC283,live,ozone,grv media,marketplace,groupm marketplace (pubmatic),0.2,run-time,0,0.8,0,2024-10-30
-RC283,live,ozone,guardian,marketplace,groupm marketplace (pubmatic),0.4,run-time,0,0.6,0,2024-04-16
+RC283,live,ozone,guardian,marketplace,groupm outstream marketplace (pubmatic),0.01,run-time,0,0.99,0,2025-06-24
 RC283,live,ozone,gumtree,marketplace,groupm marketplace (pubmatic),0.35,run-time,0,0.65,0,2024-04-16
 RC283,live,ozone,huffington post,marketplace,groupm marketplace (pubmatic),0.18,run-time,0,0.82,0,2024-04-16
 RC283,live,ozone,lagardere,marketplace,groupm marketplace (pubmatic),0.2,eom,0,1,0,2024-04-16
@@ -1857,8 +1838,6 @@ RC283,live,ozone,venatus-bidder,marketplace,groupm marketplace (pubmatic),0.35,r
 RC283,live,ozone,wall street journal,marketplace,groupm marketplace (pubmatic),0.18,run-time,0,0.82,0,2024-04-16
 RC284,live,saas,esi,publisher omp,esi (kargo),0.12,run-time,0,0.88,,
 RC285,live,saas,esi,publisher pmp,esi (kargo),0.12,run-time,0,0.88,,
-RC286,live,saas,guardian,publisher omp,guardian (triplelift),0.06,run-time,0,0.94,,
-RC287,live,saas,guardian,publisher pmp,guardian (triplelift),0.06,run-time,0,0.94,,
 RC288,live,ozone,accuweather,ozone omp,inventory only (dan),0.1,run-time,0,0.9,0,2024-12-12
 RC288,live,ozone,arkadium,ozone omp,inventory only (dan),0.36,run-time,0,0.64,0,2025-04-18
 RC288,live,ozone,asian media group,ozone omp,inventory only (dan),0.3,eom,0,1,,
@@ -1875,7 +1854,6 @@ RC288,live,ozone,daily mail general trust,ozone omp,inventory only (dan),0.1,run
 RC288,live,ozone,esi,ozone omp,inventory only (dan),0.1,run-time,0,0.9,,
 RC288,live,ozone,fandom,ozone omp,inventory only (dan),0.1,run-time,0,0.9,0,2024-07-15
 RC288,live,ozone,grv media,ozone omp,inventory only (dan),0.2,run-time,0,0.8,0,2024-10-30
-RC288,live,ozone,guardian,ozone omp,inventory only (dan),0.4,run-time,0,0.6,,
 RC288,live,ozone,gumtree,ozone omp,inventory only (dan),0.35,run-time,0,0.65,0,
 RC288,live,ozone,hello,ozone omp,inventory only (dan),0.1,run-time,0,0.9,,
 RC288,live,ozone,huffington post,ozone omp,inventory only (dan),0.1,run-time,0,0.9,,
@@ -1923,7 +1901,7 @@ RC29,live,ozone,daily mail general trust,marketplace,publisher deals (merkle),0.
 RC29,live,ozone,esi,marketplace,publisher deals (merkle),0.18,run-time,0,0.82,,
 RC29,live,ozone,fandom,marketplace,publisher deals (merkle),0.18,run-time,0,0.82,0,2024-07-15
 RC29,live,ozone,grv media,marketplace,publisher deals (merkle),0.2,run-time,0,0.8,0,2024-10-30
-RC29,live,ozone,guardian,marketplace,publisher deals (merkle),0.4,run-time,0,0.6,,
+RC29,live,ozone,guardian,marketplace,publisher deals (merkle),0.01,run-time,0,0.99,0,2025-06-24
 RC29,live,ozone,hello,marketplace,publisher deals (merkle),0.18,run-time,0,0.82,,
 RC29,live,ozone,huffington post,marketplace,publisher deals (merkle),0.18,run-time,0,0.82,,
 RC29,live,ozone,lagardere,marketplace,publisher deals (merkle),0.2,eom,0,1,,
@@ -1963,7 +1941,6 @@ RC3,live,ozone,city-am,managed,publisher managed,0.35,,,,,
 RC3,live,ozone,daily mail general trust,managed,publisher managed,0.36,eom,0,1,0,
 RC3,live,ozone,esi,managed,publisher managed,0.35,eom,0,1,,
 RC3,live,ozone,grv media,managed,publisher managed,0.2,run-time,0,1,0,2024-11-07
-RC3,live,ozone,guardian,managed,publisher managed,0.4,eom,0,1,,
 RC3,live,ozone,hello,managed,publisher managed,0.35,,,,,
 RC3,live,ozone,huffington post,managed,publisher managed,0.35,eom,,1,,
 RC3,live,ozone,mediahuis,managed,publisher managed,0.36,run-time,0,0.64,0,2024-08-27
@@ -1996,7 +1973,7 @@ RC30,live,ozone,crazygames,marketplace,audience deals (havas),0.36,run-time,0.3,
 RC30,live,ozone,daily mail general trust,marketplace,audience deals (havas),0.36,run-time,0.3,0.448,0,
 RC30,live,ozone,esi,marketplace,audience deals (havas),0.35,run-time,0.3,0.455,,
 RC30,live,ozone,grv media,marketplace,audience deals (havas),0.2,run-time,0.3,0.448,0,2024-11-07
-RC30,live,ozone,guardian,marketplace,audience deals (havas),0.4,run-time,0.1,0.54,,
+RC30,live,ozone,guardian,marketplace,audience deals (havas),0.09,run-time,0.3,0.637,0,2025-06-24
 RC30,live,ozone,hello,marketplace,audience deals (havas),0.35,run-time,0.3,0.455,,
 RC30,live,ozone,huffington post,marketplace,audience deals (havas),0.35,run-time,0.3,0.455,,
 RC30,live,ozone,mediahuis,marketplace,audience deals (havas),0.36,run-time,0.3,0.448,0,2024-10-30
@@ -2038,7 +2015,6 @@ RC303,live,ozone,crazygames,ozone omp,yahoo,0.36,run-time,0,0.64,0,2025-02-07
 RC303,live,ozone,daily mail general trust,ozone omp,yahoo,0.1,run-time,0,0.9,0,
 RC303,live,ozone,esi,ozone omp,yahoo,0.1,run-time,0,0.9,,
 RC303,live,ozone,grv media,ozone omp,yahoo,0.2,run-time,0,0.8,0,2024-10-30
-RC303,live,ozone,guardian,ozone omp,yahoo,0.4,run-time,0,0.6,,
 RC303,live,ozone,hello,ozone omp,yahoo,0.1,run-time,0,0.9,,
 RC303,live,ozone,huffington post,ozone omp,yahoo,0.1,run-time,0,0.9,,
 RC303,live,ozone,lagardere,ozone omp,yahoo,0.2,eom,0,1,,
@@ -2080,7 +2056,6 @@ RC304,live,ozone,crazygames,ozone omp,yahoo (ssp deals),0.36,run-time,0,0.64,0,2
 RC304,live,ozone,daily mail general trust,ozone omp,yahoo (ssp deals),0.1,run-time,0,0.9,0,
 RC304,live,ozone,esi,ozone omp,yahoo (ssp deals),0.1,run-time,0,0.9,,
 RC304,live,ozone,grv media,ozone omp,yahoo (ssp deals),0.2,run-time,0,0.8,0,2024-10-30
-RC304,live,ozone,guardian,ozone omp,yahoo (ssp deals),0.4,run-time,0,0.6,,
 RC304,live,ozone,hello,ozone omp,yahoo (ssp deals),0.1,run-time,0,0.9,,
 RC304,live,ozone,huffington post,ozone omp,yahoo (ssp deals),0.1,run-time,0,0.9,,
 RC304,live,ozone,lagardere,ozone omp,yahoo (ssp deals),0.2,eom,0,1,,
@@ -2127,7 +2102,7 @@ RC31,live,ozone,daily mail general trust,marketplace,inventory only deals (havas
 RC31,live,ozone,esi,marketplace,inventory only deals (havas),0.18,run-time,0,0.82,,
 RC31,live,ozone,fandom,marketplace,inventory only deals (havas),0.18,run-time,0,0.82,0,2024-07-15
 RC31,live,ozone,grv media,marketplace,inventory only deals (havas),0.2,run-time,0,0.8,0,2024-10-30
-RC31,live,ozone,guardian,marketplace,inventory only deals (havas),0.4,run-time,0,0.6,,
+RC31,live,ozone,guardian,marketplace,inventory only deals (havas),0.01,run-time,0,0.99,0,2025-06-24
 RC31,live,ozone,hello,marketplace,inventory only deals (havas),0.18,run-time,0,0.82,,
 RC31,live,ozone,huffington post,marketplace,inventory only deals (havas),0.18,run-time,0,0.82,,
 RC31,live,ozone,lagardere,marketplace,inventory only deals (havas),0.2,eom,0,1,,
@@ -2167,7 +2142,6 @@ RC311,live,ozone,daily mail general trust,ozone omp,beeswax omp,0.1,run-time,0,0
 RC311,live,ozone,esi,ozone omp,beeswax omp,0.1,run-time,0,0.9,,
 RC311,live,ozone,fandom,ozone omp,beeswax omp,0.1,run-time,0,0.9,0,2024-07-15
 RC311,live,ozone,grv media,ozone omp,beeswax omp,0.1,run-time,0,0.9,,
-RC311,live,ozone,guardian,ozone omp,beeswax omp,0.4,run-time,0,0.6,,
 RC311,live,ozone,hello,ozone omp,beeswax omp,0.1,run-time,0,0.9,,
 RC311,live,ozone,huffington post,ozone omp,beeswax omp,0.1,run-time,0,0.9,,
 RC311,live,ozone,lagardere,ozone omp,beeswax omp,0.2,eom,0,1,,
@@ -2209,7 +2183,7 @@ RC312,live,ozone,crazygames,marketplace,Conversant,0.36,run-time,0,0.64,0,2025-0
 RC312,live,ozone,daily mail general trust,marketplace,conversant,0.18,run-time,0,0.82,0,
 RC312,live,ozone,esi,marketplace,conversant,0.18,run-time,0,0.82,,
 RC312,live,ozone,fandom,marketplace,conversant,0.18,run-time,0,0.82,0,2024-07-15
-RC312,live,ozone,guardian,marketplace,conversant,0.4,run-time,0,0.6,,
+RC312,live,ozone,guardian,marketplace,Conversant,0.01,run-time,0,0.99,0,2025-06-24
 RC312,live,ozone,hello,marketplace,conversant,0.18,run-time,0,0.82,,
 RC312,live,ozone,huffington post,marketplace,conversant,0.18,run-time,0,0.82,,
 RC312,live,ozone,lagardere,marketplace,conversant,0.2,eom,0,1,,
@@ -2244,7 +2218,7 @@ RC313,live,ozone,cnn,marketplace,Conversant (via PMP),0.18,run-time,0,0.82,0,202
 RC313,live,ozone,crazygames,marketplace,Conversant (via PMP),0.36,run-time,0,0.64,0,2025-02-07
 RC313,live,ozone,daily mail general trust,marketplace,conversant (via pmp),0.18,run-time,0,0.82,0,
 RC313,live,ozone,esi,marketplace,conversant (via pmp),0.18,run-time,0,0.82,,
-RC313,live,ozone,guardian,marketplace,conversant (via pmp),0.4,run-time,0,0.6,,
+RC313,live,ozone,guardian,marketplace,Conversant (via PMP),0.01,run-time,0,0.99,0,2025-06-24
 RC313,live,ozone,hello,marketplace,conversant (via pmp),0.18,run-time,0,0.82,,
 RC313,live,ozone,huffington post,marketplace,conversant (via pmp),0.18,run-time,0,0.82,,
 RC313,live,ozone,lagardere,marketplace,conversant (via pmp),0.2,eom,0,1,,
@@ -2288,7 +2262,7 @@ RC32,live,ozone,daily mail general trust,marketplace,contextual deals (havas),0.
 RC32,live,ozone,esi,marketplace,contextual deals (havas),0.18,run-time,0,0.82,,
 RC32,live,ozone,fandom,marketplace,contextual deals (havas),0.18,run-time,0,0.82,0,2024-07-15
 RC32,live,ozone,grv media,marketplace,contextual deals (havas),0.2,run-time,0,0.8,0,2024-10-30
-RC32,live,ozone,guardian,marketplace,contextual deals (havas),0.4,run-time,0,0.6,,
+RC32,live,ozone,guardian,marketplace,contextual deals (havas),0.01,run-time,0,0.99,0,2025-06-24
 RC32,live,ozone,hello,marketplace,contextual deals (havas),0.18,run-time,0,0.82,,
 RC32,live,ozone,huffington post,marketplace,contextual deals (havas),0.18,run-time,0,0.82,,
 RC32,live,ozone,lagardere,marketplace,contextual deals (havas),0.2,eom,0,1,,
@@ -2336,7 +2310,7 @@ RC33,live,ozone,daily mail general trust,marketplace,publisher deals (havas),0.1
 RC33,live,ozone,esi,marketplace,publisher deals (havas),0.18,run-time,0,0.82,,
 RC33,live,ozone,fandom,marketplace,publisher deals (havas),0.18,run-time,0,0.82,0,2024-07-15
 RC33,live,ozone,grv media,marketplace,publisher deals (havas),0.2,run-time,0,0.8,0,2024-10-30
-RC33,live,ozone,guardian,marketplace,publisher deals (havas),0.4,run-time,0,0.6,,
+RC33,live,ozone,guardian,marketplace,publisher deals (havas),0.01,run-time,0,0.99,0,2025-06-24
 RC33,live,ozone,hello,marketplace,publisher deals (havas),0.18,run-time,0,0.82,,
 RC33,live,ozone,huffington post,marketplace,publisher deals (havas),0.18,run-time,0,0.82,,
 RC33,live,ozone,lagardere,marketplace,publisher deals (havas),0.2,eom,0,1,,
@@ -2374,7 +2348,6 @@ RC34,in_validation,ozone,city-am,marketplace,ozone ad manager,0.35,,,,,
 RC34,in_validation,ozone,cpex,marketplace,ozone ad manager,0.35,,,,,
 RC34,in_validation,ozone,dmgt,marketplace,ozone ad manager,0.35,,,,,
 RC34,in_validation,ozone,esi,marketplace,ozone ad manager,0.35,,,,,
-RC34,in_validation,ozone,guardian,marketplace,ozone ad manager,0.4,,,,,
 RC34,in_validation,ozone,lmc,marketplace,ozone ad manager,0.35,,,,,
 RC34,in_validation,ozone,mumsnet,marketplace,ozone ad manager,0.35,,,,,
 RC34,in_validation,ozone,news,marketplace,ozone ad manager,0.4,,,,,
@@ -2394,6 +2367,7 @@ RC344,live,ozone,chegg,marketplace,audience deals,0.36,run-time,0.3,0.448,0,2025
 RC344,live,ozone,cnn,marketplace,audience deals,0.36,run-time,0.3,0.448,0,2024-12-12
 RC344,live,ozone,crazygames,marketplace,audience deals,0.36,run-time,0.3,0.448,0,2025-02-07
 RC344,live,ozone,esi,marketplace,audience deals,0.35,run-time,0.3,0.455,,
+RC344,live,ozone,guardian,marketplace,audience deals,0.09,run-time,0.3,0.637,0,2025-06-24
 RC344,live,ozone,mediahuis,marketplace,audience deals,0.36,run-time,0,0.64,0,2024-08-27
 RC344,live,ozone,netmums,marketplace,audience deals,0.36,run-time,,0.64,,
 RC344,live,ozone,new york post,marketplace,audience deals,0.36,run-time,0.3,0.448,0,2025-03-17
@@ -2419,7 +2393,6 @@ RC35,in_validation,ozone,city-am,marketplace,ozone ad manager,0.18,,,,,
 RC35,in_validation,ozone,cpex,marketplace,ozone ad manager,0.18,,,,,
 RC35,in_validation,ozone,dmgt,marketplace,ozone ad manager,0.18,,,,,
 RC35,in_validation,ozone,esi,marketplace,ozone ad manager,0.18,,,,,
-RC35,in_validation,ozone,guardian,marketplace,ozone ad manager,0.4,,,,,
 RC35,in_validation,ozone,lmc,marketplace,ozone ad manager,0.18,,,,,
 RC35,in_validation,ozone,mumsnet,marketplace,ozone ad manager,0.18,,,,,
 RC35,in_validation,ozone,news,marketplace,ozone ad manager,0.4,,,,,
@@ -2448,7 +2421,6 @@ RC355,live,ozone,daily mail general trust,ozone omp,adform,0.1,run-time,0,0.9,0,
 RC355,live,ozone,esi,ozone omp,adform,0.1,run-time,0,0.9,,
 RC355,live,ozone,fandom,ozone omp,adform,0.1,run-time,0,0.9,0,2024-07-15
 RC355,live,ozone,grv media,ozone omp,adform,0.2,run-time,0,0.8,0,2024-10-30
-RC355,live,ozone,guardian,ozone omp,adform,0.4,run-time,0,0.6,,
 RC355,live,ozone,gumtree,ozone omp,adform,0.35,run-time,0,0.65,0,
 RC355,live,ozone,hello,ozone omp,adform,0.1,run-time,0,0.9,,
 RC355,live,ozone,huffington post,ozone omp,adform,0.1,run-time,0,0.9,,
@@ -2489,7 +2461,6 @@ RC36,in_validation,ozone,city-am,marketplace,ozone ad manager,0.18,,,,,
 RC36,in_validation,ozone,cpex,marketplace,ozone ad manager,0.18,,,,,
 RC36,in_validation,ozone,dmgt,marketplace,ozone ad manager,0.18,,,,,
 RC36,in_validation,ozone,esi,marketplace,ozone ad manager,0.18,,,,,
-RC36,in_validation,ozone,guardian,marketplace,ozone ad manager,0.4,,,,,
 RC36,in_validation,ozone,lmc,marketplace,ozone ad manager,0.18,,,,,
 RC36,in_validation,ozone,mumsnet,marketplace,ozone ad manager,0.18,,,,,
 RC36,in_validation,ozone,news,marketplace,ozone ad manager,0.4,,,,,
@@ -2497,8 +2468,6 @@ RC36,in_validation,ozone,reach,marketplace,ozone ad manager,0.4,eom,0,1,0,2024-0
 RC36,in_validation,ozone,standard,marketplace,ozone ad manager,0.18,,,,,
 RC36,in_validation,ozone,telegraph,marketplace,ozone ad manager,0.4,,,,,
 RC36,in_validation,ozone,timeout,marketplace,ozone ad manager,0.18,,,,,
-RC360,live,saas,guardian,publisher omp,guardian (index),0.06,run-time,,0.94,,
-RC361,live,saas,guardian,publisher pmp,guardian (index),0.06,run-time,,0.94,,
 RC362,live,saas,bauer,publisher omp,bauer (index),0.09,run-time,,0.91,,
 RC363,live,saas,bauer,publisher pmp,bauer (index),0.09,run-time,,0.91,,
 RC364,live,saas,venatus,publisher omp,venatus (xandr),0.12,run-time,0,0.88,0,2024-10-30
@@ -2523,7 +2492,6 @@ RC37,live,ozone,daily mail general trust,ozone omp,xandr context,0.1,run-time,0,
 RC37,live,ozone,esi,ozone omp,xandr context,0.1,run-time,0,0.9,,
 RC37,live,ozone,fandom,ozone omp,xandr context,0.1,run-time,0,0.9,0,2024-07-15
 RC37,live,ozone,grv media,ozone omp,xandr context,0.2,run-time,0,0.8,0,2024-10-30
-RC37,live,ozone,guardian,ozone omp,xandr context,0.4,run-time,0,0.6,,
 RC37,live,ozone,gumtree,ozone omp,xandr context,0.35,run-time,0,0.65,0,
 RC37,live,ozone,huffington post,ozone omp,xandr context,0.1,run-time,0,0.9,,
 RC37,live,ozone,investing,ozone omp,xandr context,0.35,run-time,0,0.65,0,2024-11-05
@@ -2623,7 +2591,6 @@ RC382,live,ozone,daily mail general trust,ozone omp,sharethrough,0.1,run-time,0,
 RC382,live,ozone,esi,ozone omp,sharethrough,0.1,run-time,0,0.9,,
 RC382,live,ozone,fandom,ozone omp,sharethrough,0.1,run-time,0,0.9,0,2024-07-15
 RC382,live,ozone,grv media,ozone omp,sharethrough,0.2,run-time,0,0.8,0,2024-10-30
-RC382,live,ozone,guardian,ozone omp,sharethrough,0.4,eom,0,1,,
 RC382,live,ozone,hello,ozone omp,sharethrough,0.1,run-time,0,0.9,,
 RC382,live,ozone,huffington post,ozone omp,sharethrough,0.1,run-time,0,0.9,,
 RC382,live,ozone,lagardere,ozone omp,sharethrough,0.2,eom,0,1,,
@@ -2668,7 +2635,6 @@ RC383,live,ozone,daily mail general trust,ozone pmp,sharethrough (ssp deals),0.1
 RC383,live,ozone,esi,ozone pmp,sharethrough (ssp deals),0.1,run-time,0,0.9,,2024-03-13
 RC383,live,ozone,fandom,ozone pmp,sharethrough (ssp deals),0.1,run-time,0,0.9,0,2024-07-15
 RC383,live,ozone,grv media,ozone pmp,sharethrough (ssp deals),0.2,run-time,0,0.8,0,2024-10-30
-RC383,live,ozone,guardian,ozone pmp,sharethrough (ssp deals),0.4,eom,0,1,,2024-03-13
 RC383,live,ozone,hello,ozone pmp,sharethrough (ssp deals),0.1,run-time,0,0.9,,2024-03-13
 RC383,live,ozone,huffington post,ozone pmp,sharethrough (ssp deals),0.1,run-time,0,0.9,,2024-03-13
 RC383,live,ozone,lagardere,ozone pmp,sharethrough (ssp deals),0.2,eom,0,1,,2024-03-13
@@ -2712,7 +2678,7 @@ RC384,live,ozone,crazygames,deals,audience deals (ttd),0.36,run-time,0.3,0.448,0
 RC384,live,ozone,daily mail general trust,deals,audience deals (ttd),0.36,run-time,0.3,0.448,0,
 RC384,live,ozone,esi,deals,audience deals (ttd),0.35,run-time,0.3,0.455,0,
 RC384,live,ozone,grv media,deals,audience deals (ttd),0.2,run-time,0.3,0.448,0,2024-11-07
-RC384,live,ozone,guardian,deals,audience deals (ttd),0.4,run-time,0.1,0.54,0,
+RC384,live,ozone,guardian,deals,audience deals (ttd),0.09,run-time,0.3,0.637,0,2025-06-24
 RC384,live,ozone,hello,deals,audience deals (ttd),0.35,run-time,0.3,0.455,0,
 RC384,live,ozone,huffington post,deals,audience deals (ttd),0.35,run-time,0.3,0.455,0,
 RC384,live,ozone,mediahuis,deals,audience deals (ttd),0.36,run-time,0.3,0.448,0,2024-08-27
@@ -2752,7 +2718,7 @@ RC385,live,ozone,crazygames,deals,inventory only deals (ttd),0.36,run-time,0,0.6
 RC385,live,ozone,daily mail general trust,deals,inventory only deals (ttd),0.36,run-time,0,0.64,0,
 RC385,live,ozone,esi,deals,inventory only deals (ttd),0.35,run-time,0,0.65,0,
 RC385,live,ozone,grv media,deals,inventory only deals (ttd),0.2,run-time,0,0.64,0,2024-11-07
-RC385,live,ozone,guardian,deals,inventory only deals (ttd),0.4,run-time,0,0.6,0,
+RC385,live,ozone,guardian,deals,inventory only deals (ttd),0.09,run-time,0,0.91,0,2025-06-24
 RC385,live,ozone,hello,deals,inventory only deals (ttd),0.35,run-time,0,0.65,0,
 RC385,live,ozone,huffington post,deals,inventory only deals (ttd),0.35,run-time,0,0.65,0,
 RC385,live,ozone,mediahuis,deals,inventory only deals (ttd),0.36,run-time,0,0.64,0,2024-08-27
@@ -2793,7 +2759,7 @@ RC386,live,ozone,crazygames,deals,contextual deals (ttd),0.36,run-time,0,0.64,0,
 RC386,live,ozone,daily mail general trust,deals,contextual deals (ttd),0.36,run-time,0,0.64,0,
 RC386,live,ozone,esi,deals,contextual deals (ttd),0.35,run-time,0,0.65,0,
 RC386,live,ozone,grv media,deals,contextual deals (ttd),0.2,run-time,0,0.64,0,2024-11-07
-RC386,live,ozone,guardian,deals,contextual deals (ttd),0.4,run-time,0,0.6,0,
+RC386,live,ozone,guardian,deals,contextual deals (ttd),0.09,run-time,0,0.91,0,2025-06-24
 RC386,live,ozone,hello,deals,contextual deals (ttd),0.35,run-time,0,0.65,0,
 RC386,live,ozone,huffington post,deals,contextual deals (ttd),0.35,run-time,0,0.65,0,
 RC386,live,ozone,mediahuis,deals,contextual deals (ttd),0.36,run-time,0,0.64,0,2024-08-27
@@ -2834,7 +2800,7 @@ RC387,live,ozone,crazygames,marketplace,p&g audience marketplace (ttd),0.36,run-
 RC387,live,ozone,daily mail general trust,marketplace,p&g audience marketplace (ttd),0.36,run-time,0.3,0.448,0,
 RC387,live,ozone,esi,marketplace,p&g audience marketplace (ttd),0.35,run-time,0.3,0.455,0,
 RC387,live,ozone,grv media,marketplace,p&g audience marketplace (ttd),0.2,run-time,0.3,0.448,0,2024-11-07
-RC387,live,ozone,guardian,marketplace,p&g audience marketplace (ttd),0.4,run-time,0.1,0.54,0,
+RC387,live,ozone,guardian,marketplace,p&g audience marketplace (ttd),0.09,run-time,0.3,0.637,0,2025-06-24
 RC387,live,ozone,hello,marketplace,p&g audience marketplace (ttd),0.35,run-time,0.3,0.455,0,
 RC387,live,ozone,huffington post,marketplace,p&g audience marketplace (ttd),0.35,run-time,0.3,0.455,0,
 RC387,live,ozone,mediahuis,marketplace,p&g audience marketplace (ttd),0.36,run-time,0.3,0.448,0,2024-08-27
@@ -2874,7 +2840,7 @@ RC388,live,ozone,daily mail general trust,marketplace,p&g inventory only marketp
 RC388,live,ozone,esi,marketplace,p&g inventory only marketplace (ttd),0.18,run-time,0,0.82,0,
 RC388,live,ozone,fandom,marketplace,p&g inventory only marketplace (ttd),0.18,run-time,0,0.82,0,2024-07-15
 RC388,live,ozone,grv media,marketplace,p&g inventory only marketplace (ttd),0.2,run-time,0,0.8,0,2024-10-30
-RC388,live,ozone,guardian,marketplace,p&g inventory only marketplace (ttd),0.4,run-time,0,0.6,0,
+RC388,live,ozone,guardian,marketplace,p&g inventory only marketplace (ttd),0.01,run-time,0,0.99,0,2025-06-24
 RC388,live,ozone,hello,marketplace,p&g inventory only marketplace (ttd),0.18,run-time,0,0.82,0,
 RC388,live,ozone,huffington post,marketplace,p&g inventory only marketplace (ttd),0.18,run-time,0,0.82,0,
 RC388,live,ozone,lagardere,marketplace,p&g inventory only marketplace (ttd),0.2,eom,0,1,0,
@@ -2916,7 +2882,7 @@ RC389,live,ozone,daily mail general trust,marketplace,p&g contextual marketplace
 RC389,live,ozone,esi,marketplace,p&g contextual marketplace (ttd),0.18,run-time,0,0.82,0,
 RC389,live,ozone,fandom,marketplace,p&g contextual marketplace (ttd),0.18,run-time,0,0.82,0,2024-07-15
 RC389,live,ozone,grv media,marketplace,p&g contextual marketplace (ttd),0.2,run-time,0,0.8,0,2024-10-30
-RC389,live,ozone,guardian,marketplace,p&g contextual marketplace (ttd),0.4,run-time,0,0.6,0,
+RC389,live,ozone,guardian,marketplace,p&g contextual marketplace (ttd),0.01,run-time,0,0.99,0,2025-06-24
 RC389,live,ozone,hello,marketplace,p&g contextual marketplace (ttd),0.18,run-time,0,0.82,0,
 RC389,live,ozone,huffington post,marketplace,p&g contextual marketplace (ttd),0.18,run-time,0,0.82,0,
 RC389,live,ozone,lagardere,marketplace,p&g contextual marketplace (ttd),0.2,eom,0,1,0,
@@ -2959,7 +2925,6 @@ RC39,live,ozone,daily mail general trust,ozone omp,adform,0.1,run-time,0,0.9,0,
 RC39,live,ozone,esi,ozone omp,adform,0.1,run-time,0,0.9,,
 RC39,live,ozone,fandom,ozone omp,adform,0.1,run-time,0,0.9,0,2024-07-15
 RC39,live,ozone,grv media,ozone omp,adform,0.2,run-time,0,0.8,0,2024-10-30
-RC39,live,ozone,guardian,ozone omp,adform,0.4,run-time,0,0.6,,
 RC39,live,ozone,gumtree,ozone omp,adform,0.35,run-time,0,0.65,0,
 RC39,live,ozone,hello,ozone omp,adform,0.1,run-time,0,0.9,,
 RC39,live,ozone,huffington post,ozone omp,adform,0.1,run-time,0,0.9,,
@@ -3006,7 +2971,7 @@ RC390,live,ozone,crazygames,marketplace,audience marketplace (ttd),0.36,run-time
 RC390,live,ozone,daily mail general trust,marketplace,audience marketplace (ttd),0.36,run-time,0.3,0.448,0,
 RC390,live,ozone,esi,marketplace,audience marketplace (ttd),0.35,run-time,0.3,0.455,0,
 RC390,live,ozone,grv media,marketplace,audience marketplace (ttd),0.2,run-time,0.3,0.448,0,2024-11-07
-RC390,live,ozone,guardian,marketplace,audience marketplace (ttd),0.4,run-time,0.1,0.54,0,
+RC390,live,ozone,guardian,marketplace,audience marketplace (ttd),0.09,run-time,0.3,0.637,0,2025-06-24
 RC390,live,ozone,hello,marketplace,audience marketplace (ttd),0.35,run-time,0.3,0.455,0,
 RC390,live,ozone,huffington post,marketplace,audience marketplace (ttd),0.35,run-time,0.3,0.455,0,
 RC390,live,ozone,mediahuis,marketplace,audience marketplace (ttd),0.36,run-time,0.3,0.448,0,2024-08-27
@@ -3045,7 +3010,7 @@ RC391,live,ozone,daily mail general trust,marketplace,inventory only marketplace
 RC391,live,ozone,esi,marketplace,inventory only marketplace (ttd),0.18,run-time,0,0.82,0,
 RC391,live,ozone,fandom,marketplace,inventory only marketplace (ttd),0.18,run-time,0,0.82,0,2024-07-15
 RC391,live,ozone,grv media,marketplace,inventory only marketplace (ttd),0.2,run-time,0,0.8,0,2024-10-30
-RC391,live,ozone,guardian,marketplace,inventory only marketplace (ttd),0.4,run-time,0,0.6,0,
+RC391,live,ozone,guardian,marketplace,inventory only marketplace (ttd),0.01,run-time,0,0.99,0,2025-06-24
 RC391,live,ozone,hello,marketplace,inventory only marketplace (ttd),0.18,run-time,0,0.82,0,
 RC391,live,ozone,huffington post,marketplace,inventory only marketplace (ttd),0.18,run-time,0,0.82,0,
 RC391,live,ozone,lagardere,marketplace,inventory only marketplace (ttd),0.2,eom,0,1,0,
@@ -3087,7 +3052,7 @@ RC392,live,ozone,daily mail general trust,marketplace,contextual marketplace (tt
 RC392,live,ozone,esi,marketplace,contextual marketplace (ttd),0.18,run-time,0,0.82,0,
 RC392,live,ozone,fandom,marketplace,contextual marketplace (ttd),0.18,run-time,0,0.82,0,2024-07-15
 RC392,live,ozone,grv media,marketplace,contextual marketplace (ttd),0.2,run-time,0,0.8,0,2024-10-30
-RC392,live,ozone,guardian,marketplace,contextual marketplace (ttd),0.4,run-time,0,0.6,0,
+RC392,live,ozone,guardian,marketplace,contextual marketplace (ttd),0.01,run-time,0,0.99,0,2025-06-24
 RC392,live,ozone,hello,marketplace,contextual marketplace (ttd),0.18,run-time,0,0.82,0,
 RC392,live,ozone,huffington post,marketplace,contextual marketplace (ttd),0.18,run-time,0,0.82,0,
 RC392,live,ozone,lagardere,marketplace,contextual marketplace (ttd),0.2,eom,0,1,0,
@@ -3125,7 +3090,6 @@ RC40,live,ozone,autovia,ozone omp,districtm,,,0,,,
 RC40,live,ozone,bauer,ozone omp,districtm,0.1,,0,,,
 RC40,live,ozone,buzzfeed,ozone omp,districtm,,,0,,,
 RC40,live,ozone,daily mail general trust,ozone omp,districtm,0.1,run-time,0,0.9,0,
-RC40,live,ozone,guardian,ozone omp,districtm,0.4,,0,,,
 RC40,live,ozone,huffington post,ozone omp,districtm,,,0,,,
 RC40,live,ozone,lagardere,ozone omp,districtm,0.2,eom,0,1,,
 RC40,live,ozone,mediahuis,ozone omp,districtm,0.1,run-time,0,0.9,0,2024-08-27
@@ -3151,7 +3115,6 @@ RC401,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC401,live,saas,esi,publisher pmp,esi (33across),0.12,run-time,0,0.88,0,
 RC401,live,saas,gravity,publisher pmp,gravity (33across),0.2,eom,0,1,0,
 RC401,live,saas,grv media,publisher pmp,grv media (33across),0.12,run-time,0,0.88,0,2023-12-11
-RC401,live,saas,guardian,publisher pmp,guardian (33across),0.06,run-time,0,0.94,0,
 RC401,live,saas,huffington post,publisher pmp,huffington post (33across),0.12,run-time,0,0.88,0,
 RC401,live,saas,lmc,publisher pmp,lmc (33across),0,eom,0,1,0,
 RC401,live,saas,mumsnet,publisher pmp,mumsnet (33across),0.12,run-time,0,0.88,0,
@@ -3173,7 +3136,7 @@ RC402,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC402,live,saas,esi,publisher omp,esi (33across),0.12,run-time,0,0.88,0,
 RC402,live,saas,gravity,publisher omp,gravity (33across),0.2,eom,0,1,0,
 RC402,live,saas,grv media,publisher omp,grv media (33across),0.12,run-time,0,0.88,0,2023-12-11
-RC402,live,saas,guardian,publisher omp,guardian (33across),0.06,run-time,0,0.94,0,
+RC402,live,saas,guardian,publisher omp,33across,0.1,run-time,0,0.9,0,2025-06-24
 RC402,live,saas,huffington post,publisher omp,huffington post (33across),0.12,run-time,0,0.88,0,
 RC402,live,saas,lmc,publisher omp,lmc (33across),0,eom,0,1,0,
 RC402,live,saas,mumsnet,publisher omp,mumsnet (33across),0.12,run-time,0,0.88,0,
@@ -3195,7 +3158,6 @@ RC403,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC403,live,saas,esi,publisher pmp,esi (alkimi exchange),0.12,run-time,0,0.88,0,
 RC403,live,saas,gravity,publisher pmp,gravity (alkimi exchange),0.2,eom,0,1,0,
 RC403,live,saas,grv media,publisher pmp,grv media (alkimi exchange),0.12,run-time,0,0.88,0,2023-12-11
-RC403,live,saas,guardian,publisher pmp,guardian (alkimi exchange),0.06,run-time,0,0.94,0,
 RC403,live,saas,huffington post,publisher pmp,huffington post (alkimi exchange),0.12,run-time,0,0.88,0,
 RC403,live,saas,lmc,publisher pmp,lmc (alkimi exchange),0,eom,0,1,0,
 RC403,live,saas,mumsnet,publisher pmp,mumsnet (alkimi exchange),0.12,run-time,0,0.88,0,
@@ -3217,7 +3179,7 @@ RC404,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC404,live,saas,esi,publisher omp,esi (alkimi exchange),0.12,run-time,0,0.88,0,
 RC404,live,saas,gravity,publisher omp,gravity (alkimi exchange),0.2,eom,0,1,0,
 RC404,live,saas,grv media,publisher omp,grv media (alkimi exchange),0.12,run-time,0,0.88,0,2023-12-11
-RC404,live,saas,guardian,publisher omp,guardian (alkimi exchange),0.06,run-time,0,0.94,0,
+RC404,live,saas,guardian,publisher omp,alkimi exchange,0.1,run-time,0,0.9,0,2025-06-24
 RC404,live,saas,huffington post,publisher omp,huffington post (alkimi exchange),0.12,run-time,0,0.88,0,
 RC404,live,saas,lmc,publisher omp,lmc (alkimi exchange),0,eom,0,1,0,
 RC404,live,saas,mumsnet,publisher omp,mumsnet (alkimi exchange),0.12,run-time,0,0.88,0,
@@ -3239,7 +3201,6 @@ RC405,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC405,live,saas,esi,publisher pmp,esi (freewheel),0.12,run-time,0,0.88,0,
 RC405,live,saas,gravity,publisher pmp,gravity (freewheel),0.2,eom,0,1,0,
 RC405,live,saas,grv media,publisher pmp,grv media (freewheel),0.12,run-time,0,0.88,0,2023-12-11
-RC405,live,saas,guardian,publisher pmp,guardian (freewheel),0.06,run-time,0,0.94,0,
 RC405,live,saas,huffington post,publisher pmp,huffington post (freewheel),0.12,run-time,0,0.88,0,
 RC405,live,saas,lmc,publisher pmp,lmc (freewheel),0,eom,0,1,0,
 RC405,live,saas,mumsnet,publisher pmp,mumsnet (freewheel),0.12,run-time,0,0.88,0,
@@ -3261,7 +3222,7 @@ RC406,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC406,live,saas,esi,publisher omp,esi (freewheel),0.12,run-time,0,0.88,0,
 RC406,live,saas,gravity,publisher omp,gravity (freewheel),0.2,eom,0,1,0,
 RC406,live,saas,grv media,publisher omp,grv media (freewheel),0.12,run-time,0,0.88,0,2023-12-11
-RC406,live,saas,guardian,publisher omp,guardian (freewheel),0.06,run-time,0,0.94,0,
+RC406,live,saas,guardian,publisher omp,freewheel,0.1,run-time,0,0.9,0,2025-06-24
 RC406,live,saas,huffington post,publisher omp,huffington post (freewheel),0.12,run-time,0,0.88,0,
 RC406,live,saas,lmc,publisher omp,lmc (freewheel),0,eom,0,1,0,
 RC406,live,saas,mumsnet,publisher omp,mumsnet (freewheel),0.12,run-time,0,0.88,0,
@@ -3284,7 +3245,6 @@ RC407,live,saas,deutsche welle,publisher pmp,deutsche welle (medianet),0.12,eom,
 RC407,live,saas,esi,publisher pmp,esi (medianet),0.12,run-time,0,0.88,0,
 RC407,live,saas,gravity,publisher pmp,gravity (medianet),0.2,eom,0,1,0,
 RC407,live,saas,grv media,publisher pmp,grv media (medianet),0.12,run-time,0,0.88,0,2023-12-11
-RC407,live,saas,guardian,publisher pmp,guardian (medianet),0.06,run-time,0,0.94,0,
 RC407,live,saas,huffington post,publisher pmp,huffington post (medianet),0.12,run-time,0,0.88,0,
 RC407,live,saas,lmc,publisher pmp,lmc (medianet),0,eom,0,1,0,
 RC407,live,saas,mumsnet,publisher pmp,mumsnet (medianet),0.12,run-time,0,0.88,0,
@@ -3308,7 +3268,7 @@ RC408,live,saas,deutsche welle,publisher omp,deutsche welle (medianet),0.12,eom,
 RC408,live,saas,esi,publisher omp,esi (medianet),0.12,run-time,0,0.88,0,
 RC408,live,saas,gravity,publisher omp,gravity (medianet),0.2,eom,0,1,0,
 RC408,live,saas,grv media,publisher omp,grv media (medianet),0.12,run-time,0,0.88,0,2023-12-11
-RC408,live,saas,guardian,publisher omp,guardian (medianet),0.06,run-time,0,0.94,0,
+RC408,live,saas,guardian,publisher omp,medianet,0.1,run-time,0,0.9,0,2025-06-24
 RC408,live,saas,huffington post,publisher omp,huffington post (medianet),0.12,run-time,0,0.88,0,
 RC408,live,saas,lmc,publisher omp,lmc (medianet),0,eom,0,1,0,
 RC408,live,saas,mumsnet,publisher omp,mumsnet (medianet),0.12,run-time,0,0.88,0,
@@ -3331,7 +3291,6 @@ RC409,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC409,live,saas,esi,publisher pmp,esi (onetag),0.12,run-time,0,0.88,0,
 RC409,live,saas,gravity,publisher pmp,gravity (onetag),0.2,eom,0,1,0,
 RC409,live,saas,grv media,publisher pmp,grv media (onetag),0.12,run-time,0,0.88,0,2023-12-11
-RC409,live,saas,guardian,publisher pmp,guardian (onetag),0.06,run-time,0,0.94,0,
 RC409,live,saas,huffington post,publisher pmp,huffington post (onetag),0.12,run-time,0,0.88,0,
 RC409,live,saas,lmc,publisher pmp,lmc (onetag),0,eom,0,1,0,
 RC409,live,saas,mumsnet,publisher pmp,mumsnet (onetag),0.12,run-time,0,0.88,0,
@@ -3397,7 +3356,7 @@ RC410,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC410,live,saas,esi,publisher omp,esi (onetag),0.12,run-time,0,0.88,0,
 RC410,live,saas,gravity,publisher omp,gravity (onetag),0.2,eom,0,1,0,
 RC410,live,saas,grv media,publisher omp,grv media (onetag),0.12,run-time,0,0.88,0,2023-12-11
-RC410,live,saas,guardian,publisher omp,guardian (onetag),0.06,run-time,0,0.94,0,
+RC410,live,saas,guardian,publisher omp,onetag,0.1,run-time,0,0.9,0,2025-06-24
 RC410,live,saas,huffington post,publisher omp,huffington post (onetag),0.12,run-time,0,0.88,0,
 RC410,live,saas,lmc,publisher omp,lmc (onetag),0,eom,0,1,0,
 RC410,live,saas,mumsnet,publisher omp,mumsnet (onetag),0.12,run-time,0,0.88,0,
@@ -3419,7 +3378,6 @@ RC411,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC411,live,saas,esi,publisher pmp,esi (outbrain),0.12,run-time,0,0.88,0,
 RC411,live,saas,gravity,publisher pmp,gravity (outbrain),0.2,eom,0,1,0,
 RC411,live,saas,grv media,publisher pmp,grv media (outbrain),0.12,run-time,0,0.88,0,2023-12-11
-RC411,live,saas,guardian,publisher pmp,guardian (outbrain),0.06,run-time,0,0.94,0,
 RC411,live,saas,huffington post,publisher pmp,huffington post (outbrain),0.12,run-time,0,0.88,0,
 RC411,live,saas,lmc,publisher pmp,lmc (outbrain),0,eom,0,1,0,
 RC411,live,saas,mumsnet,publisher pmp,mumsnet (outbrain),0.12,run-time,0,0.88,0,
@@ -3441,7 +3399,7 @@ RC412,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC412,live,saas,esi,publisher omp,esi (outbrain),0.12,run-time,0,0.88,0,
 RC412,live,saas,gravity,publisher omp,gravity (outbrain),0.2,eom,0,1,0,
 RC412,live,saas,grv media,publisher omp,grv media (outbrain),0.12,run-time,0,0.88,0,2023-12-11
-RC412,live,saas,guardian,publisher omp,guardian (outbrain),0.06,run-time,0,0.94,0,
+RC412,live,saas,guardian,publisher omp,outbrain,0.1,run-time,0,0.9,0,2025-06-24
 RC412,live,saas,huffington post,publisher omp,huffington post (outbrain),0.12,run-time,0,0.88,0,
 RC412,live,saas,lmc,publisher omp,lmc (outbrain),0,eom,0,1,0,
 RC412,live,saas,mumsnet,publisher omp,mumsnet (outbrain),0.12,run-time,0,0.88,0,
@@ -3463,7 +3421,6 @@ RC413,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC413,live,saas,esi,publisher pmp,esi (pulsepoint),0.12,run-time,0,0.88,0,
 RC413,live,saas,gravity,publisher pmp,gravity (pulsepoint),0.2,eom,0,1,0,
 RC413,live,saas,grv media,publisher pmp,grv media (pulsepoint),0.12,run-time,0,0.88,0,2023-12-11
-RC413,live,saas,guardian,publisher pmp,guardian (pulsepoint),0.06,run-time,0,0.94,0,
 RC413,live,saas,huffington post,publisher pmp,huffington post (pulsepoint),0.12,run-time,0,0.88,0,
 RC413,live,saas,lmc,publisher pmp,lmc (pulsepoint),0,eom,0,1,0,
 RC413,live,saas,mumsnet,publisher pmp,mumsnet (pulsepoint),0.12,run-time,0,0.88,0,
@@ -3485,7 +3442,7 @@ RC414,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC414,live,saas,esi,publisher omp,esi (pulsepoint),0.12,run-time,0,0.88,0,
 RC414,live,saas,gravity,publisher omp,gravity (pulsepoint),0.2,eom,0,1,0,
 RC414,live,saas,grv media,publisher omp,grv media (pulsepoint),0.12,run-time,0,0.88,0,2023-12-11
-RC414,live,saas,guardian,publisher omp,guardian (pulsepoint),0.06,run-time,0,0.94,0,
+RC414,live,saas,guardian,publisher omp,pulsepoint,0.1,run-time,0,0.9,0,2025-06-24
 RC414,live,saas,huffington post,publisher omp,huffington post (pulsepoint),0.12,run-time,0,0.88,0,
 RC414,live,saas,lmc,publisher omp,lmc (pulsepoint),0,eom,0,1,0,
 RC414,live,saas,mumsnet,publisher omp,mumsnet (pulsepoint),0.12,run-time,0,0.88,0,
@@ -3507,7 +3464,6 @@ RC415,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC415,live,saas,esi,publisher pmp,esi (rich audience),0.12,run-time,0,0.88,0,
 RC415,live,saas,gravity,publisher pmp,gravity (rich audience),0.2,eom,0,1,0,
 RC415,live,saas,grv media,publisher pmp,grv media (rich audience),0.12,run-time,0,0.88,0,2023-12-11
-RC415,live,saas,guardian,publisher pmp,guardian (rich audience),0.06,run-time,0,0.94,0,
 RC415,live,saas,huffington post,publisher pmp,huffington post (rich audience),0.12,run-time,0,0.88,0,
 RC415,live,saas,lmc,publisher pmp,lmc (rich audience),0,eom,0,1,0,
 RC415,live,saas,mumsnet,publisher pmp,mumsnet (rich audience),0.12,run-time,0,0.88,0,
@@ -3529,7 +3485,7 @@ RC416,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC416,live,saas,esi,publisher omp,esi (rich audience),0.12,run-time,0,0.88,0,
 RC416,live,saas,gravity,publisher omp,gravity (rich audience),0.2,eom,0,1,0,
 RC416,live,saas,grv media,publisher omp,grv media (rich audience),0.12,run-time,0,0.88,0,2023-12-11
-RC416,live,saas,guardian,publisher omp,guardian (rich audience),0.06,run-time,0,0.94,0,
+RC416,live,saas,guardian,publisher omp,rich audience,0.1,run-time,0,0.9,0,2025-06-24
 RC416,live,saas,huffington post,publisher omp,huffington post (rich audience),0.12,run-time,0,0.88,0,
 RC416,live,saas,lmc,publisher omp,lmc (rich audience),0,eom,0,1,0,
 RC416,live,saas,mumsnet,publisher omp,mumsnet (rich audience),0.12,run-time,0,0.88,0,
@@ -3551,7 +3507,6 @@ RC417,live,saas,deutsche welle,publisher pmp,deutsche welle (sharethrough),0.12,
 RC417,live,saas,esi,publisher pmp,esi (sharethrough),0.12,run-time,0,0.88,0,
 RC417,live,saas,gravity,publisher pmp,gravity (sharethrough),0.2,eom,0,1,0,
 RC417,live,saas,grv media,publisher pmp,grv media (sharethrough),0.12,run-time,0,0.88,0,2023-12-11
-RC417,live,saas,guardian,publisher pmp,guardian (sharethrough),0.06,run-time,0,0.94,0,
 RC417,live,saas,huffington post,publisher pmp,huffington post (sharethrough),0.12,run-time,0,0.88,0,
 RC417,live,saas,lmc,publisher pmp,lmc (sharethrough),0,eom,0,1,0,
 RC417,live,saas,mumsnet,publisher pmp,mumsnet (sharethrough),0.12,run-time,0,0.88,0,
@@ -3572,7 +3527,7 @@ RC418,live,saas,deutsche welle,publisher omp,deutsche welle (sharethrough),0.12,
 RC418,live,saas,esi,publisher omp,esi (sharethrough),0.12,run-time,0,0.88,0,
 RC418,live,saas,gravity,publisher omp,gravity (sharethrough),0.2,eom,0,1,0,
 RC418,live,saas,grv media,publisher omp,grv media (sharethrough),0.12,run-time,0,0.88,0,2023-12-11
-RC418,live,saas,guardian,publisher omp,guardian (sharethrough),0.06,run-time,0,0.94,0,
+RC418,live,saas,guardian,publisher omp,sharethrough,0.1,run-time,0,0.9,0,2025-06-24
 RC418,live,saas,huffington post,publisher omp,huffington post (sharethrough),0.12,run-time,0,0.88,0,
 RC418,live,saas,lmc,publisher omp,lmc (sharethrough),0,eom,0,1,0,
 RC418,live,saas,mumsnet,publisher omp,mumsnet (sharethrough),0.12,run-time,0,0.88,0,
@@ -3595,7 +3550,6 @@ RC419,live,saas,esi,publisher pmp,esi (sovrn),0.12,run-time,0,0.88,0,
 RC419,live,saas,fandom,publisher pmp,sovrn,0.12,run-time,0,0.88,0,2025-03-05
 RC419,live,saas,gravity,publisher pmp,gravity (sovrn),0.2,eom,0,1,0,
 RC419,live,saas,grv media,publisher pmp,grv media (sovrn),0.12,run-time,0,0.88,0,2023-12-11
-RC419,live,saas,guardian,publisher pmp,guardian (sovrn),0.06,run-time,0,0.94,0,
 RC419,live,saas,huffington post,publisher pmp,huffington post (sovrn),0.12,run-time,0,0.88,0,
 RC419,live,saas,lmc,publisher pmp,lmc (sovrn),0,eom,0,1,0,
 RC419,live,saas,mumsnet,publisher pmp,mumsnet (sovrn),0.12,run-time,0,0.88,0,
@@ -3620,7 +3574,7 @@ RC420,live,saas,esi,publisher omp,esi (sovrn),0.12,run-time,0,0.88,0,
 RC420,live,saas,fandom,publisher omp,sovrn,0.12,run-time,0,0.88,0,2025-03-05
 RC420,live,saas,gravity,publisher omp,gravity (sovrn),0.2,eom,0,1,0,
 RC420,live,saas,grv media,publisher omp,grv media (sovrn),0.12,run-time,0,0.88,0,2023-12-11
-RC420,live,saas,guardian,publisher omp,guardian (sovrn),0.06,run-time,0,0.94,0,
+RC420,live,saas,guardian,publisher omp,sovrn,0.1,run-time,0,0.9,0,2025-06-24
 RC420,live,saas,huffington post,publisher omp,huffington post (sovrn),0.12,run-time,0,0.88,0,
 RC420,live,saas,lmc,publisher omp,lmc (sovrn),0,eom,0,1,0,
 RC420,live,saas,mumsnet,publisher omp,mumsnet (sovrn),0.12,run-time,0,0.88,0,
@@ -3642,7 +3596,6 @@ RC421,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC421,live,saas,esi,publisher pmp,esi (tappx),0.12,run-time,0,0.88,0,
 RC421,live,saas,gravity,publisher pmp,gravity (tappx),0.2,eom,0,1,0,
 RC421,live,saas,grv media,publisher pmp,grv media (tappx),0.12,run-time,0,0.88,0,2023-12-11
-RC421,live,saas,guardian,publisher pmp,guardian (tappx),0.06,run-time,0,0.94,0,
 RC421,live,saas,huffington post,publisher pmp,huffington post (tappx),0.12,run-time,0,0.88,0,
 RC421,live,saas,lmc,publisher pmp,lmc (tappx),0,eom,0,1,0,
 RC421,live,saas,mumsnet,publisher pmp,mumsnet (tappx),0.12,run-time,0,0.88,0,
@@ -3664,7 +3617,7 @@ RC422,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC422,live,saas,esi,publisher omp,esi (tappx),0.12,run-time,0,0.88,0,
 RC422,live,saas,gravity,publisher omp,gravity (tappx),0.2,eom,0,1,0,
 RC422,live,saas,grv media,publisher omp,grv media (tappx),0.12,run-time,0,0.88,0,2023-12-11
-RC422,live,saas,guardian,publisher omp,guardian (tappx),0.06,run-time,0,0.94,0,
+RC422,live,saas,guardian,publisher omp,tappx,0.1,run-time,0,0.9,0,2025-06-24
 RC422,live,saas,huffington post,publisher omp,huffington post (tappx),0.12,run-time,0,0.88,0,
 RC422,live,saas,lmc,publisher omp,lmc (tappx),0,eom,0,1,0,
 RC422,live,saas,mumsnet,publisher omp,mumsnet (tappx),0.12,run-time,0,0.88,0,
@@ -3686,7 +3639,6 @@ RC423,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC423,live,saas,esi,publisher pmp,esi (unruly),0.12,run-time,0,0.88,0,
 RC423,live,saas,gravity,publisher pmp,gravity (unruly),0.2,eom,0,1,0,
 RC423,live,saas,grv media,publisher pmp,grv media (unruly),0.12,run-time,0,0.88,0,2023-12-11
-RC423,live,saas,guardian,publisher pmp,guardian (unruly),0.06,run-time,0,0.94,0,
 RC423,live,saas,huffington post,publisher pmp,huffington post (unruly),0.12,run-time,0,0.88,0,
 RC423,live,saas,lmc,publisher pmp,lmc (unruly),0,eom,0,1,0,
 RC423,live,saas,mumsnet,publisher pmp,mumsnet (unruly),0.12,run-time,0,0.88,0,
@@ -3709,7 +3661,7 @@ RC424,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC424,live,saas,esi,publisher omp,esi (unruly),0.12,run-time,0,0.88,0,
 RC424,live,saas,gravity,publisher omp,gravity (unruly),0.2,eom,0,1,0,
 RC424,live,saas,grv media,publisher omp,grv media (unruly),0.12,run-time,0,0.88,0,2023-12-11
-RC424,live,saas,guardian,publisher omp,guardian (unruly),0.06,run-time,0,0.94,0,
+RC424,live,saas,guardian,publisher omp,unruly,0.1,run-time,0,0.9,0,2025-06-24
 RC424,live,saas,huffington post,publisher omp,huffington post (unruly),0.12,run-time,0,0.88,0,
 RC424,live,saas,lmc,publisher omp,lmc (unruly),0,eom,0,1,0,
 RC424,live,saas,mumsnet,publisher omp,mumsnet (unruly),0.12,run-time,0,0.88,0,
@@ -3732,7 +3684,6 @@ RC425,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC425,live,saas,esi,publisher pmp,esi (yieldmo),0.12,run-time,0,0.88,0,
 RC425,live,saas,gravity,publisher pmp,gravity (yieldmo),0.2,eom,0,1,0,
 RC425,live,saas,grv media,publisher pmp,grv media (yieldmo),0.12,run-time,0,0.88,0,2023-12-11
-RC425,live,saas,guardian,publisher pmp,guardian (yieldmo),0.06,run-time,0,0.94,0,
 RC425,live,saas,huffington post,publisher pmp,huffington post (yieldmo),0.12,run-time,0,0.88,0,
 RC425,live,saas,lmc,publisher pmp,lmc (yieldmo),0,eom,0,1,0,
 RC425,live,saas,mumsnet,publisher pmp,mumsnet (yieldmo),0.12,run-time,0,0.88,0,
@@ -3754,7 +3705,7 @@ RC426,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC426,live,saas,esi,publisher omp,esi (yieldmo),0.12,run-time,0,0.88,0,
 RC426,live,saas,gravity,publisher omp,gravity (yieldmo),0.2,eom,0,1,0,
 RC426,live,saas,grv media,publisher omp,grv media (yieldmo),0.12,run-time,0,0.88,0,2023-12-11
-RC426,live,saas,guardian,publisher omp,guardian (yieldmo),0.06,run-time,0,0.94,0,
+RC426,live,saas,guardian,publisher omp,yieldmo,0.1,run-time,0,0.9,0,2025-06-24
 RC426,live,saas,huffington post,publisher omp,huffington post (yieldmo),0.12,run-time,0,0.88,0,
 RC426,live,saas,lmc,publisher omp,lmc (yieldmo),0,eom,0,1,0,
 RC426,live,saas,mumsnet,publisher omp,mumsnet (yieldmo),0.12,run-time,0,0.88,0,
@@ -3785,6 +3736,7 @@ RC428,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC428,live,saas,deutsche welle,publisher omp,deutsche welle (triplelift),0.12,eom,0,1,0,2024-09-30
 RC428,live,saas,fandom,publisher omp,fandom (triplelift),0.12,run-time,0,0.88,0,
 RC428,live,saas,gravity,publisher omp,gravity (triplelift),0.2,eom,0,1,0,
+RC428,live,saas,guardian,publisher omp,triplelift,0.1,run-time,0,0.9,0,2025-06-24
 RC428,live,saas,huffington post,publisher omp,huffington post (triplelift),0.12,run-time,0,0.88,0,
 RC428,live,saas,news,publisher omp,news (triplelift),0,eom,0,1,0,2023-09-27
 RC428,live,saas,reach,publisher omp,reach (triplelift),0.06,run-time,0,0.94,0,2024-08-01
@@ -3799,7 +3751,6 @@ RC429,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC429,live,saas,esi,publisher pmp,esi (gumgum),0.12,run-time,0,0.88,0,
 RC429,live,saas,gravity,publisher pmp,gravity (gumgum),0.2,eom,0,1,0,
 RC429,live,saas,grv media,publisher pmp,grv media (gumgum),0.12,run-time,0,0.88,0,2023-12-11
-RC429,live,saas,guardian,publisher pmp,guardian (gumgum),0.06,run-time,0,0.94,0,
 RC429,live,saas,huffington post,publisher pmp,huffington post (gumgum),0.12,run-time,0,0.88,0,
 RC429,live,saas,lmc,publisher pmp,lmc (gumgum),0,eom,0,1,0,
 RC429,live,saas,mumsnet,publisher pmp,mumsnet (gumgum),0.12,run-time,0,0.88,0,
@@ -3821,7 +3772,7 @@ RC430,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC430,live,saas,esi,publisher omp,esi (gumgum),0.12,run-time,0,0.88,0,
 RC430,live,saas,gravity,publisher omp,gravity (gumgum),0.2,eom,0,1,0,
 RC430,live,saas,grv media,publisher omp,grv media (gumgum),0.12,run-time,0,0.88,0,2023-12-11
-RC430,live,saas,guardian,publisher omp,guardian (gumgum),0.06,run-time,0,0.94,0,
+RC430,live,saas,guardian,publisher omp,gumgum,0.1,run-time,0,0.9,0,2025-06-24
 RC430,live,saas,huffington post,publisher omp,huffington post (gumgum),0.12,run-time,0,0.88,0,
 RC430,live,saas,lmc,publisher omp,lmc (gumgum),0,eom,0,1,0,
 RC430,live,saas,mumsnet,publisher omp,mumsnet (gumgum),0.12,run-time,0,0.88,0,
@@ -3851,7 +3802,6 @@ RC431,live,ozone,daily mail general trust,ozone omp,index,0.1,run-time,0,0.9,0,
 RC431,live,ozone,esi,ozone omp,index,0.1,run-time,0,0.9,0,
 RC431,live,ozone,fandom,ozone omp,index,0.1,run-time,0,0.9,0,2024-07-15
 RC431,live,ozone,grv media,ozone omp,index,0.2,run-time,0,0.8,0,2024-10-30
-RC431,live,ozone,guardian,ozone omp,index,0.4,eom,0,1,0,
 RC431,live,ozone,gumtree,ozone omp,index,0.35,run-time,0,0.65,0,
 RC431,live,ozone,huffington post,ozone omp,index,0.1,run-time,0,0.9,0,
 RC431,live,ozone,investing,ozone omp,index,0.35,run-time,0,0.65,0,2024-11-05
@@ -3898,7 +3848,6 @@ RC432,live,ozone,daily mail general trust,ozone omp,index,0.1,run-time,0,0.9,0,
 RC432,live,ozone,esi,ozone omp,index,0.1,run-time,0,0.9,0,
 RC432,live,ozone,fandom,ozone omp,index,0.1,run-time,0,0.9,0,2024-07-15
 RC432,live,ozone,grv media,ozone omp,index,0.2,run-time,0,0.8,0,2024-10-30
-RC432,live,ozone,guardian,ozone omp,index,0.4,eom,0,1,0,
 RC432,live,ozone,gumtree,ozone omp,index,0.35,run-time,0,0.65,0,
 RC432,live,ozone,huffington post,ozone omp,index,0.1,run-time,0,0.9,0,
 RC432,live,ozone,investing,ozone omp,index,0.35,run-time,0,0.65,0,2024-11-05
@@ -3958,7 +3907,7 @@ RC451,live,ozone,crazygames,deals,audience deals (bidswitch),0.36,run-time,0.3,0
 RC451,live,ozone,daily mail general trust,deals,audience deals (bidswitch),0.36,run-time,0.3,0.412,0,2025-02-11
 RC451,live,ozone,esi,deals,audience deals (bidswitch),0.35,run-time,0.3,0.419,0,2023-09-21
 RC451,live,ozone,grv media,deals,audience deals (bidswitch),0.2,run-time,0.3,0.419,0,2024-11-07
-RC451,live,ozone,guardian,deals,audience deals (bidswitch),0.4,run-time,0.1,0.4968,0,2023-09-21
+RC451,live,ozone,guardian,deals,audience deals (bidswitch),0.09,run-time,0.3,0.637,0,2025-06-24
 RC451,live,ozone,hello,deals,audience deals (bidswitch),0.35,run-time,0.3,0.419,0,2023-09-21
 RC451,live,ozone,huffington post,deals,audience deals (bidswitch),0.35,run-time,0.3,0.419,0,2023-09-21
 RC451,live,ozone,mediahuis,deals,audience deals (bidswitch),0.36,run-time,0.3,0.412,0,2024-08-27
@@ -3998,7 +3947,7 @@ RC452,live,ozone,crazygames,deals,inventory only deals (bidswitch),0.36,run-time
 RC452,live,ozone,daily mail general trust,deals,inventory only deals (bidswitch),0.36,run-time,0,0.589,0,2025-02-11
 RC452,live,ozone,esi,deals,inventory only deals (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
 RC452,live,ozone,grv media,deals,inventory only deals (bidswitch),0.2,run-time,0,0.598,0,2024-11-07
-RC452,live,ozone,guardian,deals,inventory only deals (bidswitch),0.4,run-time,0,0.552,0,2023-09-21
+RC452,live,ozone,guardian,deals,inventory only deals (bidswitch),0.09,run-time,0,0.91,0,2025-06-24
 RC452,live,ozone,hello,deals,inventory only deals (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
 RC452,live,ozone,huffington post,deals,inventory only deals (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
 RC452,live,ozone,mediahuis,deals,inventory only deals (bidswitch),0.36,run-time,0,0.589,0,2024-08-27
@@ -4038,7 +3987,7 @@ RC453,live,ozone,crazygames,deals,contextual deals (bidswitch),0.36,run-time,0,0
 RC453,live,ozone,daily mail general trust,deals,contextual deals (bidswitch),0.36,run-time,0,0.589,0,2025-02-11
 RC453,live,ozone,esi,deals,contextual deals (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
 RC453,live,ozone,grv media,deals,contextual deals (bidswitch),0.2,run-time,0,0.598,0,2024-11-07
-RC453,live,ozone,guardian,deals,contextual deals (bidswitch),0.4,run-time,0,0.552,0,2023-09-21
+RC453,live,ozone,guardian,deals,contextual deals (bidswitch),0.09,run-time,0,0.91,0,2025-06-24
 RC453,live,ozone,hello,deals,contextual deals (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
 RC453,live,ozone,huffington post,deals,contextual deals (bidswitch),0.35,run-time,0,0.598,0,2023-09-21
 RC453,live,ozone,mediahuis,deals,contextual deals (bidswitch),0.36,run-time,0,0.589,0,2024-08-27
@@ -4078,7 +4027,7 @@ RC454,live,ozone,crazygames,marketplace,audience marketplace (bidswitch),0.36,ru
 RC454,live,ozone,daily mail general trust,marketplace,audience marketplace (bidswitch),0.36,run-time,0.3,0.412,0,2025-02-11
 RC454,live,ozone,esi,marketplace,audience marketplace (bidswitch),0.35,run-time,0.3,0.419,0,2023-09-21
 RC454,live,ozone,grv media,marketplace,audience marketplace (bidswitch),0.2,run-time,0.3,0.419,0,2024-11-07
-RC454,live,ozone,guardian,marketplace,audience marketplace (bidswitch),0.4,run-time,0.1,0.4968,0,2023-09-21
+RC454,live,ozone,guardian,marketplace,audience marketplace (bidswitch),0.09,run-time,0.3,0.637,0,2025-06-24
 RC454,live,ozone,hello,marketplace,audience marketplace (bidswitch),0.35,run-time,0.3,0.419,0,2023-09-21
 RC454,live,ozone,huffington post,marketplace,audience marketplace (bidswitch),0.35,run-time,0.3,0.419,0,2023-09-21
 RC454,live,ozone,mediahuis,marketplace,audience marketplace (bidswitch),0.36,run-time,0.3,0.412,0,2024-08-27
@@ -4117,7 +4066,7 @@ RC455,live,ozone,daily mail general trust,marketplace,inventory only marketplace
 RC455,live,ozone,esi,marketplace,inventory only marketplace (bidswitch),0.18,run-time,0,0.7544,0,2023-09-21
 RC455,live,ozone,fandom,marketplace,inventory only marketplace (bidswitch),0.18,run-time,0,0.754,0,2024-07-15
 RC455,live,ozone,grv media,marketplace,inventory only marketplace (bidswitch),0.2,run-time,0,0.736,0,2024-10-30
-RC455,live,ozone,guardian,marketplace,inventory only marketplace (bidswitch),0.4,run-time,0,0.552,0,2023-09-21
+RC455,live,ozone,guardian,marketplace,inventory only marketplace (bidswitch),0.01,run-time,0,0.99,0,2025-06-24
 RC455,live,ozone,hello,marketplace,inventory only marketplace (bidswitch),0.18,run-time,0,0.7544,0,2023-09-21
 RC455,live,ozone,huffington post,marketplace,inventory only marketplace (bidswitch),0.18,run-time,0,0.7544,0,2023-09-21
 RC455,live,ozone,mediahuis,marketplace,inventory only marketplace (bidswitch),0.18,run-time,0,0.754,0,2024-08-27
@@ -4158,7 +4107,7 @@ RC456,live,ozone,daily mail general trust,marketplace,contextual marketplace (bi
 RC456,live,ozone,esi,marketplace,contextual marketplace (bidswitch),0.18,run-time,0,0.7544,0,2023-09-21
 RC456,live,ozone,fandom,marketplace,contextual marketplace (bidswitch),0.18,run-time,0,0.754,0,2024-07-15
 RC456,live,ozone,grv media,marketplace,contextual marketplace (bidswitch),0.2,run-time,0,0.736,0,2024-10-30
-RC456,live,ozone,guardian,marketplace,contextual marketplace (bidswitch),0.4,run-time,0,0.552,0,2023-09-21
+RC456,live,ozone,guardian,marketplace,contextual marketplace (bidswitch),0.01,run-time,0,0.99,0,2025-06-24
 RC456,live,ozone,hello,marketplace,contextual marketplace (bidswitch),0.18,run-time,0,0.7544,0,2023-09-21
 RC456,live,ozone,huffington post,marketplace,contextual marketplace (bidswitch),0.18,run-time,0,0.7544,0,2023-09-21
 RC456,live,ozone,mediahuis,marketplace,contextual marketplace (bidswitch),0.18,run-time,0,0.754,0,2024-08-27
@@ -4200,7 +4149,6 @@ RC457,live,ozone,daily mail general trust,ozone omp,inventory only (bidswitch),0
 RC457,live,ozone,esi,ozone omp,inventory only (bidswitch),0.1,run-time,0,0.828,0,2023-09-21
 RC457,live,ozone,fandom,ozone omp,inventory only (bidswitch),0.1,run-time,0,0.828,0,2024-07-15
 RC457,live,ozone,grv media,ozone omp,inventory only (bidswitch),0.2,run-time,0,0.736,0,2024-10-30
-RC457,live,ozone,guardian,ozone omp,inventory only (bidswitch),0.4,run-time,0,0.552,0,2023-09-21
 RC457,live,ozone,hello,ozone omp,inventory only (bidswitch),0.1,run-time,0,0.828,0,2023-09-21
 RC457,live,ozone,huffington post,ozone omp,inventory only (bidswitch),0.1,run-time,0,0.828,0,2023-09-21
 RC457,live,ozone,mediahuis,ozone omp,inventory only (bidswitch),0.1,run-time,0,0.828,0,2024-08-27
@@ -4231,6 +4179,7 @@ RC457,live,ozone,wall street journal,ozone omp,inventory only (bidswitch),0.1,ru
 RC458,live,saas,bauer,publisher omp,bauer (adform),0.09,run-time,0,0.91,0,2024-02-19
 RC458,live,saas,daily mail general trust,publisher omp,daily mail general trust (adform),0.1,run-time,0,0.9,0,2023-10-16
 RC458,live,saas,grv media,publisher omp,grv media (adform),0.12,run-time,0,0.88,0,2023-12-11
+RC458,live,saas,guardian,publisher omp,adform,0.1,run-time,0,0.9,0,2025-06-24
 RC458,live,saas,mumsnet,publisher omp,mumsnet (adform),0.12,run-time,0,0.88,0,2023-09-15
 RC458,live,saas,stylist,publisher omp,adform,0.2,run-time,0,1,0,2025-06-17
 RC458,live,saas,venatus,publisher omp,venatus (adform),0.12,run-time,0,0.88,0,2024-10-30
@@ -4246,6 +4195,7 @@ RC46,live,saas,dmgt,publisher omp,dmgt (xandr),0.35,run-time,0,0.65,,
 RC460,live,saas,bauer,publisher omp,bauer (improve),0.09,run-time,0,0.91,0,2024-02-19
 RC460,live,saas,daily mail general trust,publisher omp,daily mail general trust (improve),0.1,run-time,0,0.9,0,2023-12-05
 RC460,live,saas,deutsche welle,publisher omp,deutsche welle (improve),0.12,eom,0,1,0,2024-09-30
+RC460,live,saas,guardian,publisher omp,improve,0.1,run-time,0,0.9,0,2025-06-24
 RC460,live,saas,mumsnet,publisher omp,mumsnet (improve),0.12,run-time,0,0.88,0,2023-12-05
 RC460,live,saas,reach,publisher omp,improve,0.06,run-time,0,0.94,0,2024-01-11
 RC460,live,saas,stylist,publisher omp,improve,0.2,run-time,0,1,0,2025-06-17
@@ -4263,6 +4213,7 @@ RC461,live,saas,venatus,publisher pmp,venatus (improve),0.12,run-time,0,0.88,0,2
 RC461,live,saas,venatus-bidder,publisher pmp,venatus-bidder (improve),0.12,run-time,0,0.7734,0,2023-12-05
 RC462,live,saas,daily mail general trust,publisher omp,daily mail general trust (kargo),0.1,run-time,0,0.9,0,2023-10-16
 RC462,live,saas,grv media,publisher omp,grv media (kargo),0.12,run-time,0,0.88,0,2023-12-11
+RC462,live,saas,guardian,publisher omp,kargo,0.1,run-time,0,0.9,0,2025-06-24
 RC462,live,saas,mumsnet,publisher omp,mumsnet (kargo),0.12,run-time,0,0.88,0,2023-09-15
 RC462,live,saas,stylist,publisher omp,kargo,0.2,run-time,0,1,0,2025-06-17
 RC462,live,saas,venatus,publisher omp,venatus (kargo),0.12,run-time,0,0.88,0,2024-10-30
@@ -4276,6 +4227,7 @@ RC463,live,saas,venatus-bidder,publisher pmp,venatus-bidder (kargo),0.12,run-tim
 RC464,live,saas,bauer,publisher omp,bauer (mediagrid),0.09,run-time,0,0.91,0,2024-02-19
 RC464,live,saas,daily mail general trust,publisher omp,daily mail general trust (mediagrid),0.1,run-time,0,0.9,0,2023-10-16
 RC464,live,saas,grv media,publisher omp,grv media (mediagrid),0.12,run-time,0,0.88,0,2023-12-11
+RC464,live,saas,guardian,publisher omp,mediagrid,0.1,run-time,0,0.9,0,2025-06-24
 RC464,live,saas,mumsnet,publisher omp,mumsnet (mediagrid),0.12,run-time,0,0.88,0,2023-09-15
 RC464,live,saas,stylist,publisher omp,mediagrid,0.2,run-time,0,1,0,2025-06-17
 RC464,live,saas,venatus,publisher omp,venatus (mediagrid),0.12,run-time,0,0.88,0,2024-10-30
@@ -4290,6 +4242,7 @@ RC465,live,saas,venatus-bidder,publisher pmp,venatus-bidder (mediagrid),0.12,run
 RC466,live,saas,bauer,publisher omp,bauer (yahoo),0.09,run-time,0,0.91,0,2024-02-19
 RC466,live,saas,daily mail general trust,publisher omp,daily mail general trust (yahoo),0.1,run-time,0,0.9,0,2023-10-16
 RC466,live,saas,grv media,publisher omp,grv media (yahoo),0.12,run-time,0,0.88,0,2023-12-11
+RC466,live,saas,guardian,publisher omp,yahoo,0.1,run-time,0,0.9,0,2025-06-24
 RC466,live,saas,mumsnet,publisher omp,mumsnet (yahoo),0.12,run-time,0,0.88,0,2023-09-15
 RC466,live,saas,stylist,publisher omp,yahoo,0.2,run-time,0,1,0,2025-06-17
 RC466,live,saas,venatus,publisher omp,venatus (yahoo),0.12,run-time,0,0.88,0,2024-10-30
@@ -4306,6 +4259,7 @@ RC468,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC468,live,saas,deutsche welle,publisher omp,deutsche welle (smart),0.12,eom,0,1,0,2024-09-30
 RC468,live,saas,esi,publisher omp,esi (smart),0.12,run-time,0,0.88,0,2024-11-05
 RC468,live,saas,grv media,publisher omp,grv media (smart),0.12,run-time,0,0.88,0,2023-12-11
+RC468,live,saas,guardian,publisher omp,smart,0.1,run-time,0,0.9,0,2025-06-24
 RC468,live,saas,mumsnet,publisher omp,mumsnet (smart),0.12,run-time,0,0.88,0,2023-09-15
 RC468,live,saas,reach,publisher omp,reach (smart),0.06,run-time,0,0.94,0,2024-08-01
 RC468,live,saas,standard,publisher omp,standard (smart),0.12,run-time,0,0.88,0,2024-10-07
@@ -4342,7 +4296,6 @@ RC470,live,ozone,daily mail general trust,ozone omp,yieldmo,0.1,run-time,0,0.9,0
 RC470,live,ozone,esi,ozone omp,yieldmo,0.1,run-time,0,0.9,0,2024-03-13
 RC470,live,ozone,fandom,ozone omp,yieldmo,0.1,run-time,0,0.9,0,2024-07-15
 RC470,live,ozone,grv media,ozone omp,yieldmo,0.2,run-time,0,0.8,0,2024-10-30
-RC470,live,ozone,guardian,ozone omp,yieldmo,0.4,eom,0,1,0,2024-03-13
 RC470,live,ozone,hello,ozone omp,yieldmo,0.1,run-time,0,0.9,0,2024-03-13
 RC470,live,ozone,huffington post,ozone omp,yieldmo,0.1,run-time,0,0.9,0,2024-03-13
 RC470,live,ozone,lagardere,ozone omp,yieldmo,0.2,eom,0,1,0,2024-03-13
@@ -4388,7 +4341,6 @@ RC471,live,ozone,daily mail general trust,ozone pmp,yieldmo (dealid),0.1,run-tim
 RC471,live,ozone,esi,ozone pmp,yieldmo (dealid),0.1,run-time,0,0.9,0,2024-03-13
 RC471,live,ozone,fandom,ozone pmp,yieldmo (dealid),0.1,run-time,0,0.9,0,2024-07-15
 RC471,live,ozone,grv media,ozone pmp,yieldmo (dealid),0.2,run-time,0,0.8,0,2024-10-30
-RC471,live,ozone,guardian,ozone pmp,yieldmo (dealid),0.4,eom,0,1,0,2024-03-13
 RC471,live,ozone,hello,ozone pmp,yieldmo (dealid),0.1,run-time,0,0.9,0,2024-03-13
 RC471,live,ozone,huffington post,ozone pmp,yieldmo (dealid),0.1,run-time,0,0.9,0,2024-03-13
 RC471,live,ozone,lagardere,ozone pmp,yieldmo (dealid),0.2,eom,0,1,0,2024-03-13
@@ -4454,7 +4406,6 @@ RC5,live,ozone,daily mail general trust,marketplace,groupm arq,0.36,run-time,0,0
 RC5,live,ozone,dmgt,marketplace,groupm arq,,eom,0,1,,
 RC5,live,ozone,esi,marketplace,groupm arq,0.35,run-time,,0.65,,
 RC5,live,ozone,grv media,marketplace,groupm arq,0.2,run-time,0,0.64,0,2024-11-07
-RC5,live,ozone,guardian,marketplace,groupm arq,0.4,eom,,1,,
 RC5,live,ozone,huffington post,marketplace,groupm arq,0.35,run-time,,0.65,,
 RC5,live,ozone,mediahuis,marketplace,groupm arq,0.36,run-time,0,0.64,0,2024-08-27
 RC5,live,ozone,netmums,marketplace,groupm arq,0.36,run-time,,0.64,,
@@ -4489,7 +4440,7 @@ RC510,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC510,live,saas,esi,publisher omp,esi (inmobi),0.12,run-time,0,0.88,0,2024-01-26
 RC510,live,saas,gravity,publisher omp,gravity (inmobi),0.2,eom,0,1,0,2024-01-26
 RC510,live,saas,grv media,publisher omp,grv media (inmobi),0.12,run-time,0,0.88,0,2024-01-26
-RC510,live,saas,guardian,publisher omp,guardian (inmobi),0.06,run-time,0,0.94,0,2024-01-26
+RC510,live,saas,guardian,publisher omp,inmobi,0.1,run-time,0,0.9,0,2025-06-24
 RC510,live,saas,huffington post,publisher omp,huffington post (inmobi),0.12,run-time,0,0.88,0,2024-01-26
 RC510,live,saas,lmc,publisher omp,lmc (inmobi),0,eom,0,1,0,2024-01-26
 RC510,live,saas,mumsnet,publisher omp,mumsnet (inmobi),0.12,run-time,0,0.88,0,2024-01-26
@@ -4511,7 +4462,6 @@ RC511,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC511,live,saas,esi,publisher pmp,esi (inmobi),0.12,run-time,0,0.88,0,2024-01-26
 RC511,live,saas,gravity,publisher pmp,gravity (inmobi),0.2,eom,0,1,0,2024-01-26
 RC511,live,saas,grv media,publisher pmp,grv media (inmobi),0.12,run-time,0,0.88,0,2024-01-26
-RC511,live,saas,guardian,publisher pmp,guardian (inmobi),0.06,run-time,0,0.94,0,2024-01-26
 RC511,live,saas,huffington post,publisher pmp,huffington post (inmobi),0.12,run-time,0,0.88,0,2024-01-26
 RC511,live,saas,lmc,publisher pmp,lmc (inmobi),0,eom,0,1,0,2024-01-26
 RC511,live,saas,mumsnet,publisher pmp,mumsnet (inmobi),0.12,run-time,0,0.88,0,2024-01-26
@@ -4533,7 +4483,7 @@ RC512,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC512,live,saas,esi,publisher omp,esi (next millenium),0.12,run-time,0,0.88,0,2024-01-26
 RC512,live,saas,gravity,publisher omp,gravity (next millenium),0.2,eom,0,1,0,2024-01-26
 RC512,live,saas,grv media,publisher omp,grv media (next millenium),0.12,run-time,0,0.88,0,2024-01-26
-RC512,live,saas,guardian,publisher omp,guardian (next millenium),0.06,run-time,0,0.94,0,2024-01-26
+RC512,live,saas,guardian,publisher omp,next millenium,0.1,run-time,0,0.9,0,2025-06-24
 RC512,live,saas,huffington post,publisher omp,huffington post (next millenium),0.12,run-time,0,0.88,0,2024-01-26
 RC512,live,saas,lmc,publisher omp,lmc (next millenium),0,eom,0,1,0,2024-01-26
 RC512,live,saas,mumsnet,publisher omp,mumsnet (next millenium),0.12,run-time,0,0.88,0,2024-01-26
@@ -4555,7 +4505,6 @@ RC513,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC513,live,saas,esi,publisher pmp,esi (next millenium),0.12,run-time,0,0.88,0,2024-01-26
 RC513,live,saas,gravity,publisher pmp,gravity (next millenium),0.2,eom,0,1,0,2024-01-26
 RC513,live,saas,grv media,publisher pmp,grv media (next millenium),0.12,run-time,0,0.88,0,2024-01-26
-RC513,live,saas,guardian,publisher pmp,guardian (next millenium),0.06,run-time,0,0.94,0,2024-01-26
 RC513,live,saas,huffington post,publisher pmp,huffington post (next millenium),0.12,run-time,0,0.88,0,2024-01-26
 RC513,live,saas,lmc,publisher pmp,lmc (next millenium),0,eom,0,1,0,2024-01-26
 RC513,live,saas,mumsnet,publisher pmp,mumsnet (next millenium),0.12,run-time,0,0.88,0,2024-01-26
@@ -4577,7 +4526,7 @@ RC514,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC514,live,saas,esi,publisher omp,esi (loopme),0.12,run-time,0,0.88,0,2024-01-26
 RC514,live,saas,gravity,publisher omp,gravity (loopme),0.2,eom,0,1,0,2024-01-26
 RC514,live,saas,grv media,publisher omp,grv media (loopme),0.12,run-time,0,0.88,0,2024-01-26
-RC514,live,saas,guardian,publisher omp,guardian (loopme),0.06,run-time,0,0.94,0,2024-01-26
+RC514,live,saas,guardian,publisher omp,loopme,0.1,run-time,0,0.9,0,2025-06-24
 RC514,live,saas,huffington post,publisher omp,huffington post (loopme),0.12,run-time,0,0.88,0,2024-01-26
 RC514,live,saas,lmc,publisher omp,lmc (loopme),0,eom,0,1,0,2024-01-26
 RC514,live,saas,mumsnet,publisher omp,mumsnet (loopme),0.12,run-time,0,0.88,0,2024-01-26
@@ -4599,7 +4548,6 @@ RC515,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC515,live,saas,esi,publisher pmp,esi (loopme),0.12,run-time,0,0.88,0,2024-01-26
 RC515,live,saas,gravity,publisher pmp,gravity (loopme),0.2,eom,0,1,0,2024-01-26
 RC515,live,saas,grv media,publisher pmp,grv media (loopme),0.12,run-time,0,0.88,0,2024-01-26
-RC515,live,saas,guardian,publisher pmp,guardian (loopme),0.06,run-time,0,0.94,0,2024-01-26
 RC515,live,saas,huffington post,publisher pmp,huffington post (loopme),0.12,run-time,0,0.88,0,2024-01-26
 RC515,live,saas,lmc,publisher pmp,lmc (loopme),0,eom,0,1,0,2024-01-26
 RC515,live,saas,mumsnet,publisher pmp,mumsnet (loopme),0.12,run-time,0,0.88,0,2024-01-26
@@ -4621,7 +4569,7 @@ RC516,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC516,live,saas,esi,publisher omp,esi (adaptmx),0.12,run-time,0,0.88,0,2024-01-26
 RC516,live,saas,gravity,publisher omp,gravity (adaptmx),0.2,eom,0,1,0,2024-01-26
 RC516,live,saas,grv media,publisher omp,grv media (adaptmx),0.12,run-time,0,0.88,0,2024-01-26
-RC516,live,saas,guardian,publisher omp,guardian (adaptmx),0.06,run-time,0,0.94,0,2024-01-26
+RC516,live,saas,guardian,publisher omp,adaptmx,0.1,run-time,0,0.9,0,2025-06-24
 RC516,live,saas,huffington post,publisher omp,huffington post (adaptmx),0.12,run-time,0,0.88,0,2024-01-26
 RC516,live,saas,lmc,publisher omp,lmc (adaptmx),0,eom,0,1,0,2024-01-26
 RC516,live,saas,mumsnet,publisher omp,mumsnet (adaptmx),0.12,run-time,0,0.88,0,2024-01-26
@@ -4643,7 +4591,6 @@ RC517,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC517,live,saas,esi,publisher pmp,esi (adaptmx),0.12,run-time,0,0.88,0,2024-01-26
 RC517,live,saas,gravity,publisher pmp,gravity (adaptmx),0.2,eom,0,1,0,2024-01-26
 RC517,live,saas,grv media,publisher pmp,grv media (adaptmx),0.12,run-time,0,0.88,0,2024-01-26
-RC517,live,saas,guardian,publisher pmp,guardian (adaptmx),0.06,run-time,0,0.94,0,2024-01-26
 RC517,live,saas,huffington post,publisher pmp,huffington post (adaptmx),0.12,run-time,0,0.88,0,2024-01-26
 RC517,live,saas,lmc,publisher pmp,lmc (adaptmx),0,eom,0,1,0,2024-01-26
 RC517,live,saas,mumsnet,publisher pmp,mumsnet (adaptmx),0.12,run-time,0,0.88,0,2024-01-26
@@ -4665,7 +4612,7 @@ RC518,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC518,live,saas,esi,publisher omp,esi (criteo),0.12,run-time,0,0.88,0,2024-02-06
 RC518,live,saas,gravity,publisher omp,gravity (criteo),0.2,eom,0,1,0,2024-02-06
 RC518,live,saas,grv media,publisher omp,grv media (criteo),0.12,run-time,0,0.88,0,2024-02-06
-RC518,live,saas,guardian,publisher omp,guardian (criteo),0.06,run-time,0,0.94,0,2024-02-06
+RC518,live,saas,guardian,publisher omp,criteo,0.1,run-time,0,0.9,0,2025-06-24
 RC518,live,saas,huffington post,publisher omp,huffington post (criteo),0.12,run-time,0,0.88,0,2024-02-06
 RC518,live,saas,lmc,publisher omp,lmc (criteo),0,eom,0,1,0,2024-02-06
 RC518,live,saas,mumsnet,publisher omp,mumsnet (criteo),0.12,run-time,0,0.88,0,2024-02-06
@@ -4687,7 +4634,6 @@ RC519,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC519,live,saas,esi,publisher pmp,esi (criteo),0.12,run-time,0,0.88,0,2024-02-06
 RC519,live,saas,gravity,publisher pmp,gravity (criteo),0.2,eom,0,1,0,2024-02-06
 RC519,live,saas,grv media,publisher pmp,grv media (criteo),0.12,run-time,0,0.88,0,2024-02-06
-RC519,live,saas,guardian,publisher pmp,guardian (criteo),0.06,run-time,0,0.94,0,2024-02-06
 RC519,live,saas,huffington post,publisher pmp,huffington post (criteo),0.12,run-time,0,0.88,0,2024-02-06
 RC519,live,saas,lmc,publisher pmp,lmc (criteo),0,eom,0,1,0,2024-02-06
 RC519,live,saas,mumsnet,publisher pmp,mumsnet (criteo),0.12,run-time,0,0.88,0,2024-02-06
@@ -4710,7 +4656,6 @@ RC520,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC520,live,saas,esi,publisher pmp,esi (adyoulike),0.12,run-time,0,0.88,0,2024-03-20
 RC520,live,saas,gravity,publisher pmp,gravity (adyoulike),0.2,eom,0,1,0,2024-03-20
 RC520,live,saas,grv media,publisher pmp,grv media (adyoulike),0.12,run-time,0,0.88,0,2024-03-20
-RC520,live,saas,guardian,publisher pmp,guardian (adyoulike),0.06,run-time,0,0.94,0,2024-03-20
 RC520,live,saas,huffington post,publisher pmp,huffington post (adyoulike),0.12,run-time,0,0.88,0,2024-03-20
 RC520,live,saas,lmc,publisher pmp,lmc (adyoulike),0,eom,0,1,0,2024-03-20
 RC520,live,saas,mumsnet,publisher pmp,mumsnet (adyoulike),0.12,run-time,0,0.88,0,2024-03-20
@@ -4733,7 +4678,7 @@ RC521,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC521,live,saas,esi,publisher omp,esi (adyoulike),0.12,run-time,0,0.88,0,2024-03-20
 RC521,live,saas,gravity,publisher omp,gravity (adyoulike),0.2,eom,0,1,0,2024-03-20
 RC521,live,saas,grv media,publisher omp,grv media (adyoulike),0.12,run-time,0,0.88,0,2024-03-20
-RC521,live,saas,guardian,publisher omp,guardian (adyoulike),0.06,run-time,0,0.94,0,2024-03-20
+RC521,live,saas,guardian,publisher omp,adyoulike,0.1,run-time,0,0.9,0,2025-06-24
 RC521,live,saas,huffington post,publisher omp,huffington post (adyoulike),0.12,run-time,0,0.88,0,2024-03-20
 RC521,live,saas,lmc,publisher omp,lmc (adyoulike),0,eom,0,1,0,2024-03-20
 RC521,live,saas,mumsnet,publisher omp,mumsnet (adyoulike),0.12,run-time,0,0.88,0,2024-03-20
@@ -4757,7 +4702,6 @@ RC522,live,saas,deutsche welle,publisher pmp,deutsche welle (sovrnxsp),0.12,eom,
 RC522,live,saas,esi,publisher pmp,esi (sovrnxsp),0.12,run-time,0,0.88,0,2024-03-20
 RC522,live,saas,gravity,publisher pmp,gravity (sovrnxsp),0.2,eom,0,1,0,2024-03-20
 RC522,live,saas,grv media,publisher pmp,grv media (sovrnxsp),0.12,run-time,0,0.88,0,2024-03-20
-RC522,live,saas,guardian,publisher pmp,guardian (sovrnxsp),0.06,run-time,0,0.94,0,2024-03-20
 RC522,live,saas,huffington post,publisher pmp,huffington post (sovrnxsp),0.12,run-time,0,0.88,0,2024-03-20
 RC522,live,saas,lmc,publisher pmp,lmc (sovrnxsp),0,eom,0,1,0,2024-03-20
 RC522,live,saas,mumsnet,publisher pmp,mumsnet (sovrnxsp),0.12,run-time,0,0.88,0,2024-03-20
@@ -4781,7 +4725,7 @@ RC523,live,saas,deutsche welle,publisher omp,deutsche welle (sovrnxsp),0.12,eom,
 RC523,live,saas,esi,publisher omp,esi (sovrnxsp),0.12,run-time,0,0.88,0,2024-03-20
 RC523,live,saas,gravity,publisher omp,gravity (sovrnxsp),0.2,eom,0,1,0,2024-03-20
 RC523,live,saas,grv media,publisher omp,grv media (sovrnxsp),0.12,run-time,0,0.88,0,2024-03-20
-RC523,live,saas,guardian,publisher omp,guardian (sovrnxsp),0.06,run-time,0,0.94,0,2024-03-20
+RC523,live,saas,guardian,publisher omp,sovrnxsp,0.1,run-time,0,0.9,0,2025-06-24
 RC523,live,saas,huffington post,publisher omp,huffington post (sovrnxsp),0.12,run-time,0,0.88,0,2024-03-20
 RC523,live,saas,lmc,publisher omp,lmc (sovrnxsp),0,eom,0,1,0,2024-03-20
 RC523,live,saas,mumsnet,publisher omp,mumsnet (sovrnxsp),0.12,run-time,0,0.88,0,2024-03-20
@@ -4805,7 +4749,6 @@ RC524,live,saas,deutsche welle,publisher pmp,deutsche welle (smaato),0.12,eom,0,
 RC524,live,saas,esi,publisher pmp,esi (smaato),0.12,run-time,0,0.88,0,2024-03-20
 RC524,live,saas,gravity,publisher pmp,gravity (smaato),0.2,eom,0,1,0,2024-03-20
 RC524,live,saas,grv media,publisher pmp,grv media (smaato),0.12,run-time,0,0.88,0,2024-03-20
-RC524,live,saas,guardian,publisher pmp,guardian (smaato),0.06,run-time,0,0.94,0,2024-03-20
 RC524,live,saas,huffington post,publisher pmp,huffington post (smaato),0.12,run-time,0,0.88,0,2024-03-20
 RC524,live,saas,lmc,publisher pmp,lmc (smaato),0,eom,0,1,0,2024-03-20
 RC524,live,saas,mumsnet,publisher pmp,mumsnet (smaato),0.12,run-time,0,0.88,0,2024-03-20
@@ -4829,7 +4772,7 @@ RC525,live,saas,deutsche welle,publisher omp,deutsche welle (smaato),0.12,eom,0,
 RC525,live,saas,esi,publisher omp,esi (smaato),0.12,run-time,0,0.88,0,2024-03-20
 RC525,live,saas,gravity,publisher omp,gravity (smaato),0.2,eom,0,1,0,2024-03-20
 RC525,live,saas,grv media,publisher omp,grv media (smaato),0.12,run-time,0,0.88,0,2024-03-20
-RC525,live,saas,guardian,publisher omp,guardian (smaato),0.06,run-time,0,0.94,0,2024-03-20
+RC525,live,saas,guardian,publisher omp,smaato,0.1,run-time,0,0.9,0,2025-06-24
 RC525,live,saas,huffington post,publisher omp,huffington post (smaato),0.12,run-time,0,0.88,0,2024-03-20
 RC525,live,saas,lmc,publisher omp,lmc (smaato),0,eom,0,1,0,2024-03-20
 RC525,live,saas,mumsnet,publisher omp,mumsnet (smaato),0.12,run-time,0,0.88,0,2024-03-20
@@ -4852,7 +4795,7 @@ RC526,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC526,live,saas,esi,publisher omp,esi (undertone),0.12,run-time,0,0.88,0,2024-04-10
 RC526,live,saas,gravity,publisher omp,gravity (undertone),0.2,eom,0,1,0,2024-04-10
 RC526,live,saas,grv media,publisher omp,grv media (undertone),0.12,run-time,0,0.88,0,2024-04-10
-RC526,live,saas,guardian,publisher omp,guardian (undertone),0.06,run-time,0,0.94,0,2024-04-10
+RC526,live,saas,guardian,publisher omp,undertone,0.1,run-time,0,0.9,0,2025-06-24
 RC526,live,saas,huffington post,publisher omp,huffington post (undertone),0.12,run-time,0,0.88,0,2024-04-10
 RC526,live,saas,lmc,publisher omp,lmc (undertone),0,eom,0,1,0,2024-04-10
 RC526,live,saas,mumsnet,publisher omp,mumsnet (undertone),0.12,run-time,0,0.88,0,2024-04-10
@@ -4872,7 +4815,6 @@ RC527,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC527,live,saas,esi,publisher pmp,esi (undertone),0.12,run-time,0,0.88,0,2024-04-10
 RC527,live,saas,gravity,publisher pmp,gravity (undertone),0.2,eom,0,1,0,2024-04-10
 RC527,live,saas,grv media,publisher pmp,grv media (undertone),0.12,run-time,0,0.88,0,2024-04-10
-RC527,live,saas,guardian,publisher pmp,guardian (undertone),0.06,run-time,0,0.94,0,2024-04-10
 RC527,live,saas,huffington post,publisher pmp,huffington post (undertone),0.12,run-time,0,0.88,0,2024-04-10
 RC527,live,saas,lmc,publisher pmp,lmc (undertone),0,eom,0,1,0,2024-04-10
 RC527,live,saas,mumsnet,publisher pmp,mumsnet (undertone),0.12,run-time,0,0.88,0,2024-04-10
@@ -4885,6 +4827,7 @@ RC527,live,saas,tekan,publisher pmp,tekan (undertone),0,eom,0,1,0,2024-04-10
 RC527,live,saas,venatus,publisher pmp,venatus (undertone),0.12,run-time,0,0.88,0,2024-10-30
 RC527,live,saas,venatus-bidder,publisher pmp,venatus-bidder (undertone),0.12,run-time,0,0.7734,0,2024-04-10
 RC528,live,saas,grv media,publisher omp,grv media (rise),0.12,run-time,0,0.88,0,2024-10-09
+RC528,live,saas,guardian,publisher omp,rise,0.1,run-time,0,0.9,0,2025-06-24
 RC528,live,saas,mumsnet,publisher omp,mumsnet (rise),0.12,run-time,0,0.88,0,2024-10-14
 RC528,live,saas,snack media,publisher omp,snack media (rise),0.15,run-time,0,0.85,0,2024-10-14
 RC528,live,saas,standard,publisher omp,standard (rise),0.12,run-time,0,0.88,0,2024-05-31
@@ -4905,7 +4848,7 @@ RC530,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC530,live,saas,esi,publisher omp,esi (rthbhouse),0.12,run-time,0,0.88,0,2024-06-21
 RC530,live,saas,gravity,publisher omp,gravity (rthbhouse),0.2,eom,0,1,0,2024-06-21
 RC530,live,saas,grv media,publisher omp,grv media (rthbhouse),0.12,run-time,0,0.88,0,2024-06-21
-RC530,live,saas,guardian,publisher omp,guardian (rthbhouse),0.06,run-time,0,0.94,0,2024-06-21
+RC530,live,saas,guardian,publisher omp,rtbhouse,0.1,run-time,0,0.9,0,2025-06-24
 RC530,live,saas,huffington post,publisher omp,huffington post (rthbhouse),0.12,run-time,0,0.88,0,2024-06-21
 RC530,live,saas,lmc,publisher omp,lmc (rthbhouse),0,eom,0,1,0,2024-06-21
 RC530,live,saas,mumsnet,publisher omp,mumsnet (rthbhouse),0.12,run-time,0,0.88,0,2024-06-21
@@ -4929,7 +4872,6 @@ RC531,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC531,live,saas,esi,publisher pmp,esi (rthbhouse),0.12,run-time,0,0.88,0,2024-06-21
 RC531,live,saas,gravity,publisher pmp,gravity (rthbhouse),0.2,eom,0,1,0,2024-06-21
 RC531,live,saas,grv media,publisher pmp,grv media (rthbhouse),0.12,run-time,0,0.88,0,2024-06-21
-RC531,live,saas,guardian,publisher pmp,guardian (rthbhouse),0.06,run-time,0,0.94,0,2024-06-21
 RC531,live,saas,huffington post,publisher pmp,huffington post (rthbhouse),0.12,run-time,0,0.88,0,2024-06-21
 RC531,live,saas,lmc,publisher pmp,lmc (rthbhouse),0,eom,0,1,0,2024-06-21
 RC531,live,saas,mumsnet,publisher pmp,mumsnet (rthbhouse),0.12,run-time,0,0.88,0,2024-06-21
@@ -4958,7 +4900,6 @@ RC532,live,ozone,crazygames,ozone omp,inmobi,0.36,run-time,0,0.64,0,2025-02-07
 RC532,live,ozone,daily mail general trust,ozone omp,inmobi,0.1,run-time,0,0.9,0,2024-06-21
 RC532,live,ozone,esi,ozone omp,inmobi,0.1,run-time,0,0.9,0,2024-06-21
 RC532,live,ozone,grv media,ozone omp,inmobi,0.2,run-time,0,0.8,0,2024-10-30
-RC532,live,ozone,guardian,ozone omp,inmobi,0.4,run-time,0,0.6,0,2024-06-21
 RC532,live,ozone,gumtree,ozone omp,inmobi,0.35,run-time,0,0.65,0,2024-06-21
 RC532,live,ozone,huffington post,ozone omp,inmobi,0.1,run-time,0,0.9,0,2024-06-21
 RC532,live,ozone,lagardere,ozone omp,inmobi,0.2,eom,0,1,0,2024-06-21
@@ -4998,7 +4939,6 @@ RC533,live,ozone,crazygames,ozone pmp,inmobi,0.36,run-time,0,0.64,0,2025-02-07
 RC533,live,ozone,daily mail general trust,ozone pmp,inmobi,0.1,run-time,0,0.9,0,2024-06-21
 RC533,live,ozone,esi,ozone pmp,inmobi,0.1,run-time,0,0.9,0,2024-06-21
 RC533,live,ozone,grv media,ozone pmp,inmobi,0.2,run-time,0,0.8,0,2024-10-30
-RC533,live,ozone,guardian,ozone pmp,inmobi,0.4,run-time,0,0.6,0,2024-06-21
 RC533,live,ozone,gumtree,ozone pmp,inmobi,0.35,run-time,0,0.65,0,2024-06-21
 RC533,live,ozone,huffington post,ozone pmp,inmobi,0.1,run-time,0,0.9,0,2024-06-21
 RC533,live,ozone,lagardere,ozone pmp,inmobi,0.2,eom,0,1,0,2024-06-21
@@ -5026,13 +4966,12 @@ RC533,live,ozone,valnet,ozone pmp,inmobi,0.35,run-time,0,0.65,0,2024-08-30
 RC533,live,ozone,venatus,ozone pmp,inmobi,0.35,run-time,0,0.65,0,2024-06-21
 RC533,live,ozone,wall street journal,ozone pmp,inmobi,0.1,run-time,0,0.9,0,2024-06-21
 RC534,live,saas,deutsche welle,publisher omp,deutsche welle (magnite),0.12,eom,0,1,0,2024-09-30
-RC534,live,saas,guardian,publisher omp,guardian (magnite),0.06,run-time,0,0.94,0,2024-06-21
+RC534,live,saas,guardian,publisher omp,magnite,0.1,run-time,0,0.9,0,2025-06-24
 RC534,live,saas,planet sport,publisher omp,magnite,0.12,run-time,0,0.88,0,2025-02-18
 RC534,live,saas,standard,publisher omp,standard (magnite),0.12,run-time,0,0.88,0,2024-08-21
 RC534,live,saas,stylist,publisher omp,magnite,0.2,run-time,0,1,0,2025-06-17
 RC534,live,saas,wall street journal,publisher omp,wall street journal (magnite),0.12,run-time,0,0.88,0,2024-07-30
 RC535,live,saas,deutsche welle,publisher pmp,deutsche welle (magnite),0.12,eom,0,1,0,2024-09-30
-RC535,live,saas,guardian,publisher pmp,guardian (magnite),0.06,run-time,0,0.94,0,2024-06-21
 RC535,live,saas,planet sport,publisher pmp,magnite,0.12,run-time,0,0.88,0,2025-02-18
 RC535,live,saas,standard,publisher pmp,standard (magnite),0.12,run-time,0,0.88,0,2024-08-21
 RC535,live,saas,stylist,publisher pmp,magnite,0.9,run-time,0,1,0,2025-06-17
@@ -5043,16 +4982,19 @@ RC538,live,saas,standard,publisher omp,standard (openx),0.12,run-time,0,0.88,0,2
 RC539,live,saas,standard,publisher pmp,standard (openx),0.12,run-time,0,0.88,0,2024-07-10
 RC54,live,saas,dmgt,publisher omp,dmgt (index),0.35,run-time,0,0.65,,
 RC540,live,saas,deutsche welle,publisher omp,deutsche welle (index),0.12,eom,0,1,0,2024-09-30
+RC540,live,saas,guardian,publisher omp,index,0.1,run-time,0,0.9,0,2025-06-24
 RC540,live,saas,stylist,publisher omp,index,0.2,run-time,0,1,0,2025-06-17
 RC540,live,saas,wall street journal,publisher omp,wall street journal (index),0.12,run-time,0,0.88,0,2024-07-30
 RC541,live,saas,deutsche welle,publisher omp,deutsche welle (index),0.12,eom,0,1,0,2024-09-30
 RC541,live,saas,stylist,publisher pmp,index,0.9,run-time,0,1,0,2025-06-17
 RC541,live,saas,wall street journal,publisher pmp,wall street journal (index),0.12,run-time,0,0.88,0,2024-07-30
+RC542,live,saas,guardian,publisher omp,xandr,0.1,run-time,0,0.9,0,2025-06-24
 RC542,live,saas,stylist,publisher omp,xandr,0.2,run-time,0,1,0,2025-06-17
 RC542,live,saas,wall street journal,publisher omp,wall street journal (xandr),0.12,run-time,0,0.88,0,2024-07-30
 RC543,live,saas,stylist,publisher pmp,xandr,0.9,run-time,0,1,0,2025-06-17
 RC543,live,saas,wall street journal,publisher pmp,wall street journal (xandr),0.12,run-time,0,0.88,0,2024-07-30
 RC544,live,saas,deutsche welle,publisher omp,deutsche welle (pubmatic),0.12,eom,0,1,0,2024-09-30
+RC544,live,saas,guardian,publisher omp,pubmatic,0.1,run-time,0,0.9,0,2025-06-24
 RC544,live,saas,stylist,publisher omp,pubmatic,0.2,run-time,0,1,0,2025-06-17
 RC544,live,saas,wall street journal,publisher omp,wall street journal (pubmatic),0.12,run-time,0,0.88,0,2024-07-30
 RC545,live,saas,deutsche welle,publisher pmp,deutsche welle (pubmatic),0.12,eom,0,1,0,2024-09-30
@@ -5060,6 +5002,7 @@ RC545,live,saas,stylist,publisher pmp,pubmatic,0.9,run-time,0,1,0,2025-06-17
 RC545,live,saas,wall street journal,publisher pmp,wall street journal (pubmatic),0.12,run-time,0,0.88,0,2024-07-30
 RC546,live,saas,deutsche welle,publisher omp,deutsche welle (openx),0.12,eom,0,1,0,2024-09-30
 RC546,live,saas,fandom,publisher omp,openx,0.12,run-time,0,0.88,0,2025-05-19
+RC546,live,saas,guardian,publisher omp,openx,0.1,run-time,0,0.9,0,2025-06-24
 RC546,live,saas,new york post,publisher omp,new york post (openx),0,eom,0,1,0,2024-07-30
 RC546,live,saas,stylist,publisher omp,openx,0.2,run-time,0,1,0,2025-06-17
 RC546,live,saas,wall street journal,publisher omp,wall street journal (openx),0.12,run-time,0,0.88,0,2024-07-30
@@ -5083,7 +5026,6 @@ RC548,live,ozone,crazygames,ozone omp,rtbhouse,0.36,run-time,0,0.64,0,2025-02-07
 RC548,live,ozone,daily mail general trust,ozone omp,daily mail general trust (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
 RC548,live,ozone,fandom,ozone omp,fandom (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
 RC548,live,ozone,grv media,ozone omp,grv media (rtbhouse),0.2,run-time,0,0.8,0,2024-10-30
-RC548,live,ozone,guardian,ozone omp,guardian (rtbhouse),0.4,eom,0,1,0,2024-09-09
 RC548,live,ozone,gumtree,ozone omp,gumtree (rtbhouse),0.25,run-time,0,0.75,0,2024-09-09
 RC548,live,ozone,hello,ozone omp,hello (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
 RC548,live,ozone,huffington post,ozone omp,huffington post (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
@@ -5128,7 +5070,6 @@ RC549,live,ozone,daily mail general trust,ozone pmp,daily mail general trust (rt
 RC549,live,ozone,esi,ozone pmp,esi (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
 RC549,live,ozone,fandom,ozone pmp,fandom (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
 RC549,live,ozone,grv media,ozone pmp,grv media (rtbhouse),0.2,run-time,0,0.8,0,2024-10-30
-RC549,live,ozone,guardian,ozone pmp,guardian (rtbhouse),0.4,eom,0,1,0,2024-09-09
 RC549,live,ozone,gumtree,ozone omp,gumtree (rtbhouse),0.25,run-time,0,0.75,0,2024-09-09
 RC549,live,ozone,hello,ozone pmp,hello (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
 RC549,live,ozone,huffington post,ozone pmp,huffington post (rtbhouse),0.1,run-time,0,0.9,0,2024-09-09
@@ -5168,7 +5109,7 @@ RC550,live,saas,daily mail general trust,publisher omp,daily mail general trust 
 RC550,live,saas,esi,publisher omp,esi (sonobi),0.12,run-time,0,0.88,0,2024-10-07
 RC550,live,saas,gravity,publisher omp,gravity (sonobi),0.2,eom,0,1,0,2024-10-07
 RC550,live,saas,grv media,publisher omp,grv media (sonobi),0.12,run-time,0,0.88,0,2024-10-07
-RC550,live,saas,guardian,publisher omp,guardian (sonobi),0.06,run-time,0,0.94,0,2024-10-07
+RC550,live,saas,guardian,publisher omp,sonobi,0.1,run-time,0,0.9,0,2025-06-24
 RC550,live,saas,huffington post,publisher omp,huffington post (sonobi),0.12,run-time,0,0.88,0,2024-10-07
 RC550,live,saas,lmc,publisher omp,lmc (sonobi),0,eom,0,1,0,2024-10-07
 RC550,live,saas,mumsnet,publisher omp,mumsnet (sonobi),0.12,run-time,0,0.88,0,2024-10-07
@@ -5192,7 +5133,6 @@ RC551,live,saas,daily mail general trust,publisher pmp,daily mail general trust 
 RC551,live,saas,esi,publisher pmp,esi (sonobi),0.12,run-time,0,0.88,0,2024-10-07
 RC551,live,saas,gravity,publisher pmp,gravity (sonobi),0.2,eom,0,1,0,2024-10-07
 RC551,live,saas,grv media,publisher pmp,grv media (sonobi),0.12,run-time,0,0.88,0,2024-10-07
-RC551,live,saas,guardian,publisher pmp,guardian (sonobi),0.06,run-time,0,0.94,0,2024-10-07
 RC551,live,saas,huffington post,publisher pmp,huffington post (sonobi),0.12,run-time,0,0.88,0,2024-10-07
 RC551,live,saas,lmc,publisher pmp,lmc (sonobi),0,eom,0,1,0,2024-10-07
 RC551,live,saas,mumsnet,publisher pmp,mumsnet (sonobi),0.12,run-time,0,0.88,0,2024-10-07
@@ -5223,7 +5163,7 @@ RC552,live,ozone,daily mail general trust,marketplace,inventory only deals (publ
 RC552,live,ozone,esi,marketplace,inventory only deals (publicis),0.18,run-time,0,0.82,,2024-10-07
 RC552,live,ozone,fandom,marketplace,inventory only deals (publicis),0.18,run-time,0,0.82,0,2024-10-07
 RC552,live,ozone,grv media,marketplace,inventory only deals (publicis),0.2,run-time,0,0.8,0,2024-10-30
-RC552,live,ozone,guardian,marketplace,inventory only deals (publicis),0.4,run-time,0,0.6,,2024-10-07
+RC552,live,ozone,guardian,marketplace,inventory only deals (publicis),0.01,run-time,0,0.99,0,2025-06-24
 RC552,live,ozone,hello,marketplace,inventory only deals (publicis),0.18,run-time,0,0.82,,2024-10-07
 RC552,live,ozone,huffington post,marketplace,inventory only deals (publicis),0.18,run-time,0,0.82,,2024-10-07
 RC552,live,ozone,lagardere,marketplace,inventory only deals (publicis),0.2,eom,0,1,,2024-10-07
@@ -5261,7 +5201,7 @@ RC553,live,ozone,daily mail general trust,marketplace,inventory only marketplace
 RC553,live,ozone,esi,marketplace,inventory only marketplace (publicis),0.18,run-time,0,0.7544,0,2024-10-07
 RC553,live,ozone,fandom,marketplace,inventory only marketplace (publicis),0.18,run-time,0,0.754,0,2024-10-07
 RC553,live,ozone,grv media,marketplace,inventory only marketplace (publicis),0.2,run-time,0,0.8,0,2024-10-30
-RC553,live,ozone,guardian,marketplace,inventory only marketplace (publicis),0.4,run-time,0,0.552,0,2024-10-07
+RC553,live,ozone,guardian,marketplace,inventory only marketplace (publicis),0.01,run-time,0,0.99,0,2025-06-24
 RC553,live,ozone,hello,marketplace,inventory only marketplace (publicis),0.18,run-time,0,0.7544,0,2024-10-07
 RC553,live,ozone,huffington post,marketplace,inventory only marketplace (publicis),0.18,run-time,0,0.7544,0,2024-10-07
 RC553,live,ozone,mediahuis,marketplace,inventory only marketplace (publicis),0.18,run-time,0,0.754,0,2024-10-07
@@ -5288,6 +5228,7 @@ RC553,live,ozone,unwind,marketplace,inventory only marketplace (publicis),0.18,r
 RC553,live,ozone,venatus,marketplace,inventory only marketplace (publicis),0.35,run-time,0,0.598,0,2024-10-07
 RC553,live,ozone,wall street journal,marketplace,inventory only marketplace (publicis),0.18,run-time,0,0.754,0,2024-10-07
 RC554,live,ozone,bauer,publisher omp,client-side bidders,0.09,EOM,0,1,0,2024-11-01
+RC555,live,saas,guardian,publisher omp,Conversant,0.1,run-time,0,0.9,0,2025-06-24
 RC555,live,saas,news,publisher omp,news (conversant),0,eom,0,1,0,2024-11-29
 RC555,live,saas,stylist,publisher omp,Conversant,0.2,run-time,0,1,0,2025-06-17
 RC556,live,saas,news,publisher pmp,news (conversant),0,eom,0,1,0,2024-11-29
@@ -5308,7 +5249,6 @@ RC557,live,ozone,daily mail general trust,ozone omp,hawk,0.1,run-time,0,0.9,0,20
 RC557,live,ozone,esi,ozone omp,hawk,0.1,run-time,0,0.9,0,2025-01-23
 RC557,live,ozone,fandom,ozone omp,hawk,0.1,run-time,0,0.9,0,2025-01-23
 RC557,live,ozone,grv media,ozone omp,hawk,0.2,run-time,0,0.8,0,2025-01-23
-RC557,live,ozone,guardian,ozone omp,hawk,0.4,run-time,0,0.6,0,2025-01-23
 RC557,live,ozone,gumtree,ozone omp,hawk,0.35,run-time,0,0.65,0,2025-01-23
 RC557,live,ozone,huffington post,ozone omp,hawk,0.1,run-time,0,0.9,0,2025-01-23
 RC557,live,ozone,investing,ozone omp,hawk,0.35,run-time,0,0.65,0,2025-01-23
@@ -5355,7 +5295,6 @@ RC558,live,ozone,daily mail general trust,ozone pmp,hawk,0.1,run-time,0,0.9,0,20
 RC558,live,ozone,esi,ozone pmp,hawk,0.1,run-time,0,0.9,0,2025-01-23
 RC558,live,ozone,fandom,ozone pmp,hawk,0.1,run-time,0,0.9,0,2025-01-23
 RC558,live,ozone,grv media,ozone pmp,hawk,0.2,run-time,0,0.8,0,2025-01-23
-RC558,live,ozone,guardian,ozone pmp,hawk,0.4,run-time,0,0.6,0,2025-01-23
 RC558,live,ozone,gumtree,ozone pmp,hawk,0.35,run-time,0,0.65,0,2025-01-23
 RC558,live,ozone,huffington post,ozone pmp,hawk,0.1,run-time,0,0.9,0,2025-01-23
 RC558,live,ozone,investing,ozone pmp,hawk,0.35,run-time,0,0.65,0,2025-01-23
@@ -5397,7 +5336,7 @@ RC559,live,ozone,cnn,deals,audience deals (hawk),0.36,run-time,0.3,0.448,0,2025-
 RC559,live,ozone,daily mail general trust,deals,audience deals (hawk),0.36,run-time,0.3,0.448,0,2025-02-12
 RC559,live,ozone,esi,deals,audience deals (hawk),0.35,run-time,0.3,0.455,0,2025-02-12
 RC559,live,ozone,grv media,deals,audience deals (hawk),0.2,run-time,0.3,0.56,0,2025-02-12
-RC559,live,ozone,guardian,deals,audience deals (hawk),0.4,run-time,0.3,0.42,0,2025-02-12
+RC559,live,ozone,guardian,deals,audience deals (hawk),0.09,run-time,0.3,0.637,0,2025-06-24
 RC559,live,ozone,huffington post,deals,audience deals (hawk),0.35,run-time,0.3,0.455,0,2025-02-12
 RC559,live,ozone,mediahuis,deals,audience deals (hawk),0.36,run-time,0.3,0.448,0,2025-02-12
 RC559,live,ozone,mumsnet,deals,audience deals (hawk),0.35,run-time,0.3,0.455,0,2025-02-12
@@ -5433,7 +5372,7 @@ RC560,live,ozone,cnn,deals,inventory only deals (hawk),0.36,run-time,0,0.64,0,20
 RC560,live,ozone,daily mail general trust,deals,inventory only deals (hawk),0.36,run-time,0,0.64,0,2025-02-12
 RC560,live,ozone,esi,deals,inventory only deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
 RC560,live,ozone,grv media,deals,inventory only deals (hawk),0.2,run-time,0,0.8,0,2025-02-12
-RC560,live,ozone,guardian,deals,inventory only deals (hawk),0.4,run-time,0,0.6,0,2025-02-12
+RC560,live,ozone,guardian,deals,inventory only deals (hawk),0.09,run-time,0,0.91,0,2025-06-24
 RC560,live,ozone,huffington post,deals,inventory only deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
 RC560,live,ozone,mediahuis,deals,inventory only deals (hawk),0.36,run-time,0,0.64,0,2025-02-12
 RC560,live,ozone,mumsnet,deals,inventory only deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
@@ -5468,7 +5407,7 @@ RC561,live,ozone,cnn,deals,contextual deals (hawk),0.36,run-time,0,0.64,0,2025-0
 RC561,live,ozone,daily mail general trust,deals,contextual deals (hawk),0.36,run-time,0,0.64,0,2025-02-12
 RC561,live,ozone,esi,deals,contextual deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
 RC561,live,ozone,grv media,deals,contextual deals (hawk),0.2,run-time,0,0.8,0,2025-02-12
-RC561,live,ozone,guardian,deals,contextual deals (hawk),0.4,run-time,0,0.6,0,2025-02-12
+RC561,live,ozone,guardian,deals,contextual deals (hawk),0.09,run-time,0,0.91,0,2025-06-24
 RC561,live,ozone,huffington post,deals,contextual deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
 RC561,live,ozone,mediahuis,deals,contextual deals (hawk),0.36,run-time,0,0.64,0,2025-02-12
 RC561,live,ozone,mumsnet,deals,contextual deals (hawk),0.35,run-time,0,0.65,0,2025-02-12
@@ -5505,7 +5444,7 @@ RC562,live,ozone,dmgt,marketplace,marketplace (hawk),0.18,run-time,0,0.82,0,2025
 RC562,live,ozone,esi,marketplace,marketplace (hawk),0.18,run-time,0,0.82,0,2025-02-12
 RC562,live,ozone,fandom,marketplace,marketplace (hawk),0.18,run-time,0,0.82,0,2025-02-12
 RC562,live,ozone,grv media,marketplace,marketplace (hawk),0.2,run-time,0,0.8,0,2025-02-12
-RC562,live,ozone,guardian,marketplace,marketplace (hawk),0.4,run-time,0,0.6,0,2025-02-12
+RC562,live,ozone,guardian,marketplace,marketplace (hawk),0.01,run-time,0,0.99,0,2025-06-24
 RC562,live,ozone,gumtree,marketplace,marketplace (hawk),0.35,run-time,0,0.65,0,2025-02-12
 RC562,live,ozone,huffington post,marketplace,marketplace (hawk),0.18,run-time,0,0.82,0,2025-02-12
 RC562,live,ozone,mediahuis,marketplace,marketplace (hawk),0.18,run-time,0,0.82,0,2025-02-12
@@ -5548,7 +5487,7 @@ RC563,live,ozone,dmgt,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,20
 RC563,live,ozone,esi,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC563,live,ozone,fandom,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC563,live,ozone,grv media,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
-RC563,live,ozone,guardian,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
+RC563,live,ozone,guardian,deals,pubdeals brand (bidswitch),0.09,run-time,0,0.91,0,2025-06-24
 RC563,live,ozone,gumtree,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC563,live,ozone,hello,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC563,live,ozone,huffington post,deals,pubdeals brand (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
@@ -5592,7 +5531,7 @@ RC564,live,ozone,dmgt,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.8
 RC564,live,ozone,esi,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC564,live,ozone,fandom,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC564,live,ozone,grv media,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
-RC564,live,ozone,guardian,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
+RC564,live,ozone,guardian,deals,pubdeals performance (bidswitch),0.09,run-time,0,0.91,0,2025-06-24
 RC564,live,ozone,gumtree,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC564,live,ozone,hello,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC564,live,ozone,huffington post,deals,pubdeals performance (bidswitch),0.18,run-time,0,0.82,0,2025-04-02
@@ -5636,7 +5575,7 @@ RC565,live,ozone,dmgt,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2
 RC565,live,ozone,esi,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC565,live,ozone,fandom,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC565,live,ozone,grv media,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2025-04-02
-RC565,live,ozone,guardian,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2025-04-02
+RC565,live,ozone,guardian,deals,pubdeals context(bidswitch),0.09,run-time,0,0.91,0,2025-06-24
 RC565,live,ozone,gumtree,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC565,live,ozone,hello,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2025-04-02
 RC565,live,ozone,huffington post,deals,pubdeals context(bidswitch),0.18,run-time,0,0.82,0,2025-04-02
@@ -5694,7 +5633,7 @@ RC7,live,ozone,crazygames,deals,audience deals (xandr),0.36,run-time,0.3,0.448,0
 RC7,live,ozone,daily mail general trust,deals,audience deals (xandr),0.36,run-time,0.3,0.448,0,
 RC7,live,ozone,esi,deals,audience deals (xandr),0.35,run-time,0.3,0.455,0.1525,
 RC7,live,ozone,grv media,deals,audience deals (xandr),0.2,run-time,0.3,0.448,0,2024-11-07
-RC7,live,ozone,guardian,deals,audience deals (xandr),0.4,run-time,0.1,0.54,0.1463,
+RC7,live,ozone,guardian,deals,audience deals (xandr),0.09,run-time,0.3,0.637,0,2025-06-24
 RC7,live,ozone,hello,deals,audience deals (xandr),0.35,run-time,0.3,0.455,,
 RC7,live,ozone,huffington post,deals,audience deals (xandr),0.35,run-time,0.3,0.455,,
 RC7,live,ozone,mediahuis,deals,audience deals (xandr),0.36,run-time,0.3,0.448,0,2024-10-30
@@ -5744,7 +5683,7 @@ RC8,live,ozone,crazygames,deals,inventory only deals (xandr),0.36,run-time,0,0.6
 RC8,live,ozone,daily mail general trust,deals,inventory only deals (xandr),0.36,run-time,0,0.64,0,
 RC8,live,ozone,esi,deals,inventory only deals (xandr),0.35,run-time,0,0.82,,
 RC8,live,ozone,grv media,deals,inventory only deals (xandr),0.2,run-time,0,0.64,0,2024-11-07
-RC8,live,ozone,guardian,deals,inventory only deals (xandr),0.4,run-time,0,0.6,,
+RC8,live,ozone,guardian,deals,inventory only deals (xandr),0.09,run-time,0,0.91,0,2025-06-24
 RC8,live,ozone,hello,deals,inventory only deals (xandr),0.35,run-time,0,0.82,,
 RC8,live,ozone,huffington post,deals,inventory only deals (xandr),0.35,run-time,0,0.82,,
 RC8,live,ozone,mediahuis,deals,inventory only deals (xandr),0.36,run-time,0,0.64,0,2024-08-27
@@ -5794,7 +5733,7 @@ RC9,live,ozone,crazygames,deals,contextual deals (xandr),0.36,run-time,0,0.64,0,
 RC9,live,ozone,daily mail general trust,deals,contextual deals (xandr),0.36,run-time,0,0.64,0,
 RC9,live,ozone,esi,deals,contextual deals (xandr),0.35,run-time,0,0.82,,
 RC9,live,ozone,grv media,deals,contextual deals (xandr),0.2,run-time,0,0.64,0,2024-11-07
-RC9,live,ozone,guardian,deals,contextual deals (xandr),0.4,run-time,0,0.6,,
+RC9,live,ozone,guardian,deals,contextual deals (xandr),0.09,run-time,0,0.91,0,2025-06-24
 RC9,live,ozone,hello,deals,contextual deals (xandr),0.35,run-time,0,0.82,,
 RC9,live,ozone,huffington post,deals,contextual deals (xandr),0.35,run-time,0,0.82,,
 RC9,live,ozone,mediahuis,deals,contextual deals (xandr),0.36,run-time,0,0.64,0,2024-08-27
